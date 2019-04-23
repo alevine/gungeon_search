@@ -1,0 +1,2423 @@
+[
+  {
+    "name": "Master Round",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/0/0c/Master_Round_I.png?version=bb895b8c3bae3ff26944ee10a74cc459",
+    "type": "Passive",
+    "quote": "First Chamber",
+    "quality": ["N"],
+    "effect": "Grants a heart container.",
+    "link": "/Master_Round"
+  },
+  {
+    "name": "Master Round",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/1f/Master_Round_II.png?version=b074e5a32d9e28eaf301f6aa6b93cb8d",
+    "type": "Passive",
+    "quote": "Second Chamber",
+    "quality": ["N"],
+    "effect": "Grants a heart container.",
+    "link": "/Master_Round"
+  },
+  {
+    "name": "Master Round",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/2/21/Master_Round_III.png?version=a7c8566f373c8139245be07354d65024",
+    "type": "Passive",
+    "quote": "Third Chamber",
+    "quality": ["N"],
+    "effect": "Grants a heart container.",
+    "link": "/Master_Round"
+  },
+  {
+    "name": "Master Round",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/13/Master_Round_IV.png?version=366c75ba64029eee29204c3a2f5760c4",
+    "type": "Passive",
+    "quote": "Fourth Chamber",
+    "quality": ["N"],
+    "effect": "Grants a heart container.",
+    "link": "/Master_Round"
+  },
+  {
+    "name": "Master Round",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/e/e2/Master_Round_V.png?version=88a6a35edff41950b5979e0f2049ef10",
+    "type": "Passive",
+    "quote": "Fifth Chamber",
+    "quality": ["N"],
+    "effect": "Grants a heart container.",
+    "link": "/Master_Round"
+  },
+  {
+    "name": "Prime Primer",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/f8/Prime_Primer.png?version=73482840edbf285b84925a508dd7d2c4",
+    "type": "Passive",
+    "quote": "Old Magic",
+    "quality": ["N"],
+    "effect": "Ingredient for the Bullet That Can Kill The Past.",
+    "link": "/Prime_Primer"
+  },
+  {
+    "name": "Arcane Gunpowder",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/2/2c/Arcane_Gunpowder.png?version=865aef1b53127b05a4ba4428dbc8bed8",
+    "type": "Active",
+    "quote": "From The Deep",
+    "quality": ["N"],
+    "effect": "Ingredient for the Bullet That Can Kill The Past, cannot be used.",
+    "link": "/Arcane_Gunpowder"
+  },
+  {
+    "name": "Planar Lead",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/0/0e/Planar_Lead.png?version=fa001f972b7f7f63dd447f6daea60664",
+    "type": "Passive",
+    "quote": "Astral Slug",
+    "quality": ["N"],
+    "effect": "Ingredient for the Bullet That Can Kill The Past.",
+    "link": "/Planar_Lead"
+  },
+  {
+    "name": "Obsidian Shell Casing",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/0/00/Obsidian_Shell_Casing.png?version=12c6980d310086c71b96f07ac60fb874",
+    "type": "Passive",
+    "quote": "Indestructible",
+    "quality": ["N"],
+    "effect": "Ingredient for the Bullet That Can Kill The Past.",
+    "link": "/Obsidian_Shell_Casing"
+  },
+  {
+    "name": "Meatbun",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/e/e3/Meatbun.png?version=83031ed3be29d1cc32aea0771e32af2b",
+    "type": "Active",
+    "quote": "On A Roll",
+    "quality": ["D"],
+    "effect": "Single use. Heals the player for one heart. Grants double damage until the player takes damage.",
+    "link": "/Meatbun"
+  },
+  {
+    "name": "Medkit",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/0/0f/Medkit.png?version=4544d9f2821f833207794ceadab2124b",
+    "type": "Active",
+    "quote": "Heals",
+    "quality": ["C"],
+    "effect": "Single use. Heals the player for 4 hearts.",
+    "link": "/Medkit"
+  },
+  {
+    "name": "Ration",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/18/Ration.png?version=682162baa863a05a93cee5121b97eaae",
+    "type": "Active",
+    "quote": "Calories, Mate",
+    "quality": ["C"],
+    "effect": "Single use. Heals the player for two hearts. Automatically used if the player runs out of health.",
+    "link": "/Ration"
+  },
+  {
+    "name": "Orange",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/43/Orange.png?version=a5599edb31ae8aae3754e87180f74542",
+    "type": "Active",
+    "quote": "You're Not Alexander",
+    "quality": ["B"],
+    "effect": "Single use. Fully heals the player, grants a heart container, and increases coolness by 2.",
+    "link": "/Orange"
+  },
+  {
+    "name": "Friendship Cookie",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/e/ea/Friendship_Cookie.png?version=d31eb8cf047783499ea9ed1e23ec1a01",
+    "type": "Active",
+    "quote": "It's Delicious",
+    "quality": ["N"],
+    "effect": "Single use. Resurrects your co-op partner with full health.",
+    "link": "/Friendship_Cookie"
+  },
+  {
+    "name": "Bottle",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/5d/Bottle.png?version=c7ede0cacb48420153fede062988111a",
+    "type": "Active",
+    "quote": "Heart Container",
+    "quality": ["D"],
+    "effect": "Holds hearts or ammo for use later.",
+    "link": "/Bottle"
+  },
+  {
+    "name": "Bomb",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/3b/Bomb.png?version=e93432e0b72e5d920a3f8005238c66bf",
+    "type": "Active",
+    "quote": "Use For Boom",
+    "quality": ["D"],
+    "effect": "Throws a bomb that explodes after a short delay.",
+    "link": "/Bomb"
+  },
+  {
+    "name": "Ice Bomb",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/de/Ice_Bomb.png?version=8e42154a526e768b005a8dc10bd3082d",
+    "type": "Active",
+    "quote": "Cool It!",
+    "quality": ["D"],
+    "effect": "Throws a bomb that freezes enemies.",
+    "link": "/Ice_Bomb"
+  },
+  {
+    "name": "Chaff Grenade",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/a0/Chaff_Grenade.png?version=69fa7cad6cb731e0a2bb145d460eb877",
+    "type": "Active",
+    "quote": "Dazed And Confused",
+    "quality": ["C"],
+    "effect": "Stuns enemies. Can be used to steal items from shops.",
+    "link": "/Chaff_Grenade"
+  },
+  {
+    "name": "Proximity Mine",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/33/Proximity_Mine.png?version=776d8e8b36848236c409110f2d1bba96",
+    "type": "Active",
+    "quote": "Use To Place",
+    "quality": ["D"],
+    "effect": "Places a mine that explodes when an enemy comes near it.",
+    "link": "/Proximity_Mine"
+  },
+  {
+    "name": "Cluster Mine",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/6/67/Cluster_Mine.png?version=8dd19fe2eaeb89d6cbda2f330ef0700e",
+    "type": "Active",
+    "quote": "Area Hazard",
+    "quality": ["C"],
+    "effect": "Places 5 small mines that explode when an enemy comes into contact with them.",
+    "link": "/Cluster_Mine"
+  },
+  {
+    "name": "C4",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/c/c9/C4_%28Item%29.png?version=999f4cff37c2ad62daf74ac30ddf6c56",
+    "type": "Active",
+    "quote": "Stick Boom",
+    "quality": ["D"],
+    "effect": "Places explosives on the ground which then can be detonated by using the item again.",
+    "link": "/C4"
+  },
+  {
+    "name": "Weird Egg",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/95/Weird_Egg.png?version=48cf4aa74125929a5f190cd284c1dea3",
+    "type": "Active",
+    "quote": "Miracle of Gun",
+    "quality": ["D"],
+    "effect": "Using the egg while missing health fully heals the player. Dropping the egg and shooting it spawns a gun, item, or yolk creature. Dropping the egg into fire spawns a serpent.",
+    "link": "/Weird_Egg"
+  },
+  {
+    "name": "Molotov",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/5b/Molotov.png?version=e5edb4196f2b4bb788c12fb1100cac89",
+    "type": "Active",
+    "quote": "Feel The Burn",
+    "quality": ["D"],
+    "effect": "Throws a Molotov that sets an area on fire.",
+    "link": "/Molotov"
+  },
+  {
+    "name": "Air Strike",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/a2/Air_Strike.png?version=766b9b48d33e3f5232a0bff7746e9465",
+    "type": "Active",
+    "quote": "Superior!",
+    "quality": ["B"],
+    "effect": "Calls down a bombardment on a large rectangular area.",
+    "link": "/Air_Strike"
+  },
+  {
+    "name": "Napalm Strike",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/19/Napalm_Strike.png?version=10c1ba9c5a8a0b49f1d3921ab7b54d56",
+    "type": "Active",
+    "quote": "Smells Great!",
+    "quality": ["B"],
+    "effect": "Sets a large rectangular area on fire.",
+    "link": "/Napalm_Strike"
+  },
+  {
+    "name": "Big Boy",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/7/7b/Big_Boy.png?version=9f2a782838745b4f58a889732a185fcc",
+    "type": "Active",
+    "quote": "Set The World On Fire",
+    "quality": ["B"],
+    "effect": "Calls down a missile at the crosshair, causing a large explosion that leaves behind a large pool of poison creep. Increases curse by 1 while held.",
+    "link": "/Big_Boy"
+  },
+  {
+    "name": "Roll Bomb",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/50/Roll_Bomb.png?version=e3bd6492a11941a256061c0c0dbdb644",
+    "type": "Passive",
+    "quote": "Power Charge",
+    "quality": ["C"],
+    "effect": "Dodge rolling leaves behind a bomb.",
+    "link": "/Roll_Bomb"
+  },
+  {
+    "name": "iBomb Companion App",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/c/cb/IBomb_Companion_App.png?version=48a5d30ceb0348ef7ddfb0ea13245bb0",
+    "type": "Active",
+    "quote": "One For That",
+    "quality": ["C"],
+    "effect": "Detonates all explosives and explosive enemies in the room.",
+    "link": "/IBomb_Companion_App"
+  },
+  {
+    "name": "Supply Drop",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/af/Supply_Drop.png?version=56eb782e2a9fc163554809b93d5d396d",
+    "type": "Active",
+    "quote": "I Need Mags!",
+    "quality": ["D"],
+    "effect": "Single use. Spawns ammo box.",
+    "link": "/Supply_Drop"
+  },
+  {
+    "name": "Ammo Synthesizer",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/c/c9/Ammo_Synthesizer.png?version=def2fc84b5df052552f55ceff7264781",
+    "type": "Passive",
+    "quote": "Ammo Chance On Kills",
+    "quality": ["D"],
+    "effect": "Adds a chance to regain ammo upon killing an enemy.",
+    "link": "/Ammo_Synthesizer"
+  },
+  {
+    "name": "Armor Synthesizer",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/d3/Armor_Synthesizer.png?version=eb07e7de50fb7df728ecb4288879b859",
+    "type": "Passive",
+    "quote": "Play Well, Get Armor",
+    "quality": ["A"],
+    "effect": "Adds a chance to get armor upon completing a room.",
+    "link": "/Armor_Synthesizer"
+  },
+  {
+    "name": "Heart Synthesizer",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/0/01/Heart_Synthesizer.png?version=dd67aa195979156331fbc5bf56569757",
+    "type": "Passive",
+    "quote": "Play Well, Get Hearts",
+    "quality": ["A"],
+    "effect": "Adds a chance to get hearts upon completing a room.",
+    "link": "/Heart_Synthesizer"
+  },
+  {
+    "name": "Master of Unlocking",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/37/Master_of_Unlocking.png?version=ff6b57d9e8107c0ff1eb34368afd9295",
+    "type": "Passive",
+    "quote": "Play Well, Get Keys",
+    "quality": ["B"],
+    "effect": "Adds a chance to get keys upon completing rooms.",
+    "link": "/Master_of_Unlocking"
+  },
+  {
+    "name": "Utility Belt",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/bd/Utility_Belt.png?version=8f56c6bb5989c41744c163c8d42e22e5",
+    "type": "Passive",
+    "quote": "All Capacity Up!",
+    "quality": ["C"],
+    "effect": "Grants an extra active item slot and increases maximum ammo by 20%.",
+    "link": "/Utility_Belt"
+  },
+  {
+    "name": "Macho Brace",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/9a/Macho_Brace.png?version=da72518212a6240141ddda881ddaf4ce",
+    "type": "Passive",
+    "quote": "Value For Effort",
+    "quality": ["C"],
+    "effect": "Shots are more powerful when coming out of a dodge roll.",
+    "link": "/Macho_Brace"
+  },
+  {
+    "name": "Hidden Compartment",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/41/Hidden_Compartment.png?version=2d862d3dd2c61fb01122cb5c2dfef88e",
+    "type": "Passive",
+    "quote": "Extra Space",
+    "quality": ["N"],
+    "effect": "Grants an extra active item slot and increased maximum ammo by 10%.",
+    "link": "/Hidden_Compartment"
+  },
+  {
+    "name": "Backpack",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/b1/Backpack.png?version=7eb404eaaa0821837a7eef4ce4241271",
+    "type": "Passive",
+    "quote": "Item Capacity Up!",
+    "quality": ["D"],
+    "effect": "Allows the player to hold an extra active item.",
+    "link": "/Backpack"
+  },
+  {
+    "name": "Loot Bag",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/86/Loot_Bag.png?version=b905eece93459064b37f2cd909909d3d",
+    "type": "Passive",
+    "quote": "Doesn't Float",
+    "quality": ["C"],
+    "effect": "Enemies drop more money, but the player drops money upon taking damage. Selling other items to the Sell Creep grants twice as much money.",
+    "link": "/Loot_Bag"
+  },
+  {
+    "name": "Drill",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/88/Drill.png?version=27a6f1c4317e6e189afcd28da5f8a022",
+    "type": "Active",
+    "quote": "Sawgeant",
+    "quality": ["D"],
+    "effect": "If used on a locked chest, forces the player to fight two waves of enemies and unlocks the chest if they survive. If used on a locked door, opens it for free.",
+    "link": "/Drill"
+  },
+  {
+    "name": "Clown Mask",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/df/Clown_Mask.png?version=b6191428a652af425d3f449fac4050b8",
+    "type": "Passive",
+    "quote": "Anonymity Aid",
+    "quality": ["B"],
+    "effect": "Summons a random familiar with a clown mask who either stuns enemies, protects the player with mini blanks, or attacks enemies with a shotgun. An additional familiar is spawned for each additional Payday item the player has.",
+    "link": "/Clown_Mask"
+  },
+  {
+    "name": "Scope",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/7/74/Scope.png?version=90e7f898e79bb88e8ddd612d8aaf5031",
+    "type": "Passive",
+    "quote": "Steady Aim",
+    "quality": ["D"],
+    "effect": "Decreases bullet spread by 60%.",
+    "link": "/Scope"
+  },
+  {
+    "name": "Scouter",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/fb/Scouter.png?version=d031bbdeb953b7fe1b3e99cf0c2e2ab5",
+    "type": "Passive",
+    "quote": "Quality Assured",
+    "quality": ["C"],
+    "effect": "Shows enemy health and damage done. Increases damage and accuracy. Increases curse by 1.",
+    "link": "/Scouter"
+  },
+  {
+    "name": "Laser Sight",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/9e/Laser_Sight.png?version=4575b017b38cc8a765f8ac020f89e0af",
+    "type": "Passive",
+    "quote": "King Of The Dot",
+    "quality": ["C"],
+    "effect": "Decreases bullet spread by 50% and adds a red laser sight to the player's weapons.",
+    "link": "/Laser_Sight"
+  },
+  {
+    "name": "Ammo Belt",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/fc/Ammo_Belt.png?version=4853c33f9fbd131100c6d6e261d00e19",
+    "type": "Passive",
+    "quote": "Ammo Capacity Up!",
+    "quality": ["D"],
+    "effect": "Increases maximum ammo by 20%.",
+    "link": "/Ammo_Belt"
+  },
+  {
+    "name": "Bullet Time",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/bd/Bullet_Time.png?version=39b928d4e67da4544e4a387928469468",
+    "type": "Active",
+    "quote": "Dodge This",
+    "quality": ["D"],
+    "effect": "Slows down time while active.",
+    "link": "/Bullet_Time"
+  },
+  {
+    "name": "Aged Bell",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/c/c5/Aged_Bell.png?version=64391352f813be3c608b085e82805182",
+    "type": "Active",
+    "quote": "Lacuna",
+    "quality": ["A"],
+    "effect": "Briefly stops enemies and enemy bullets. Can be used to steal from shops.",
+    "link": "/Aged_Bell"
+  },
+  {
+    "name": "Singularity",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/d0/Singularity.png?version=9d4d50028a86ea0ff87a5855b483d572",
+    "type": "Active",
+    "quote": "Sucks",
+    "quality": ["C"],
+    "effect": "Spawns a black hole that attracts enemies and bullets.",
+    "link": "/Singularity"
+  },
+  {
+    "name": "Decoy",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/bb/Decoy.png?version=263e1f6712c5b03dbfa08e3530437a32",
+    "type": "Active",
+    "quote": "Get Him!",
+    "quality": ["D"],
+    "effect": "Places a decoy that enemies will target. The decoy will be destroyed after taking enough damage. Can be used to steal from shops.",
+    "link": "/Decoy"
+  },
+  {
+    "name": "Shadow Clone",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/7/7b/Shadow_Clone.png?version=6646c1d654e14c972993c75840d39d5f",
+    "type": "Active",
+    "quote": "No Jutsu",
+    "quality": ["D"],
+    "effect": "Creates a copy of the player that mimics their movements in reverse and fires alongside them.",
+    "link": "/Shadow_Clone"
+  },
+  {
+    "name": "Explosive Decoy",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/32/Explosive_Decoy.png?version=58a8bbbd9f2003187d59c4f85bd68953",
+    "type": "Active",
+    "quote": "KABOOM!",
+    "quality": ["C"],
+    "effect": "Places a decoy that enemies will target. The decoy will explode after taking enough damage. Can be used to steal from shops.",
+    "link": "/Explosive_Decoy"
+  },
+  {
+    "name": "Melted Rock",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/a6/Melted_Rock.png?version=9d9a1788d9550286ada6a0b5ed113b09",
+    "type": "Active",
+    "quote": "Corpses Explode",
+    "quality": ["C"],
+    "effect": "Causes enemy corpses to explode on use.",
+    "link": "/Melted_Rock"
+  },
+  {
+    "name": "Trusty Lockpicks",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/6/6c/Trusty_Lockpicks.png?version=ba88c2d0c84f99ebc855497a00e50561",
+    "type": "Active",
+    "quote": "Who Needs Keys?",
+    "quality": ["D"],
+    "effect": "Has a 50% chance to unlock a lock or locked chest. If it fails, the lock will no longer function.",
+    "link": "/Trusty_Lockpicks"
+  },
+  {
+    "name": "Smoke Bomb",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/e/eb/Smoke_Bomb.png?version=2415c4833fba281d194d288dcbed40f3",
+    "type": "Active",
+    "quote": "Vanish!",
+    "quality": ["C"],
+    "effect": "Temporarily become invisible to enemies. Can be used to steal from the Shop.",
+    "link": "/Smoke_Bomb"
+  },
+  {
+    "name": "Box",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/2/2b/Box.png?version=d78868eb602eda71f003c4a24f7cc9f3",
+    "type": "Active",
+    "quote": "Just A Box",
+    "quality": ["A"],
+    "effect": "If the player enters a room while under the box, enemies will not target the player. Firing a weapon will remove the box. Has no effect if used while enemies are already targeting the player. Can be used to steal items from shops.",
+    "link": "/Box"
+  },
+  {
+    "name": "Fortune's Favor",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/9a/Fortune%27s_Favor.png?version=15afa27e1512c2c0e28f8532561261d0",
+    "type": "Active",
+    "quote": "Use For Luck",
+    "quality": ["B"],
+    "effect": "While active, bullets will curve around the player.",
+    "link": "/Fortune%27s_Favor"
+  },
+  {
+    "name": "Jar of Bees",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/e/e1/Jar_of_Bees.png?version=a527cef410d2e69454f5f3a8ff543897",
+    "type": "Active",
+    "quote": "The Pain!",
+    "quality": ["C"],
+    "effect": "Spawns bees that home in on and damage enemies.",
+    "link": "/Jar_of_Bees"
+  },
+  {
+    "name": "Potion of Lead Skin",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/bb/Potion_of_Lead_Skin.png?version=0130282fbfb7d8e9671f826c20ac7618",
+    "type": "Active",
+    "quote": "I'm Invincible!",
+    "quality": ["D"],
+    "effect": "While active, the player reflects enemy bullets.",
+    "link": "/Potion_of_Lead_Skin"
+  },
+  {
+    "name": "Double Vision",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/58/Double_Vision.png?version=1a992ad21954af3e34598a139637f172",
+    "type": "Active",
+    "quote": "One For Each Of You",
+    "quality": ["D"],
+    "effect": "While active, doubles the player's bullets.",
+    "link": "/Double_Vision"
+  },
+  {
+    "name": "Chest Teleporter",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/80/Chest_Teleporter.png?version=2c81fbfacb389ae06db5f1b6b6bf6801",
+    "type": "Active",
+    "quote": "Zap",
+    "quality": ["A"],
+    "effect": "Teleports a chest to the next floor, with a chance to upgrade its quality.",
+    "link": "/Chest_Teleporter"
+  },
+  {
+    "name": "Relodestone",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/4d/Relodestone.png?version=ac25915f3fb2b26f5246b31475cadc45",
+    "type": "Active",
+    "quote": "Magunetic North",
+    "quality": ["S"],
+    "effect": "Halves reload times. While active, the player absorbs enemy bullets and regains ammo.",
+    "link": "/Relodestone"
+  },
+  {
+    "name": "Poison Vial",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/49/Poison_Vial.png?version=37ec29e2acfb21ab4c9c0101069d6ba6",
+    "type": "Active",
+    "quote": "For External Use Only",
+    "quality": ["D"],
+    "effect": "Creates a pool of poison creep.",
+    "link": "/Poison_Vial"
+  },
+  {
+    "name": "Potion of Gun Friendship",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/37/Potion_of_Gun_Friendship.png?version=b4e3a81a5b4da3c0e40cbf562450b896",
+    "type": "Active",
+    "quote": "Temporary +1 To Gun",
+    "quality": ["D"],
+    "effect": "While active, increases damage, fire rate, knockback, and reload speed.",
+    "link": "/Potion_of_Gun_Friendship"
+  },
+  {
+    "name": "Portable Turret",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/a6/Portable_Turret.png?version=6a52f56386abed2592bb469797accc14",
+    "type": "Active",
+    "quote": "Some Assembly Required",
+    "quality": ["B"],
+    "effect": "Places a stationary turret that shoots at enemies. The turret will be destroyed if it takes enough damage.",
+    "link": "/Portable_Turret"
+  },
+  {
+    "name": "Knife Shield",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/8a/Knife_Shield.png?version=0f1fe529362e986838cd64595c4870df",
+    "type": "Active",
+    "quote": "Use Again To Launch!",
+    "quality": ["D"],
+    "effect": "Creates a ring of knives around the player that damage enemies and block enemy bullets. Knives vanish after taking enough damage. If used again while the shield is active, the knives are launched forward. Increases curse by 1 while held.",
+    "link": "/Knife_Shield"
+  },
+  {
+    "name": "Grappling Hook",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/3d/Grappling_Hook.png?version=ada7ec457f6d645ca9c21407f24d3789",
+    "type": "Active",
+    "quote": "Rapid Transit",
+    "quality": ["D"],
+    "effect": "Allows players to hook onto and then pull themselves towards walls at a fast speed. Hitting enemies with the hook will deal minor damage and stun them for a short duration. Allows players to steal items from the shop. The hook has an unlimited range.",
+    "link": "/Grappling_Hook"
+  },
+  {
+    "name": "Stuffed Star",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/f7/Stuffed_Star.png?version=4ac7de5f0635c25d920233fc95832190",
+    "type": "Active",
+    "quote": "Protective Plush",
+    "quality": ["B"],
+    "effect": "While active, the player is invincible.",
+    "link": "/Stuffed_Star"
+  },
+  {
+    "name": "Boomerang",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/7/7c/Boomerang.png?version=71fd16dbdc24a1f3cddb3655d288a310",
+    "type": "Active",
+    "quote": "Usually Comes Back",
+    "quality": ["B"],
+    "effect": "Throws a boomerang that travels around the room and stuns enemies.",
+    "link": "/Boomerang"
+  },
+  {
+    "name": "Shield of the Maiden",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/c/c6/Shield_of_the_Maiden.png?version=b6422eef0ee9d3e602669218df52d6e9",
+    "type": "Active",
+    "quote": "Block And Load",
+    "quality": ["C"],
+    "effect": "Pulls up a shield to protect players from bullets. Players are immobile while using the shield.",
+    "link": "/Shield_of_the_Maiden"
+  },
+  {
+    "name": "Crisis Stone",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/49/Crisis_Stone.png?version=7548fcec98b642966da9878a609a9b2c",
+    "type": "Passive",
+    "quote": "Reload. Reload. Reload.",
+    "quality": ["A"],
+    "effect": "The player is invulnerable while reloading an empty magazine.",
+    "link": "/Crisis_Stone"
+  },
+  {
+    "name": "Portable Table Device",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/35/Portable_Table_Device.png?version=84e8edc08423f00d442f62f8f9a92c2a",
+    "type": "Active",
+    "quote": "Know When To Fold 'Em",
+    "quality": ["D"],
+    "effect": "Spawns a small table that can be flipped.",
+    "link": "/Portable_Table_Device"
+  },
+  {
+    "name": "Daruma",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/2/2a/Daruma.png?version=0bd1cdb50836178341c9a53c1e804f5c",
+    "type": "Active",
+    "quote": "Good Fortune",
+    "quality": ["B"],
+    "effect": "Can be used immediately after dodging a bullet to activate a blank effect.",
+    "link": "/Daruma"
+  },
+  {
+    "name": "Partially-Eaten Cheese",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/6/6e/Partially-Eaten_Cheese.png?version=1a48022f59a05f5dc310acc171f80c15",
+    "type": "Active",
+    "quote": "Aged Almost 40 Years",
+    "quality": ["A"],
+    "effect": "While active, the player is invincible and instantly kills enemies they come in contact with.",
+    "link": "/Partially-Eaten_Cheese"
+  },
+  {
+    "name": "+1 Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/f1/-1_Bullets.png?version=e31f9517da50c5367095007bbb2aa04e",
+    "type": "Passive",
+    "quote": "+1 To Bullet",
+    "quality": ["C"],
+    "effect": "Increases damage by 25%.",
+    "link": "/%2B1_Bullets"
+  },
+  {
+    "name": "Rocket-Powered Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/0/03/Rocket-Powered_Bullets.png?version=1e3fe38f0072732b6f9a95a41c565665",
+    "type": "Passive",
+    "quote": "Faster Bullets",
+    "quality": ["B"],
+    "effect": "Increases the player's bullet speed by 50%, increases damage by 10%, and increases rate of fire by 10%.",
+    "link": "/Rocket-Powered_Bullets"
+  },
+  {
+    "name": "Shock Rounds",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/9a/Shock_Rounds.png?version=84a60aaaa0a18305cd1facc97331c1e9",
+    "type": "Passive",
+    "quote": "Electrified!",
+    "quality": ["A"],
+    "effect": "Creates a beam of electricity between fired bullets.",
+    "link": "/Shock_Rounds"
+  },
+  {
+    "name": "Devolver Rounds",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/1c/Devolver_Rounds.png?version=c3e8885128b9525b22c8d54019bfd654",
+    "type": "Passive",
+    "quote": "Two Steps Back",
+    "quality": ["B"],
+    "effect": "Bullets have a chance to devolve enemies into simpler enemies.",
+    "link": "/Devolver_Rounds"
+  },
+  {
+    "name": "Vorpal Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/2/2a/Vorpal_Bullets.png?version=e99477e235d920f9293858fb30f773bf",
+    "type": "Passive",
+    "quote": "Through and Through",
+    "quality": ["A"],
+    "effect": "Whenever the player fires, occasionally fires a special high-damage bullet.",
+    "link": "/Vorpal_Bullets"
+  },
+  {
+    "name": "Katana Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/ae/Katana_Bullets.png?version=3f997586a7c9138e6e197c2d8ef40099",
+    "type": "Passive",
+    "quote": "Folded Lead",
+    "quality": ["C"],
+    "effect": "Upon killing an enemy, bullets have a chance to unleash a flurry of slashes along the path of the original bullet, damaging enemies. Increases curse by 1.",
+    "link": "/Katana_Bullets"
+  },
+  {
+    "name": "Hungry Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/ff/Hungry_Bullets.png?version=e327538e22185f8b0e407be318a53881",
+    "type": "Passive",
+    "quote": "Hungry Hungry",
+    "quality": ["A"],
+    "effect": "Adds a chance for the player's bullets to block enemy projectiles.",
+    "link": "/Hungry_Bullets"
+  },
+  {
+    "name": "Heavy Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/7/71/Heavy_Bullets.png?version=d923d5f37ed601ed7a79745df317776a",
+    "type": "Passive",
+    "quote": "Thunk!",
+    "quality": ["C"],
+    "effect": "Increases damage by 25% and doubles knockback but halves bullet speed.",
+    "link": "/Heavy_Bullets"
+  },
+  {
+    "name": "Bouncy Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/e/e1/Bouncy_Bullets.png?version=db8d9880307f0c0a3c42026921ae69fa",
+    "type": "Passive",
+    "quote": "Boiyoiyoing!",
+    "quality": ["C"],
+    "effect": "Grants bullets the ability to bounce off objects.",
+    "link": "/Bouncy_Bullets"
+  },
+  {
+    "name": "Explosive Rounds",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/5f/Explosive_Rounds.png?version=c41162646d387a3e120a35ca6b5a5768",
+    "type": "Passive",
+    "quote": "Mega Blast",
+    "quality": ["A"],
+    "effect": "Adds a chance to fire bullets that explode upon hitting an enemy or object.",
+    "link": "/Explosive_Rounds"
+  },
+  {
+    "name": "Ghost Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/f9/Ghost_Bullets.png?version=2578459b32a9a83fd2e5366f11fcd415",
+    "type": "Passive",
+    "quote": "Shoot Through",
+    "quality": ["C"],
+    "effect": "Bullets pass through enemies and obstacles.",
+    "link": "/Ghost_Bullets"
+  },
+  {
+    "name": "Alpha Bullet",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/91/Alpha_Bullet.png?version=4901d30e66c4968d328f46976f79c9b6",
+    "type": "Passive",
+    "quote": "First!",
+    "quality": ["A"],
+    "effect": "The first shot of a weapon's magazine will deal 80% more damage.",
+    "link": "/Alpha_Bullet"
+  },
+  {
+    "name": "Omega Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/4c/Omega_Bullets.png?version=0eab4d629702467d2b33a8d8e7f87c35",
+    "type": "Passive",
+    "quote": "Last!",
+    "quality": ["A"],
+    "effect": "The final shot of each magazine deals double damage.",
+    "link": "/Omega_Bullets"
+  },
+  {
+    "name": "Scattershot",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/6/6f/Scattershot.png?version=012c095d67436a71cf0f1b2e9f5e20cd",
+    "type": "Passive",
+    "quote": "Quantity Over Quality",
+    "quality": ["B"],
+    "effect": "Guns fire a spread of tripled bullets which deal less damage.",
+    "link": "/Scattershot"
+  },
+  {
+    "name": "Irradiated Lead",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/3b/Irradiated_Lead.png?version=5aebe316b36877e926c6863f387ce838",
+    "type": "Passive",
+    "quote": "Poison Shot",
+    "quality": ["B"],
+    "effect": "Adds a chance to fire bullets that poison enemies.",
+    "link": "/Irradiated_Lead"
+  },
+  {
+    "name": "Hot Lead",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/bd/Hot_Lead.png?version=265a33506cee65d52f9d6fb643cf15b4",
+    "type": "Passive",
+    "quote": "Chance To Ignite",
+    "quality": ["B"],
+    "effect": "Adds a chance to fire bullets that ignite enemies.",
+    "link": "/Hot_Lead"
+  },
+  {
+    "name": "Battery Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/33/Battery_Bullets.png?version=c0674089112cb3e9f0dbe35dbb1db13c",
+    "type": "Passive",
+    "quote": "Zap!",
+    "quality": ["D"],
+    "effect": "Causes water that bullets pass over to become electrified, damaging enemies. Decreases shot spread by 50%.",
+    "link": "/Battery_Bullets"
+  },
+  {
+    "name": "Frost Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/c/ce/Frost_Bullets.png?version=2b8a9d36c1c7566e26db9495a3388d90",
+    "type": "Passive",
+    "quote": "Icy Fire",
+    "quality": ["A"],
+    "effect": "Adds a chance to fire bullets that freeze enemies.",
+    "link": "/Frost_Bullets"
+  },
+  {
+    "name": "Charming Rounds",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/a0/Charming_Rounds.png?version=4712db696dd9b38dd57a9e9389095962",
+    "type": "Passive",
+    "quote": "Made With Love",
+    "quality": ["B"],
+    "effect": "Adds a chance to fire bullets that charm enemies.",
+    "link": "/Charming_Rounds"
+  },
+  {
+    "name": "Magic Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/aa/Magic_Bullets.png?version=2018af7e15fa21815bb4dac5828fe260",
+    "type": "Passive",
+    "quote": "Sufficiently Advanced",
+    "quality": ["B"],
+    "effect": "Grants all of the player's bullets a small chance to transmogrify enemies into chickens.",
+    "link": "/Magic_Bullets"
+  },
+  {
+    "name": "Fat Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/41/Fat_Bullets.png?version=bf5e5d1aba88f7117c0f3a5eae6546ea",
+    "type": "Passive",
+    "quote": "Fatter = Stronger",
+    "quality": ["A"],
+    "effect": "Doubles bullet size and knockback, increases damage by 30%, and decreases maximum ammo by 10%.",
+    "link": "/Fat_Bullets"
+  },
+  {
+    "name": "Angry Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/da/Angry_Bullets.png?version=0de3b85bb23751a61e399eb344a3a438",
+    "type": "Passive",
+    "quote": "Hungry For More",
+    "quality": ["C"],
+    "effect": "Hitting an enemy refires the projectile at a nearby enemy.",
+    "link": "/Angry_Bullets"
+  },
+  {
+    "name": "Blank Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/81/Blank_Bullets.png?version=98fe74370120d6c0e6917a3d9336b3c3",
+    "type": "Passive",
+    "quote": "The Best Defense...",
+    "quality": ["S"],
+    "effect": "Projectile impacts can trigger a short range blank. Increases curse by 1.5.",
+    "link": "/Blank_Bullets"
+  },
+  {
+    "name": "Orbital Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/19/Orbital_Bullets.png?version=5c854cfeab8d780ba06a63ac68af79b3",
+    "type": "Passive",
+    "quote": "Deadly Revolution",
+    "quality": ["A"],
+    "effect": "Missed shots orbit the player.",
+    "link": "/Orbital_Bullets"
+  },
+  {
+    "name": "Homing Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/3d/Homing_Bullets.png?version=4601df3ebe55e074760baff686b4ad25",
+    "type": "Passive",
+    "quote": "Fire And Forget",
+    "quality": ["B"],
+    "effect": "Bullets have a chance to home in on enemies.",
+    "link": "/Homing_Bullets"
+  },
+  {
+    "name": "Shadow Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/d1/Shadow_Bullets.png?version=24d98e7d4e0b3b306275564ccec6e4a5",
+    "type": "Passive",
+    "quote": "Double Tap",
+    "quality": ["B"],
+    "effect": "Firing a weapon has a chance to fire an additional projectile.",
+    "link": "/Shadow_Bullets"
+  },
+  {
+    "name": "Easy Reload Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/2/2e/Easy_Reload_Bullets.png?version=3f5113d39d2c39f3a3be2e9676fe42ff",
+    "type": "Passive",
+    "quote": "Rolling Reload",
+    "quality": ["C"],
+    "effect": "Dodge rolling reloads one bullet.",
+    "link": "/Easy_Reload_Bullets"
+  },
+  {
+    "name": "Stout Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/6/68/Stout_Bullets.png?version=257f6e6893af1f7c6e4a618942c798cf",
+    "type": "Passive",
+    "quote": "Up Close and Personal",
+    "quality": ["B"],
+    "effect": "Increases damage by 60% at close range, but decreases damage by 20% at further ranges.",
+    "link": "/Stout_Bullets"
+  },
+  {
+    "name": "Snowballets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/e/e8/Snowballets.png?version=0c0c46b681a7b9e0514e308a9246a57b",
+    "type": "Passive",
+    "quote": "Powder Power",
+    "quality": ["A"],
+    "effect": "Bullets increase in size and damage as they travel.",
+    "link": "/Snowballets"
+  },
+  {
+    "name": "Remote Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/37/Remote_Bullets.png?version=12965a71be099b2a4cb493be3bee5511",
+    "type": "Passive",
+    "quote": "The Unseen Hand",
+    "quality": ["C"],
+    "effect": "Fired bullets curve towards the player's crosshair. Increases damage by 10%.",
+    "link": "/Remote_Bullets"
+  },
+  {
+    "name": "Zombie Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/6/67/Zombie_Bullets.png?version=dc4f77d50377b169e4a2304777ee4c0b",
+    "type": "Passive",
+    "quote": "Unfinished Business",
+    "quality": ["C"],
+    "effect": "Adds a chance to refund ammo when a shot misses.",
+    "link": "/Zombie_Bullets"
+  },
+  {
+    "name": "Flak Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/80/Flak_Bullets.png?version=5a55756aaa903ae7453ad2acc03e039e",
+    "type": "Passive",
+    "quote": "Catch Some!",
+    "quality": ["C"],
+    "effect": "Whenever a bullet hits an enemy or wall, it splits into several smaller, lower-damage bullets.",
+    "link": "/Flak_Bullets"
+  },
+  {
+    "name": "Silver Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/c/c3/Silver_Bullets.png?version=d8346aa09849e1896d231494ce20d9af",
+    "type": "Passive",
+    "quote": "Blessed Metal",
+    "quality": ["C"],
+    "effect": "Increases damage to jammed enemies by 225% and Increases damage to bosses by 25%.",
+    "link": "/Silver_Bullets"
+  },
+  {
+    "name": "Gilded Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/8c/Gilded_Bullets.png?version=eddc19792eea888652e3d5b9f3d4efe1",
+    "type": "Passive",
+    "quote": "The Gun Percent",
+    "quality": ["B"],
+    "effect": "Increases damage based on the amount of money the player has.",
+    "link": "/Gilded_Bullets"
+  },
+  {
+    "name": "Platinum Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/37/Platinum_Bullets.png?version=f41649feecb7164dead35a9de851d1bc",
+    "type": "Passive",
+    "quote": "Over One Million Served",
+    "quality": ["S"],
+    "effect": "Increases damage and fire rate with every enemy killed.",
+    "link": "/Platinum_Bullets"
+  },
+  {
+    "name": "Chaos Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/4f/Chaos_Bullets.png?version=a82cd016f0e78f8e5f6528b2ab51f584",
+    "type": "Passive",
+    "quote": "Taste The Painbow",
+    "quality": ["A"],
+    "effect": "Adds random bullet effects to the player's bullets.",
+    "link": "/Chaos_Bullets"
+  },
+  {
+    "name": "Cursed Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/7/79/Cursed_Bullets.png?version=9eefb5006c92a051e67fe839dacf6916",
+    "type": "Passive",
+    "quote": "Too Spooky",
+    "quality": ["C"],
+    "effect": "Increases damage depending on how much curse the player has. Increases curse by 1 while held.",
+    "link": "/Cursed_Bullets"
+  },
+  {
+    "name": "Chance Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/fa/Chance_Bullets.png?version=39108fc2f663a5ce62562bbb5ea6bd96",
+    "type": "Passive",
+    "quote": "Good RNG",
+    "quality": ["B"],
+    "effect": "Upon firing, adds a chance to fire projectiles from the player's other guns.",
+    "link": "/Chance_Bullets"
+  },
+  {
+    "name": "Helix Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/f7/Helix_Bullets.png?version=8703065ffd6254055cdd007e26dc26d0",
+    "type": "Passive",
+    "quote": "Praise Be",
+    "quality": ["B"],
+    "effect": "Doubles fired bullets and makes them move in a helix pattern, but slightly decreases damage.",
+    "link": "/Helix_Bullets"
+  },
+  {
+    "name": "Bumbullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/7/73/Bumbullets.png?version=d09a0086d9140fa0031f3fe0b0af6187",
+    "type": "Passive",
+    "quote": "Bumblecore",
+    "quality": ["B"],
+    "effect": "Upon firing, adds a chance to fire a bee, which homes in on and damages enemies.",
+    "link": "/Bumbullets"
+  },
+  {
+    "name": "Bloody 9mm",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/1b/Bloody_9mm.png?version=24969c1ec3afbff503e048a51a955c6f",
+    "type": "Passive",
+    "quote": "Be Realistic",
+    "quality": ["B"],
+    "effect": "Adds a chance to fire a fast, homing bullet that flies around the room damaging enemies.",
+    "link": "/Bloody_9mm"
+  },
+  {
+    "name": "Bionic Leg",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/fd/Bionic_Leg.png?version=06ed00d79d54a635642cee2ad32c4c62",
+    "type": "Passive",
+    "quote": "More Machine Than Man",
+    "quality": ["C"],
+    "effect": "Increases movement speed and grants a piece of armor.",
+    "link": "/Bionic_Leg"
+  },
+  {
+    "name": "Shotgun Coffee",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/0/02/Shotgun_Coffee.png?version=c2fa47edc76bad8a67c39cf422cfe5dd",
+    "type": "Passive",
+    "quote": "Speed Up",
+    "quality": ["C"],
+    "effect": "Increases movement speed.",
+    "link": "/Shotgun_Coffee"
+  },
+  {
+    "name": "Shotga Cola",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/e/ea/Shotga_Cola.png?version=ccb7c0eefc6b7749ae7f59af49795187",
+    "type": "Passive",
+    "quote": "Speed Up",
+    "quality": ["C"],
+    "effect": "Increases movement speed.",
+    "link": "/Shotga_Cola"
+  },
+  {
+    "name": "Ballistic Boots",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/c/cc/Ballistic_Boots.png?version=93c44622179399622756273e72ef7cb2",
+    "type": "Passive",
+    "quote": "Speedier Than A Bullet",
+    "quality": ["B"],
+    "effect": "Increases movement speed.",
+    "link": "/Ballistic_Boots"
+  },
+  {
+    "name": "Magic Sweet",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/e/e9/Magic_Sweet.png?version=02a3f58b8635ca3b107a2348eae60bec",
+    "type": "Passive",
+    "quote": "Free Stats",
+    "quality": ["A"],
+    "effect": "Grants a heart container, increases damage by 15%, increases movement speed, and increases coolness by 1.",
+    "link": "/Magic_Sweet"
+  },
+  {
+    "name": "Disarming Personality",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/3a/Disarming_Personality.png?version=d1d968350fd55c329d39f9962b535930",
+    "type": "Passive",
+    "quote": "For You?",
+    "quality": ["C"],
+    "effect": "Decreases shop prices by 15%.",
+    "link": "/Disarming_Personality"
+  },
+  {
+    "name": "Mustache",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/49/Mustache.png?version=24095112a72f2f6144fb50b9818628fd",
+    "type": "Passive",
+    "quote": "A Familiar Face",
+    "quality": ["C"],
+    "effect": "Has a 50% chance to heal the player upon purchasing an item.",
+    "link": "/Mustache"
+  },
+  {
+    "name": "Lichy Trigger Finger",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/1c/Lichy_Trigger_Finger.png?version=cfc302f2f4af02fbc89a9b3bc81bef42",
+    "type": "Passive",
+    "quote": "Rate of Fire Up",
+    "quality": ["D"],
+    "effect": "Increases rate of fire by 25%.",
+    "link": "/Lichy_Trigger_Finger"
+  },
+  {
+    "name": "Lich's Eye Bullets",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/a7/Lich%27s_Eye_Bullets.png?version=072a57c6581785d0dca780343bfa0f80",
+    "type": "Passive",
+    "quote": "Iron Sights",
+    "quality": ["S"],
+    "effect": "Makes all guns act as if they have all their synergies.",
+    "link": "/Lich%27s_Eye_Bullets"
+  },
+  {
+    "name": "Enraging Photo",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/e/e1/Enraging_Photo.png?version=41cb9ed525c37bbb4a3bf2747ff41117",
+    "type": "Passive",
+    "quote": "Don't Believe His Lies",
+    "quality": ["D"],
+    "effect": "Taking damage makes the player briefly deal double damage and instantly reloads their weapon.",
+    "link": "/Enraging_Photo"
+  },
+  {
+    "name": "Ballot",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/2/20/Ballot.png?version=cb304fd2f8106a6d5448343c490d58fa",
+    "type": "Passive",
+    "quote": "Vote Of Confidence!",
+    "quality": ["C"],
+    "effect": "Increases the player's coolness by 3, which decreases the cooldown of active items and increases luck.",
+    "link": "/Ballot"
+  },
+  {
+    "name": "Live Ammo",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/b1/Live_Ammo.png?version=4c1e9896b646d293b6fa8a9f8bd6439c",
+    "type": "Passive",
+    "quote": "I'm A Bullet Too!",
+    "quality": ["N"],
+    "effect": "Provides immunity to contact damage, and dodge rolls deal increased damage to enemies.",
+    "link": "/Live_Ammo"
+  },
+  {
+    "name": "Eyepatch",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/b7/Eyepatch.png?version=1ee536f3f0f6a7930c9b74ec8820c2cb",
+    "type": "Passive",
+    "quote": "Hit Harder Less Often",
+    "quality": ["A"],
+    "effect": "Increases damage by 20% but decreases accuracy.",
+    "link": "/Eyepatch"
+  },
+  {
+    "name": "Military Training",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/d7/Military_Training.png?version=ae1590caccea5fbf62cd36a68538f79d",
+    "type": "Passive",
+    "quote": "Hold Facing Enemy",
+    "quality": ["C"],
+    "effect": "Increases weapon accuracy and reload speed.",
+    "link": "/Military_Training"
+  },
+  {
+    "name": "Ring of the Resourceful Rat",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/53/Ring_of_the_Resourceful_Rat.png?version=7f713e69a3881d537bd0a994dcb09f02",
+    "type": "Passive",
+    "quote": "Fufufufufufu",
+    "quality": ["B"],
+    "effect": "Once per floor, if the Resourceful Rat takes an item or gun, he will give another item or gun of equal quality in return. Unused trades carry over to subsequent floors.",
+    "link": "/Ring_of_the_Resourceful_Rat"
+  },
+  {
+    "name": "Cartographer's Ring",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/2/24/Cartographer%27s_Ring.png?version=066b703be497149910dc4cfa643a2591",
+    "type": "Passive",
+    "quote": "Some Floors Are Familiar",
+    "quality": ["C"],
+    "effect": "New floors have a chance to be mapped out.",
+    "link": "/Cartographer%27s_Ring"
+  },
+  {
+    "name": "Amulet of the Pit Lord",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/3a/Amulet_of_the_Pit_Lord.png?version=3871a574c1963484ca1812daf7f32373",
+    "type": "Passive",
+    "quote": "No Fall Damage",
+    "quality": ["D"],
+    "effect": "Falling into pits no longer deals damage.",
+    "link": "/Amulet_of_the_Pit_Lord"
+  },
+  {
+    "name": "Ring of Fire Resistance",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/c/cf/Ring_of_Fire_Resistance.png?version=0e247a7d9449168f8be654f39a106a08",
+    "type": "Passive",
+    "quote": "No Burns",
+    "quality": ["C"],
+    "effect": "Grants immunity to fire.",
+    "link": "/Ring_of_Fire_Resistance"
+  },
+  {
+    "name": "Ring of Miserly Protection",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/6/6b/Ring_of_Miserly_Protection.png?version=93adab9cdd667ab9dc9c9a3ef80d337f",
+    "type": "Passive",
+    "quote": "Aids The Fiscally Responsible",
+    "quality": ["C"],
+    "effect": "Grants two heart containers. Disappears upon spending money.",
+    "link": "/Ring_of_Miserly_Protection"
+  },
+  {
+    "name": "Unity",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/3d/Unity.png?version=de3fc84a7d61abfcd1c0b23f484c0148",
+    "type": "Passive",
+    "quote": "Our Powers Combined",
+    "quality": ["B"],
+    "effect": "Increases damage based on the other guns the player has.",
+    "link": "/Unity"
+  },
+  {
+    "name": "Ring of Chest Vampirism",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/d3/Ring_of_Chest_Vampirism.png?version=49a74d9dda2c982264e030fd5bbcbd2f",
+    "type": "Passive",
+    "quote": "Blood From Wood",
+    "quality": ["B"],
+    "effect": "Breaking chests heals the player.",
+    "link": "/Ring_of_Chest_Vampirism"
+  },
+  {
+    "name": "Cloranthy Ring",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/7/75/Cloranthy_Ring.png?version=7dd425b1efbeefe95c6a572897c50579",
+    "type": "Passive",
+    "quote": "Dodge Power Up",
+    "quality": ["C"],
+    "effect": "Greatly shortens the time at the end of a dodge roll where the player is vulnerable.",
+    "link": "/Cloranthy_Ring"
+  },
+  {
+    "name": "Ring of Chest Friendship",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/91/Ring_of_Chest_Friendship.png?version=8365e306c74c81456c8e492fde705218",
+    "type": "Passive",
+    "quote": "Chest Friends Forever",
+    "quality": ["B"],
+    "effect": "Increases the chance of finding chests.",
+    "link": "/Ring_of_Chest_Friendship"
+  },
+  {
+    "name": "Ring of Mimic Friendship",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/8b/Ring_of_Mimic_Friendship.png?version=e66aa5284341693e4815ad74238fd64c",
+    "type": "Passive",
+    "quote": "Unlikely Allies",
+    "quality": ["D"],
+    "effect": "Chests will not turn into Mimics.",
+    "link": "/Ring_of_Mimic_Friendship"
+  },
+  {
+    "name": "Ring of Triggers",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/46/Ring_of_Triggers.png?version=0ac8440f0a7ad2378448073a3fd945b9",
+    "type": "Passive",
+    "quote": "Items == Guns",
+    "quality": ["A"],
+    "effect": "Using an active item fires the currently held weapon in all directions.",
+    "link": "/Ring_of_Triggers"
+  },
+  {
+    "name": "Ring of Ethereal Form",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/55/Ring_of_Ethereal_Form.png?version=3a5c47f287d75872c061159bb710b950",
+    "type": "Active",
+    "quote": "Get Ethereal!",
+    "quality": ["B"],
+    "effect": "While active, the player is invincible and has flight. Allows user to steal items from shops.",
+    "link": "/Ring_of_Ethereal_Form"
+  },
+  {
+    "name": "Gundromeda Strain",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/d7/Gundromeda_Strain.png?version=8fe0f5f1c85bf67a62fc6f458e4ded8e",
+    "type": "Passive",
+    "quote": "All Enemies Weaker!",
+    "quality": ["S"],
+    "effect": "Decreases health of all enemies encountered by 25%.",
+    "link": "/Gundromeda_Strain"
+  },
+  {
+    "name": "Broccoli",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/f1/Broccoli.png?version=3596accdfdc2f050e8ca5753374452c6",
+    "type": "Passive",
+    "quote": "Makes You Strong",
+    "quality": ["A"],
+    "effect": "Increases damage by 10%, adds a 10% chance to negate damage, and increases movement speed.",
+    "link": "/Broccoli"
+  },
+  {
+    "name": "Crutch",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/41/Crutch.png?version=5b82e6cb720548b92aad26d87dfc09e9",
+    "type": "Passive",
+    "quote": "You Need It",
+    "quality": ["B"],
+    "effect": "Causes bullets to slightly curve towards enemies.",
+    "link": "/Crutch"
+  },
+  {
+    "name": "Spice",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/97/Spice.png?version=f254af47d07d4db34a9f30ca2054a0f9",
+    "type": "Active",
+    "quote": "A tantalizing cube of power.",
+    "quality": ["A"],
+    "effect": "Single use. Increases certain stats upon use, depending on how many times it has been used. Each time a spice cube is used, more spice cubes will spawn in place of items or pickups.",
+    "link": "/Spice"
+  },
+  {
+    "name": "Liquid Valkyrie",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/2/25/Liquid_Valkyrie.png?version=6eed37e03c7ecd1a173dcd5cdd07bbed",
+    "type": "Passive",
+    "quote": "Maximum Pain",
+    "quality": ["A"],
+    "effect": "Decreases enemy bullet speed by 20%.",
+    "link": "/Liquid_Valkyrie"
+  },
+  {
+    "name": "Bloody Eye",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/4e/Bloody_Eye.png?version=417d25b0ed0ac64b84f9f11be571a53f",
+    "type": "Passive",
+    "quote": "Slower Enemy Bullets",
+    "quality": ["B"],
+    "effect": "Decreases enemy bullet speed by 15%.",
+    "link": "/Bloody_Eye"
+  },
+  {
+    "name": "Gunknight Helmet",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/d5/Gunknight_Helmet.png?version=04f21bca466b8289c10cf864b3334599",
+    "type": "Passive",
+    "quote": "Armor Every Floor",
+    "quality": ["A"],
+    "effect": "Grants a piece of armor upon pickup and another piece of armor every floor.",
+    "link": "/Gunknight_Helmet"
+  },
+  {
+    "name": "Gunknight Greaves",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/16/Gunknight_Greaves.png?version=d74290669f83c8cc274f422a5baedb42",
+    "type": "Passive",
+    "quote": "Armor Every Floor",
+    "quality": ["C"],
+    "effect": "Grants a piece of armor upon pickup and another piece of armor every floor.",
+    "link": "/Gunknight_Greaves"
+  },
+  {
+    "name": "Gunknight Armor",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/b1/Gunknight_Armor.png?version=b75e187e57dd9578c391fcd00c61524c",
+    "type": "Passive",
+    "quote": "Armor Every Floor",
+    "quality": ["B"],
+    "effect": "Grants a piece of armor upon pickup and another piece of armor every floor.",
+    "link": "/Gunknight_Armor"
+  },
+  {
+    "name": "Gunknight Gauntlet",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/52/Gunknight_Gauntlet.png?version=75780dca3c2857bd74ca135e5fd0e65b",
+    "type": "Passive",
+    "quote": "Armor Every Floor",
+    "quality": ["C"],
+    "effect": "Grants a piece of armor upon pickup and another piece of armor every floor.",
+    "link": "/Gunknight_Gauntlet"
+  },
+  {
+    "name": "Old Knight's Shield",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/fc/Old_Knight%27s_Shield.png?version=b7008fabf8d48b796db680b7645ff3da",
+    "type": "Passive",
+    "quote": "Heavy With Experience",
+    "quality": ["N"],
+    "effect": "Grants two pieces of armor.",
+    "link": "/Old_Knight%27s_Shield"
+  },
+  {
+    "name": "Old Knight's Helm",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/b7/Old_Knight%27s_Helm.png?version=dcb40e4f91887527ada08601d4e835fb",
+    "type": "Passive",
+    "quote": "Protects Knowledge",
+    "quality": ["N"],
+    "effect": "Grants two pieces of armor.",
+    "link": "/Old_Knight%27s_Helm"
+  },
+  {
+    "name": "Old Knight's Flask",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/3c/Old_Knight%27s_Flask.png?version=e546a6d1dd89070c652fa21d32b68c60",
+    "type": "Active",
+    "quote": "Heals Per Floor",
+    "quality": ["A"],
+    "effect": "Heals the player for one heart upon use. Gains 2 charges each floor.",
+    "link": "/Old_Knight%27s_Flask"
+  },
+  {
+    "name": "Old Crest",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/a1/Old_Crest.png?version=03f8a4c691407fbf27ce71625fa56d06",
+    "type": "Passive",
+    "quote": "Armor Up",
+    "quality": ["N"],
+    "effect": "Grants a piece of armor. Consumed upon taking any damage.",
+    "link": "/Old_Crest"
+  },
+  {
+    "name": "Armor of Thorns",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/1c/Armor_of_Thorns.png?version=189aa10e4f6039b17414f3eb48d6c458",
+    "type": "Passive",
+    "quote": "Your Body Is A Weapon",
+    "quality": ["C"],
+    "effect": "Provides immunity to contact damage, and increases damage dealt by dodge rolling into enemies. Grants armor upon pickup.",
+    "link": "/Armor_of_Thorns"
+  },
+  {
+    "name": "Full Metal Jacket",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/de/Full_Metal_Jacket.png?version=0d3cb3bcc1706bf3b6989a39eaa243ee",
+    "type": "Passive",
+    "quote": "Automated Defenses",
+    "quality": ["B"],
+    "effect": "Automatically activates one of the player's blanks when they are about to take damage.",
+    "link": "/Full_Metal_Jacket"
+  },
+  {
+    "name": "Ticket",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/1e/Ticket.png?version=b94c02a25850a1cba63e16729f472767",
+    "type": "Active",
+    "quote": "Do You Have Yours?",
+    "quality": ["A"],
+    "effect": "Summons Gatling Gull as a temporary ally.",
+    "link": "/Ticket"
+  },
+  {
+    "name": "Heavy Boots",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/51/Heavy_Boots.png?version=e4aaec5f69d636befa7c3c1a259cee15",
+    "type": "Passive",
+    "quote": "Low Center Of Mass",
+    "quality": ["D"],
+    "effect": "Prevents the player from being affected by enemy knockback, gun recoil, and conveyor belts.",
+    "link": "/Heavy_Boots"
+  },
+  {
+    "name": "Bug Boots",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/32/Bug_Boots.png?version=c8b963395b1b8d606deec4287dd22bea",
+    "type": "Passive",
+    "quote": "Yikes!",
+    "quality": ["B"],
+    "effect": "Dodge rolling leaves a trail of poison creep. Makes the player immune to poison.",
+    "link": "/Bug_Boots"
+  },
+  {
+    "name": "Gunboots",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/9f/Gunboots.png?version=43c11d14a68e10ff35cce831e0b27380",
+    "type": "Passive",
+    "quote": "They Go Down Well",
+    "quality": ["C"],
+    "effect": "Dodge rolling fires a spread of five bullets backwards. Slightly increases movement speed.",
+    "link": "/Gunboots"
+  },
+  {
+    "name": "Springheel Boots",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/86/Springheel_Boots.png?version=0db611d096be91b03c89d1007fb193ab",
+    "type": "Passive",
+    "quote": "Double Jump",
+    "quality": ["D"],
+    "effect": "Allows the player to roll again mid-roll.",
+    "link": "/Springheel_Boots"
+  },
+  {
+    "name": "Rat Boots",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/40/Rat_Boots.png?version=ab26ae08df87697ecae5bad597412ae3",
+    "type": "Passive",
+    "quote": "Hover Craft",
+    "quality": ["C"],
+    "effect": "Grants temporary invulnerability and flight when the player steps over a pit.",
+    "link": "/Rat_Boots"
+  },
+  {
+    "name": "Coin Crown",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/9f/Coin_Crown.png?version=d354a056dd7bc1971ed7efac692b9653",
+    "type": "Passive",
+    "quote": "Play Well, Get Money",
+    "quality": ["C"],
+    "effect": "Increases the chance to find shells upon completing rooms.",
+    "link": "/Coin_Crown"
+  },
+  {
+    "name": "Oiled Cylinder",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/ae/Oiled_Cylinder.png?version=3ca0c9fcd1d0cccf5bebf73a0a269335",
+    "type": "Passive",
+    "quote": "Reload Faster",
+    "quality": ["C"],
+    "effect": "Halves reload time.",
+    "link": "/Oiled_Cylinder"
+  },
+  {
+    "name": "Ice Cube",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/f9/Ice_Cube.png?version=67792d1e9da2d04f6ab97794e8c78a96",
+    "type": "Passive",
+    "quote": "Items Recharge While Active",
+    "quality": ["B"],
+    "effect": "Reduces the cooldown timer of active items. Increases coolness by 3.",
+    "link": "/Ice_Cube"
+  },
+  {
+    "name": "Rolling Eye",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/b2/Rolling_Eye.png?version=b00f0aad5693428b67905b8d3508ba95",
+    "type": "Passive",
+    "quote": "Back At You",
+    "quality": ["C"],
+    "effect": "Rolling through bullets reflects them at enemies.",
+    "link": "/Rolling_Eye"
+  },
+  {
+    "name": "Cigarettes",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/5e/Cigarettes.png?version=316ca1104bed8a7c6f82e0215ce5a383",
+    "type": "Active",
+    "quote": "Hazardous To Health",
+    "quality": ["D"],
+    "effect": "Damages the player for half a heart and increases their coolness by 1 per use. Coolness decreases the cooldown of active items and increases luck.",
+    "link": "/Cigarettes"
+  },
+  {
+    "name": "Magazine Rack",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/1b/Magazine_Rack.png?version=f2a67ccdf90a0bbb76a42f146fbcb9ff",
+    "type": "Active",
+    "quote": "Instant Mail Order",
+    "quality": ["C"],
+    "effect": "Place to create a zone of infinite ammo.",
+    "link": "/Magazine_Rack"
+  },
+  {
+    "name": "Charm Horn",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/3f/Charm_Horn.png?version=b642db66ffa6b0af2048836f63b6fbba",
+    "type": "Active",
+    "quote": "The Call Of Duty",
+    "quality": ["B"],
+    "effect": "Charms enemies around the player upon use. Can be used to steal from shops.",
+    "link": "/Charm_Horn"
+  },
+  {
+    "name": "Cog of Battle",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/b9/Cog_of_Battle.png?version=729003f6ea1602cd0118465a190dfbe0",
+    "type": "Passive",
+    "quote": "Active Reload",
+    "quality": ["C"],
+    "effect": "When reloading, pressing reload again when the indicator passes a certain mark on the reload bar will instantly reload the weapon, decreasing the reload time and increasing the damage and accuracy of the next magazine.",
+    "link": "/Cog_of_Battle"
+  },
+  {
+    "name": "Metronome",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/1c/Metronome.png?version=5969e4f2f90c465de8d78516a8ef1102",
+    "type": "Passive",
+    "quote": "Better And Better",
+    "quality": ["B"],
+    "effect": "Grants a damage bonus for each enemy killed. The bonus is reset if the player takes damage or changes guns.",
+    "link": "/Metronome"
+  },
+  {
+    "name": "Honeycomb",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/7/7c/Honeycomb.png?version=d5c83726199411b9c19def589239f0f7",
+    "type": "Passive",
+    "quote": "Bee Prepared",
+    "quality": ["C"],
+    "effect": "Taking damage spawns bees that seek out and damage enemies.",
+    "link": "/Honeycomb"
+  },
+  {
+    "name": "Map",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/43/Map.png?version=851677b1760818554f3a82c1ab5fd7ba",
+    "type": "Passive",
+    "quote": "Floor Revealed",
+    "quality": ["D"],
+    "effect": "Reveals the entire map for the current floor.",
+    "link": "/Map"
+  },
+  {
+    "name": "Gungeon Blueprint",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/94/Gungeon_Blueprint.png?version=0cd7e0b4290bf00adb11036f8e1d34f7",
+    "type": "Passive",
+    "quote": "Procedurally Updates",
+    "quality": ["S"],
+    "effect": "Reveals all floor-maps for the rest of the run.",
+    "link": "/Gungeon_Blueprint"
+  },
+  {
+    "name": "Sense of Direction",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/3a/Sense_of_Direction.png?version=190a3f90d48e2e3b3738227b74637d3d",
+    "type": "Active",
+    "quote": "Surprisingly Rare.",
+    "quality": ["D"],
+    "effect": "Points in the direction of the floor's exit.",
+    "link": "/Sense_of_Direction"
+  },
+  {
+    "name": "Duct Tape",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/4e/Duct_Tape.png?version=675976c8dfca92af88c333a19bbe2627",
+    "type": "Active",
+    "quote": "Friend Of Gunsmiths",
+    "quality": ["A"],
+    "effect": "Single use. Combines 2 guns by granting one gun the projectiles that the other gun fires.",
+    "link": "/Duct_Tape"
+  },
+  {
+    "name": "Gungeon Pepper",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/e/ed/Gungeon_Pepper.png?version=18bfca0d08f2f16200fa8865bd2e4ab9",
+    "type": "Passive",
+    "quote": "The Heat Is On!",
+    "quality": ["C"],
+    "effect": "Deals damage to nearby enemies.",
+    "link": "/Gungeon_Pepper"
+  },
+  {
+    "name": "Antibody",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/51/Antibody.png?version=8d87265fb45c8ce3d7457bc87f78111b",
+    "type": "Passive",
+    "quote": "Heals Up",
+    "quality": ["B"],
+    "effect": "Adds a chance to heal the player for an extra half a heart whenever they receive healing.",
+    "link": "/Antibody"
+  },
+  {
+    "name": "Resourceful Sack",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/df/Resourceful_Sack.png?version=bbed95fea2121e398256bd00ca490bf1",
+    "type": "Active",
+    "quote": "Pack Rat's Rat Pack",
+    "quality": ["A"],
+    "effect": "Rolling through bullets collects them in the sack. Using the sack empties the sack and fires a piece of explosive cheese for every bullet collected. Grants 3 extra active item slots.",
+    "link": "/Resourceful_Sack"
+  },
+  {
+    "name": "Pink Guon Stone",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/50/Pink_Guon_Stone.png?version=032bad06b2190a3ac299f1d45f4ed800",
+    "type": "Passive",
+    "quote": "Increased Health",
+    "quality": ["B"],
+    "effect": "Orbits the player, blocking enemy shots on contact. Grants one extra heart container.",
+    "link": "/Pink_Guon_Stone"
+  },
+  {
+    "name": "White Guon Stone",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/2/20/White_Guon_Stone.png?version=12cc7c75e346b764ce637b3eb6db0178",
+    "type": "Passive",
+    "quote": "Kindles Blanks",
+    "quality": ["B"],
+    "effect": "Orbits the player, blocking enemy shots on contact. Grants an extra blank per floor.",
+    "link": "/White_Guon_Stone"
+  },
+  {
+    "name": "Orange Guon Stone",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/2/27/Orange_Guon_Stone.png?version=2ffcac25c5b6eb67d252170bc689386e",
+    "type": "Passive",
+    "quote": "Hot Rock",
+    "quality": ["A"],
+    "effect": "Orbits the player, blocking enemy shots on contact. Shoots at enemies.",
+    "link": "/Orange_Guon_Stone"
+  },
+  {
+    "name": "Clear Guon Stone",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/98/Clear_Guon_Stone.png?version=1f9fab93ee986f81bd7c3cac40b708ff",
+    "type": "Passive",
+    "quote": "Pure",
+    "quality": ["B"],
+    "effect": "Orbits the player, blocking enemy shots on contact. Negates poison damage.",
+    "link": "/Clear_Guon_Stone"
+  },
+  {
+    "name": "Green Guon Stone",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/0/08/Green_Guon_Stone.png?version=5ad027c9cb256c1bd40101148b9a3284",
+    "type": "Passive",
+    "quote": "Chance To Heal",
+    "quality": ["S"],
+    "effect": "Orbits the player, blocking enemy shots on contact. Chance to heal upon taking damage.",
+    "link": "/Green_Guon_Stone"
+  },
+  {
+    "name": "Red Guon Stone",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/0/00/Red_Guon_Stone.png?version=45a192317d55e3e7d6f5feed4816dd60",
+    "type": "Passive",
+    "quote": "Dodge Up",
+    "quality": ["B"],
+    "effect": "Orbits the player, blocking enemy shots on contact. Improves dodging.",
+    "link": "/Red_Guon_Stone"
+  },
+  {
+    "name": "Blue Guon Stone",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/6/63/Blue_Guon_Stone.png?version=525e53f01ead82fc6d523a996c16cbb3",
+    "type": "Passive",
+    "quote": "On My Side",
+    "quality": ["B"],
+    "effect": "Orbits the player, blocking enemy shots on contact. Upon taking damage, briefly slows time.",
+    "link": "/Blue_Guon_Stone"
+  },
+  {
+    "name": "Glass Guon Stone",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/d9/Glass_Guon_Stone.png?version=89ad26ca9b9f22abb8fdd21e95d7ce9b",
+    "type": "Passive",
+    "quote": "Fleeting Defense",
+    "quality": ["N"],
+    "effect": "Orbits the player, blocking enemy shots on contact. Destroyed upon taking damage.",
+    "link": "/Glass_Guon_Stone"
+  },
+  {
+    "name": "Iron Coin",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/3c/Iron_Coin.png?version=73c2a6691b59cda746ddb1b9f8df9929",
+    "type": "Active",
+    "quote": "Valar Morgunis",
+    "quality": ["C"],
+    "effect": "3 uses. Kills all enemies in a random room on the floor. Increases coolness by 2 and grants a 20% discount at shops while held.",
+    "link": "/Iron_Coin"
+  },
+  {
+    "name": "Super Hot Watch",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/d1/Super_Hot_Watch.png?version=523a273e0e381a532b2f2024e1476bb5",
+    "type": "Passive",
+    "quote": "Suuuuuuper",
+    "quality": ["S"],
+    "effect": "Slows down time immensely while standing still. Moving speeds up time back to normal.",
+    "link": "/Super_Hot_Watch"
+  },
+  {
+    "name": "Drum Clip",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/7/72/Drum_Clip.png?version=c8136109555333d5b31e0a5a7861c504",
+    "type": "Passive",
+    "quote": "One Size Fits All",
+    "quality": ["B"],
+    "effect": "Increases the magazine size of all weapons by 50%.",
+    "link": "/Drum_Clip"
+  },
+  {
+    "name": "Holey Grail",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/18/Holey_Grail.png?version=159a0f749323db5130238f5d14277df3",
+    "type": "Passive",
+    "quote": "Withered Vessel",
+    "quality": ["D"],
+    "effect": "Upon taking damage, triggers a blank effect and refills 50% of the ammo of all the player's guns. Increases curse by 1.",
+    "link": "/Holey_Grail"
+  },
+  {
+    "name": "Blood Brooch",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/3f/Blood_Brooch.png?version=58eb58f28f1a57ebd3629a9bb24d1ae0",
+    "type": "Passive",
+    "quote": "What Music They Make!",
+    "quality": ["A"],
+    "effect": "Heals the player after dealing 1200 damage to enemies. Increases Curse by 1.",
+    "link": "/Blood_Brooch"
+  },
+  {
+    "name": "Backup Gun",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/fa/Backup_Gun.png?version=84965156c50f728982393d1a7372e887",
+    "type": "Passive",
+    "quote": "Watch Your Back",
+    "quality": ["B"],
+    "effect": "With each shot fired, a second bullet will be fired in the opposite direction that the player is aiming.",
+    "link": "/Backup_Gun"
+  },
+  {
+    "name": "Sunglasses",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/92/Sunglasses.png?version=6d13e9818a0be0ab23c1494969e210a4",
+    "type": "Passive",
+    "quote": "Bright Future",
+    "quality": ["C"],
+    "effect": "Slows down time and increases dodge power during explosions. Increases coolness by 2.",
+    "link": "/Sunglasses"
+  },
+  {
+    "name": "Mimic Tooth Necklace",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/5f/Mimic_Tooth_Necklace.png?version=926284b1ce91c75e0a0868343fdc74b7",
+    "type": "Passive",
+    "quote": "Chomp",
+    "quality": ["A"],
+    "effect": "Every chest is guaranteed to be a Mimic.",
+    "link": "/Mimic_Tooth_Necklace"
+  },
+  {
+    "name": "Escape Rope",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/e/e2/Escape_Rope.png?version=e2d19b6723020d6c5678b10a2d2cc003",
+    "type": "Active",
+    "quote": "Works Anywhere!",
+    "quality": ["C"],
+    "effect": "Teleport out of the current room into the shop of the current floor.",
+    "link": "/Escape_Rope"
+  },
+  {
+    "name": "Jetpack",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/0/07/Jetpack.png?version=f631ac54d91a3a8c07d133463c90ea16",
+    "type": "Active",
+    "quote": "To Fly",
+    "quality": ["C"],
+    "effect": "Can be toggled. While active, the player has increased movement speed and flight, but cannot dodge roll. Passing over puddles of oil will set them on fire.",
+    "link": "/Jetpack"
+  },
+  {
+    "name": "Wax Wings",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/0/08/Wax_Wings.png?version=aa9f1b059567e62554f713b7008487cf",
+    "type": "Passive",
+    "quote": "Too Close To The Gun",
+    "quality": ["B"],
+    "effect": "Grants flight.",
+    "link": "/Wax_Wings"
+  },
+  {
+    "name": "Cat Bullet King Throne",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/6/63/Cat_Bullet_King_Throne.png?version=d1ba84f22dcb4dd594f11878c9ae7d7f",
+    "type": "Passive",
+    "quote": "A Cat Throne",
+    "quality": ["B"],
+    "effect": "Shoots miniature bullets upon rolling and grants flight.",
+    "link": "/Cat_Bullet_King_Throne"
+  },
+  {
+    "name": "Blast Helmet",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/b3/Blast_Helmet.png?version=5f9d0adf2af5a28d4c9fbc35e5608b81",
+    "type": "Passive",
+    "quote": "Duck And Cover",
+    "quality": ["D"],
+    "effect": "Decreases the radius that explosions will hurt the player in. Grants immunity to contact damage.",
+    "link": "/Blast_Helmet"
+  },
+  {
+    "name": "Lament Configurum",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/e/e8/Lament_Configurum.png?version=9f33116ce425154cfd8c0eae3044efcb",
+    "type": "Active",
+    "quote": "Shellraiser",
+    "quality": ["B"],
+    "effect": "Upon use, spawns several enemies and has a chance to spawn a gun or item. Increases curse by 1 while held.",
+    "link": "/Lament_Configurum"
+  },
+  {
+    "name": "Monster Blood",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/f4/Monster_Blood.png?version=08b235fcf035b850bd2e1202147c5b7d",
+    "type": "Passive",
+    "quote": "Twist To Open",
+    "quality": ["C"],
+    "effect": "Taking damage spawns a pool of poison creep. Grants immunity to poison creep and a heart container.",
+    "link": "/Monster_Blood"
+  },
+  {
+    "name": "Nanomachines",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/de/Nanomachines.png?version=f643cfac387f6bdb09a8c82fcef6dc2b",
+    "type": "Passive",
+    "quote": "Son",
+    "quality": ["B"],
+    "effect": "Grants two pieces of armor upon pickup. Grants a piece of armor every 4 times damage is taken.",
+    "link": "/Nanomachines"
+  },
+  {
+    "name": "Seven-Leaf Clover",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/37/Seven-Leaf_Clover.png?version=71b2ce3f254b9152e6d3f83fbd0c02b3",
+    "type": "Passive",
+    "quote": "Lucky!",
+    "quality": ["S"],
+    "effect": "Increases the quality of chests found in chest rooms to an equal chance of red or black.",
+    "link": "/Seven-Leaf_Clover"
+  },
+  {
+    "name": "Number 2",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/a1/Number_2.png?version=268950f4b5738b51336b647b62921aab",
+    "type": "Passive",
+    "quote": "Sidekick No More",
+    "quality": ["N"],
+    "effect": "Boosts stats when alone. Only available in co-op, where The Cultist starts with this item.",
+    "link": "/Number_2"
+  },
+  {
+    "name": "Gold Ammolet",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/2/25/Gold_Ammolet.png?version=1ecb16640dc9fddf18cb5cac3e4f4e53",
+    "type": "Passive",
+    "quote": "Blank Damage Up",
+    "quality": ["B"],
+    "effect": "Increases blank damage. Grants an extra blank per floor.",
+    "link": "/Gold_Ammolet"
+  },
+  {
+    "name": "Chaos Ammolet",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/9e/Chaos_Ammolet.png?version=6580b65a6a48ff44d60888477babc24b",
+    "type": "Passive",
+    "quote": "What Can Will",
+    "quality": ["A"],
+    "effect": "Blanks have a chance to poison, freeze, and ignite enemies. Grants an extra blank per floor.",
+    "link": "/Chaos_Ammolet"
+  },
+  {
+    "name": "Lodestone Ammolet",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/18/Lodestone_Ammolet.png?version=601df8c2df83d18d1cc30e4e6efe3ac0",
+    "type": "Passive",
+    "quote": "Blank Knockback Up",
+    "quality": ["D"],
+    "effect": "Increases the knockback of blanks. Grants an extra blank per floor.",
+    "link": "/Lodestone_Ammolet"
+  },
+  {
+    "name": "Uranium Ammolet",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/ac/Uranium_Ammolet.png?version=9a9887207f4064fcf51d932f9334b65c",
+    "type": "Passive",
+    "quote": "Blanks Poison",
+    "quality": ["B"],
+    "effect": "Blanks have a chance to poison enemies. Grants an extra blank per floor.",
+    "link": "/Uranium_Ammolet"
+  },
+  {
+    "name": "Copper Ammolet",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/89/Copper_Ammolet.png?version=3f5e2bca29a7ec055cf536bc8ffb274e",
+    "type": "Passive",
+    "quote": "Blanks Ignite",
+    "quality": ["B"],
+    "effect": "Blanks have a chance to ignite enemies. Grants an extra blank per floor.",
+    "link": "/Copper_Ammolet"
+  },
+  {
+    "name": "Frost Ammolet",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/7/7a/Frost_Ammolet.png?version=94e9caa46c3ca170710f4829da72a939",
+    "type": "Passive",
+    "quote": "Chance To Freeze",
+    "quality": ["B"],
+    "effect": "Blanks have a chance to freeze enemies. Grants an extra blank per floor.",
+    "link": "/Frost_Ammolet"
+  },
+  {
+    "name": "Table Tech Sight",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/3c/Table_Tech_Sight.png?version=45b395902931003ba4a32fdb886fde50",
+    "type": "Passive",
+    "quote": "Flip Multiplier",
+    "quality": ["D"],
+    "effect": "Flipping a table briefly slows down time and triple the player's shots.",
+    "link": "/Table_Tech_Sight"
+  },
+  {
+    "name": "Table Tech Money",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/88/Table_Tech_Money.png?version=10f3d274af08170e6c6a1b5b100210b2",
+    "type": "Passive",
+    "quote": "Flip Prosperity",
+    "quality": ["D"],
+    "effect": "Flipping a table flips all other tables in the room, and flipping a table has a chance to spawn money.",
+    "link": "/Table_Tech_Money"
+  },
+  {
+    "name": "Table Tech Rocket",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/0/06/Table_Tech_Rocket.png?version=a7407ee849c013a59a4cb0ce63019981",
+    "type": "Passive",
+    "quote": "End Table",
+    "quality": ["C"],
+    "effect": "Flipping a table causes it to launch forward and explode.",
+    "link": "/Table_Tech_Rocket"
+  },
+  {
+    "name": "Table Tech Shotgun",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/11/Table_Tech_Shotgun.png?version=4b0b073b0fd9f17b2751b25b0a2404ae",
+    "type": "Passive",
+    "quote": "Flip Out",
+    "quality": ["D"],
+    "effect": "Tables release a homing shotgun blast of bullets when flipped.",
+    "link": "/Table_Tech_Shotgun"
+  },
+  {
+    "name": "Table Tech Heat",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/c/ce/Table_Tech_Heat.png?version=fa995e587fea938710646b73abd7f2c3",
+    "type": "Passive",
+    "quote": "Hot Flips",
+    "quality": ["D"],
+    "effect": "Flipping a table creates a large area in which all enemies will be set on fire.",
+    "link": "/Table_Tech_Heat"
+  },
+  {
+    "name": "Table Tech Rage",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/bc/Table_Tech_Rage.png?version=244bdd921746c7b9e7e788cf1c9dac01",
+    "type": "Passive",
+    "quote": "Flips Of Fury",
+    "quality": ["D"],
+    "effect": "Flipping a table briefly doubles the player's damage.",
+    "link": "/Table_Tech_Rage"
+  },
+  {
+    "name": "Table Tech Blanks",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/35/Table_Tech_Blanks.png?version=4ccb872a2cfb9952358413ed7258ffe8",
+    "type": "Passive",
+    "quote": "Flip Clarity",
+    "quality": ["C"],
+    "effect": "Flipping a table activates a free blank.",
+    "link": "/Table_Tech_Blanks"
+  },
+  {
+    "name": "Table Tech Stun",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/6/6f/Table_Tech_Stun.png?version=c24889c64ad6e4a2d3989f7b071b9d62",
+    "type": "Passive",
+    "quote": "Flip Showmanship",
+    "quality": ["C"],
+    "effect": "Flipping a table briefly stuns nearby enemies.",
+    "link": "/Table_Tech_Stun"
+  },
+  {
+    "name": "Heart Holster",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/db/Heart_Holster.png?version=faaf58b07381e53e3663816ecb91dbbc",
+    "type": "Passive",
+    "quote": "On Your Sleeve",
+    "quality": ["C","B","A"],
+    "effect": "Grants a heart container.",
+    "link": "/Heart_Holster"
+  },
+  {
+    "name": "Heart Lunchbox",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/7/71/Heart_Lunchbox.png?version=11e8c2e028fcb4698c7d1039093e66f4",
+    "type": "Passive",
+    "quote": "Healthy Meal",
+    "quality": ["C","B","A"],
+    "effect": "Grants a heart container.",
+    "link": "/Heart_Lunchbox"
+  },
+  {
+    "name": "Heart Locket",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/6/61/Heart_Locket.png?version=53f1aa28d3c90fe5615e5c491443c322",
+    "type": "Passive",
+    "quote": "Memento Mori",
+    "quality": ["C","B","A"],
+    "effect": "Grants a heart container.",
+    "link": "/Heart_Locket"
+  },
+  {
+    "name": "Heart Bottle",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/99/Heart_Bottle.png?version=2f52784a211b214345a0f068ddad30d7",
+    "type": "Passive",
+    "quote": "Liquid Life",
+    "quality": ["C","B","A"],
+    "effect": "Grants a heart container.",
+    "link": "/Heart_Bottle"
+  },
+  {
+    "name": "Heart Purse",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/e/ed/Heart_Purse.png?version=7d6c7d8312a712d47729090433176c52",
+    "type": "Passive",
+    "quote": "Form Begets Function",
+    "quality": ["C","B","A"],
+    "effect": "Grants a heart container.",
+    "link": "/Heart_Purse"
+  },
+  {
+    "name": "Sixth Chamber",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/94/Sixth_Chamber.png?version=a145df476980d6501097801060b376e7",
+    "type": "Passive",
+    "quote": "Blessing Of Kaliber",
+    "quality": ["A"],
+    "effect": "Increases Coolness by 2 for each point of Curse the player has. Increases curse by 2 while held.",
+    "link": "/Sixth_Chamber"
+  },
+  {
+    "name": "Busted Television",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/50/Busted_Television.png?version=07a337c6fd63efb9a8c555415c8a5976",
+    "type": "Active",
+    "quote": "Broken And Heavy",
+    "quality": ["N"],
+    "effect": "Upon use, the television is thrown in the direction of the cursor. Dropped upon dodge rolling.",
+    "link": "/Busted_Television"
+  },
+  {
+    "name": "Coolant Leak",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/b7/Coolant_Leak.png?version=feca8c10374584b33aa79642eb5024a7",
+    "type": "Active",
+    "quote": "Don't Overheat!",
+    "quality": ["N"],
+    "effect": "Sprays water forward.",
+    "link": "/Coolant_Leak"
+  },
+  {
+    "name": "Heart of Ice",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/2/24/Heart_of_Ice.png?version=7ff99470578aab6aa6fd6fbcc3206d9c",
+    "type": "Passive",
+    "quote": "That's Cold",
+    "quality": ["C","B","A","S"],
+    "effect": "Grants a heart container. Taking damage releases bouncing ice bullets. Increases coolness by 1.",
+    "link": "/Heart_of_Ice"
+  },
+  {
+    "name": "Ancient Hero's Bandana",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/7/77/Ancient_Hero%27s_Bandana.png?version=b4c59806c1b8d0a49896e266628a9a2b",
+    "type": "Passive",
+    "quote": "Limitless",
+    "quality": ["S"],
+    "effect": "Quadruples maximum ammo.",
+    "link": "/Ancient_Hero%27s_Bandana"
+  },
+  {
+    "name": "Bloodied Scarf",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/94/Bloodied_Scarf.png?version=fae6e6d739e596bea4287318cf84f256",
+    "type": "Passive",
+    "quote": "Blink Away",
+    "quality": ["B"],
+    "effect": "Replaces the dodge roll with a teleport. Increases reload speed.",
+    "link": "/Bloodied_Scarf"
+  },
+  {
+    "name": "Muscle Relaxant",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/15/Muscle_Relaxant.png?version=58ff0b69dfe327e52e26564d8e98b9e3",
+    "type": "Passive",
+    "quote": "Loosen Up",
+    "quality": ["B"],
+    "effect": "Decreases bullet spread by 66%.",
+    "link": "/Muscle_Relaxant"
+  },
+  {
+    "name": "Hip Holster",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/b0/Hip_Holster.png?version=ed993b23fa877156c16209355079af62",
+    "type": "Passive",
+    "quote": "Quickdraw",
+    "quality": ["B"],
+    "effect": "Reloading a weapon fires it once for free.",
+    "link": "/Hip_Holster"
+  },
+  {
+    "name": "Clone",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/34/Clone.png?version=ce04fec30207e75fcc20ea550137b91d",
+    "type": "Passive",
+    "quote": "The Real Me",
+    "quality": ["S"],
+    "effect": "Upon death, the player is revived in the starting room of the first floor, retaining all items and guns.",
+    "link": "/Clone"
+  },
+  {
+    "name": "Sponge",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/a0/Sponge.png?version=ee2fc9176212839815db726ea3c0fc79",
+    "type": "Passive",
+    "quote": "Godliness",
+    "quality": ["C"],
+    "effect": "Removes all liquids near the player.",
+    "link": "/Sponge"
+  },
+  {
+    "name": "Gas Mask",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/2/2e/Gas_Mask.png?version=927dfe0c316c36520a9cc7331998e074",
+    "type": "Passive",
+    "quote": "Breathe Deep",
+    "quality": ["D"],
+    "effect": "Grants immunity to poison.",
+    "link": "/Gas_Mask"
+  },
+  {
+    "name": "Hazmat Suit",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/a8/Hazmat_Suit.png?version=757b82f2294d4f1f46758824583cf5e5",
+    "type": "Passive",
+    "quote": "Safety Protocol",
+    "quality": ["B"],
+    "effect": "Grants immunity to fire, poison, and electricity.",
+    "link": "/Hazmat_Suit"
+  },
+  {
+    "name": "Book of Chest Anatomy",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/3c/Book_of_Chest_Anatomy.png?version=f3283b93cc0c50160c041c55f8ded880",
+    "type": "Passive",
+    "quote": "Controlled Demolition",
+    "quality": ["B"],
+    "effect": "Improves the contents of broken chests.",
+    "link": "/Book_of_Chest_Anatomy"
+  },
+  {
+    "name": "Gun Soul",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/9a/Gun_Soul.png?version=5bc30b66cdf988e68b916fd02e56bb7e",
+    "type": "Passive",
+    "quote": "YOU DEFEATED",
+    "quality": ["A"],
+    "effect": "Adds a heart container. Upon death, the player respawns at the start of the current floor with one heart container. All enemies previously killed will respawn, and if the player reaches the location where they died, they will return to normal.",
+    "link": "/Gun_Soul"
+  },
+  {
+    "name": "Shelleton Key",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/1c/Shelleton_Key.png?version=649a7370bdc22c09c560ed182e7cbecb",
+    "type": "Passive",
+    "quote": "Locks Are Dead To You",
+    "quality": ["S"],
+    "effect": "Allows any chest or lock to be opened without using a key. Increases curse by 1 while held.",
+    "link": "/Shelleton_Key"
+  },
+  {
+    "name": "Brick of Cash",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/52/Brick_of_Cash.png?version=6670180ecf925de89fa55ade6f9778fe",
+    "type": "Passive",
+    "quote": "Secrets Of The Masons",
+    "quality": ["B"],
+    "effect": "Reveals secret rooms.",
+    "link": "/Brick_of_Cash"
+  },
+  {
+    "name": "Battle Standard",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/e/ee/Battle_Standard.png?version=7c2e73969ae3e7de360798cc315b5eef",
+    "type": "Passive",
+    "quote": "Set Your Own!",
+    "quality": ["D"],
+    "effect": "Increases the damage of companions and charmed enemies.",
+    "link": "/Battle_Standard"
+  },
+  {
+    "name": "Wingman",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/0/09/Wingman.png?version=bc10e39cf3a105c7b2772d2d5f0e4615",
+    "type": "Passive",
+    "quote": "Got Your Back",
+    "quality": ["A"],
+    "effect": "Orbits the player, firing rockets at enemies.",
+    "link": "/Wingman"
+  },
+  {
+    "name": "Wolf",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/c/c8/Wolf.png?version=f981232f2931f8e48a7e40ac053de291",
+    "type": "Passive",
+    "quote": "Junior",
+    "quality": ["B"],
+    "effect": "Chases and bites enemies.",
+    "link": "/Wolf"
+  },
+  {
+    "name": "Dog",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/35/Dog.png?version=9accf661413db7db2d4d7f7e98a9e144",
+    "type": "Passive",
+    "quote": "Junior II",
+    "quality": ["D"],
+    "effect": "Follows the player around, occasionally digs up a pickup upon completing a room, and barks at mimic chests.",
+    "link": "/Dog"
+  },
+  {
+    "name": "Owl",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/5c/Owl.png?version=dbe932995bb120b7bc88377a6a4151c9",
+    "type": "Passive",
+    "quote": "Hoots And More",
+    "quality": ["S"],
+    "effect": "Follows the player, firing bullets at enemies and occasionally using short-ranged blanks.",
+    "link": "/Owl"
+  },
+  {
+    "name": "Super Space Turtle",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/8f/Super_Space_Turtle.png?version=6fffd9e93e90eb9e227dcbedb14d24c7",
+    "type": "Passive",
+    "quote": "Hero From Space",
+    "quality": ["B"],
+    "effect": "Follows the player, firing bullets at enemies.",
+    "link": "/Super_Space_Turtle"
+  },
+  {
+    "name": "Junk",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/fd/Junk.png?version=8bca743dafb1d27bde4a6881d174c8e0",
+    "type": "Passive",
+    "quote": "Next Time Use A Key",
+    "quality": ["N"],
+    "effect": "Has no effect on its own. Often spawned by destroying chests.",
+    "link": "/Junk"
+  },
+  {
+    "name": "Gold Junk",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/c/c2/Gold_Junk.png?version=a29650f13abedee8b1bc7c839c5f2044",
+    "type": "Passive",
+    "quote": "One Man's Trash",
+    "quality": ["N"],
+    "effect": "Grants 500  on pickup.",
+    "link": "/Gold_Junk"
+  },
+  {
+    "name": "Lies",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/fd/Junk.png?version=8bca743dafb1d27bde4a6881d174c8e0",
+    "type": "Passive",
+    "quote": "Next Time Tell The Truth",
+    "quality": ["N"],
+    "effect": "No effect.",
+    "link": "/Lies"
+  },
+  {
+    "name": "Ser Junkan",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/80/Ser_Junkan_1.png?version=cc8ec9c19a3a27b2ffcaee38fea06e07",
+    "type": "Passive",
+    "quote": "Next time... who is he?",
+    "quality": ["C"],
+    "effect": "Summons Ser Junkan, who follows the player, attacks enemies, and becomes stronger for each Junk picked up.",
+    "link": "/Ser_Junkan"
+  },
+  {
+    "name": "R2G2",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/bd/R2G2.png?version=064b6ee9673fd155098c3e73923efefc",
+    "type": "Passive",
+    "quote": "Gunmech Robot",
+    "quality": ["S"],
+    "effect": "Follows the player, firing bullets at enemies.",
+    "link": "/R2G2"
+  },
+  {
+    "name": "Baby Good Shelleton",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/94/Baby_Good_Shelleton.png?version=cf5b411413d88698919be7f50e6bc011",
+    "type": "Passive",
+    "quote": "Grave Lad",
+    "quality": ["S"],
+    "effect": "Follows the player and attacks enemies with a green laser.",
+    "link": "/Baby_Good_Shelleton"
+  },
+  {
+    "name": "Badge",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/8b/Badge.png?version=78f2eb6a77bf03c694d6bb2a2dff9364",
+    "type": "Passive",
+    "quote": "By The Book",
+    "quality": ["A"],
+    "effect": "Summons a police officer that follows the player, firing bullets at enemies. Can be talked to. Can die after taking too much damage. Talking to him after he dies increases the player's damage by 20% and curse by 2.",
+    "link": "/Badge"
+  },
+  {
+    "name": "Chicken Flute",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/dc/Chicken_Flute.png?version=4cf438a3811e5382455359669f8f308e",
+    "type": "Passive",
+    "quote": "Fowl Play",
+    "quality": ["B"],
+    "effect": "Summons a chicken that follows the player and blocks bullets. After taking a certain amount of damage, it summons an army of chickens to attack enemies.",
+    "link": "/Chicken_Flute"
+  },
+  {
+    "name": "Space Friend",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/0/06/Space_Friend.png?version=dfb1ee77ab1e6ba25943fad8c58e038d",
+    "type": "Passive",
+    "quote": "A Friend From The Space",
+    "quality": ["B"],
+    "effect": "Follows the player, firing lasers at enemies and blocking enemy bullets.",
+    "link": "/Space_Friend"
+  },
+  {
+    "name": "Pig",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/30/Pig.png?version=39c624f5d80582b30fb6be7ec1fee491",
+    "type": "Passive",
+    "quote": "Shifty",
+    "quality": ["A"],
+    "effect": "Upon death, instantly revives the player with full health.",
+    "link": "/Pig"
+  },
+  {
+    "name": "Turkey",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/b3/Turkey.png?version=092db9ff2b3c1241376257e7fc2facb1",
+    "type": "Passive",
+    "quote": "Triple Tap",
+    "quality": ["C"],
+    "effect": "Recovers 1 ammo after landing three sequential hits.",
+    "link": "/Turkey"
+  },
+  {
+    "name": "Turtle Problem",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/e/e7/Turtle_Problem.png?version=5057810553b4192d9168891529e3ed69",
+    "type": "Passive",
+    "quote": "Is This Normal?",
+    "quality": ["C"],
+    "effect": "Clearing a room spawns a turtle companion. Turtles block enemy bullets and die after taking enough damage.",
+    "link": "/Turtle_Problem"
+  },
+  {
+    "name": "Sprun",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/5a/Sprun.png?version=5acbf6b16c59b270e92ede0f40bbe0ae",
+    "type": "Passive",
+    "quote": "The Way of Guns",
+    "quality": ["A"],
+    "effect": "Temporarily transforms into Windgunner under special circumstances.",
+    "link": "/Sprun"
+  },
+  {
+    "name": "Baby Good Mimic",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/d9/Baby_Good_Mimic.png?version=8b1f3b014348a5caf1d9cd41d61c2160",
+    "type": "Passive",
+    "quote": "Imitation Love",
+    "quality": ["B"],
+    "effect": "If no other familiars are present, follows the player and attacks enemies. If familiars are present, transforms into another one of the player's familiars.",
+    "link": "/Baby_Good_Mimic"
+  },
+  {
+    "name": "Blank Companion's Ring",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/a3/Blank_Companion%27s_Ring.png?version=822fbc4beed6a90aa1671854a736e271",
+    "type": "Passive",
+    "quote": "He Tries",
+    "quality": ["A"],
+    "effect": "Activates a blank each time an active item is used.",
+    "link": "/Blank_Companion%27s_Ring"
+  },
+  {
+    "name": "Briefcase of Cash",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/45/Briefcase_of_Cash.png?version=ae1e1f98843565055487a8b5f381a140",
+    "type": "Passive",
+    "quote": "Avarice",
+    "quality": ["A"],
+    "effect": "Grants 250 shells and 3 credits.",
+    "link": "/Briefcase_of_Cash"
+  },
+  {
+    "name": "Galactic Medal of Valor",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/af/Galactic_Medal_of_Valor.png?version=ea61188273fce375564ad8d49056a7e1",
+    "type": "Passive",
+    "quote": "Courage Increased",
+    "quality": ["B"],
+    "effect": "Deal more damage to Bosses.\nIncreases reload speed and accuracy.",
+    "link": "/Galactic_Medal_of_Valor"
+  },
+  {
+    "name": "Bullet Idol",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/c/ce/Bullet_Idol.png?version=db096fe3c9053c9ca6a06cbfb6acf3d1",
+    "type": "Passive",
+    "quote": "Vengeful Spirit",
+    "quality": ["B"],
+    "effect": "Deals 45 damage to enemies upon taking damage.",
+    "link": "/Bullet_Idol"
+  },
+  {
+    "name": "Riddle of Lead",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/c/cb/Riddle_of_Lead.png?version=2d796a230edb0cf29f4d52a41075127c",
+    "type": "Passive",
+    "quote": "This You Can Trust",
+    "quality": ["S"],
+    "effect": "Grants a heart container, fully heals the player, increases damage by 25%, increases dodge roll speed by 15%, increases movement speed by 10%, and adds a chance to negate damage.",
+    "link": "/Riddle_of_Lead"
+  },
+  {
+    "name": "Bracket Key",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/7/7a/Bracket_Key.png?version=c69e96b3bba671fa41df81ea911ef88f",
+    "type": "Active",
+    "quote": "`debugkill",
+    "quality": ["S"],
+    "effect": "Deals a large amount of damage to all enemies in a room. Increases curse by 1 while held.",
+    "link": "/Bracket_Key"
+  },
+  {
+    "name": "Elder Blank",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/31/Elder_Blank.png?version=1af3ba273bc2c5ce9c75a70a73d85710",
+    "type": "Active",
+    "quote": "Excommunicate Bullets",
+    "quality": ["B"],
+    "effect": "Activates a blank. Increases curse by 2 while held.",
+    "link": "/Elder_Blank"
+  },
+  {
+    "name": "Teleporter Prototype",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/ac/Teleporter_Prototype.png?version=91655701fd885fe59384d1f45f651cf9",
+    "type": "Active",
+    "quote": "Teleport?!",
+    "quality": ["B"],
+    "effect": "Teleports the player to a random room.",
+    "link": "/Teleporter_Prototype"
+  },
+  {
+    "name": "Yellow Chamber",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/85/Yellow_Chamber.png?version=aa78bdbc083c75407013968d22601b2f",
+    "type": "Passive",
+    "quote": "\"the jammed thing\"",
+    "quality": ["S"],
+    "effect": "Grants 2 heart containers. Upon entering a room, there is a chance that an enemy will be charmed for the duration of the room. Increases fire rate by 15%. Increase curse by 2 while held.",
+    "link": "/Yellow_Chamber"
+  },
+  {
+    "name": "Infuriating Note",
+    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/1d/Infuriating_Note.png?version=41b7e9bdc1ec7150eb05aba35713f83d",
+    "type": "Passive",
+    "quote": "You've Been Had...",
+    "quality": ["N"],
+    "effect": "Useless on its own. Has six variants, each of which reveals one of the directions necessary to make it through the maze in the Resourceful Rat's Lair.",
+    "link": "/Infuriating_Note"
+  }
+]

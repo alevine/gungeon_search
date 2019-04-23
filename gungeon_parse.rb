@@ -7,14 +7,14 @@ require 'json'
 ITEMS_URI = 'https://enterthegungeon.gamepedia.com/Items'.freeze
 GUNS_URI = 'https://enterthegungeon.gamepedia.com/Guns'.freeze
 
-items_doc = Nokogiri::HTML(URI.parse(ITEMS_URI).open)
+#items_doc = Nokogiri::HTML(URI.parse(ITEMS_URI).open)
+guns_doc = Nokogiri::HTML(URI.parse(GUNS_URI).open)
 
 images = []
 names = []
 types = []
 quotes = []
 qualities = []
-effects = []
 page_links = []
 
 quality_hash = {
@@ -26,7 +26,8 @@ quality_hash = {
   N: 'https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/bf/N_Quality_Item.png?version=d62d33ff747269340a2786d0bc707fb9'
 }
 
-items_doc.search('wikitable searchable', 'tr').each do |row|
+guns_doc.search('wikitable searchable', 'tr').each_with_index do |row, ind|
+  #puts "#{ind} –> #{row.text.strip}"
   row.search('td').each_with_index do |cell, index|
     case index
     when 0
@@ -35,26 +36,35 @@ items_doc.search('wikitable searchable', 'tr').each do |row|
       names << cell.text.strip
       page_links << cell.search('a').first['href']
     when 2
-      types << cell.text.strip
-    when 3
       quotes << cell.text.strip
     when 4
+      types << cell.text.strip
+    when 3
       alt = cell.search('img').first['alt']
       if alt == 'N/A'
         qualities << :N
       else
         qualities << alt[0].to_sym
       end
-    when 5
-      effects << cell.text.strip
     else
       puts cell.text.strip
     end
   end
 end
 
-puts names
+guns_array = []
 
-# File.open('items-data.json', 'w') do |f|
-#   f.write(items_hash.to_json)
-# end
+names.each_with_index do |gun, index|
+  guns_array << {
+    name: gun.to_sym,
+    image: images[index],
+    type: types[index],
+    quote: quotes[index],
+    quality: qualities[index],
+    link: page_links[index]
+  }
+end
+
+File.open('guns-data.json', 'w') do |f|
+  f.write(guns_array.to_json)
+end
