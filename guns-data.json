@@ -6,19 +6,14 @@
     "quote": "Still Works. Mostly.",
     "quality": "N",
     "link": "/Rusty_Sidearm",
-    "semiauto_info": {
-      "magazine_size": 6,
-      "max_ammo": "∞",
-      "reload_time": 1.2,
-      "damage": 0,
-      "fire_rate": 0.0
-    },
-    "notes": [
-      "The Hunter's starting gun.",
-      "Cannot be dropped.",
-      "Cannot be obtained by any Gungeoneer other than The Hunter or The Paradox.",
-      "After defeating The Hunter's past with her alternate skin, an alternate skin for this gun is unlocked."
-    ]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "6",
+    "fire_rate": "0.20",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "7",
+    "notes": "Starting gun of The Hunter. Does not crack secret walls."
   },
   {
     "name": "Marine Sidearm",
@@ -27,17 +22,14 @@
     "quote": "Always With You",
     "quality": "N",
     "link": "/Marine_Sidearm",
-    "semiauto_info": {
-      "magazine_size": 10,
-      "max_ammo": "∞",
-      "reload_time": 1.2,
-      "damage": 5,
-      "fire_rate": 0.25
-    },
-    "notes": [
-      "The Marine's starting gun.",
-      "Cannot be dropped."
-    ]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5",
+    "fire_rate": "0.25",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Starting gun of The Marine. Does not crack secret walls."
   },
   {
     "name": "Rogue Special",
@@ -46,13 +38,14 @@
     "quote": "Underhanded And Efficient",
     "quality": "N",
     "link": "/Rogue_Special",
-    "semiauto_info": {
-      "magazine_size": 10,
-      "max_ammo": "∞",
-      "reload_time": 1.2,
-      "damage": 5,
-      "fire_rate": 0.25
-    },
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5",
+    "fire_rate": "0.25",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "10",
+    "notes": "Fires short-range, inaccurate lasers. Starting gun of The Pilot. Does not crack secret walls."
   },
   {
     "name": "Budget Revolver",
@@ -61,13 +54,14 @@
     "quote": "Affordable Arms",
     "quality": "N",
     "link": "/Budget_Revolver",
-    "semiauto_info": {
-      "magazine_size": 10,
-      "max_ammo": "∞",
-      "reload_time": 1.2,
-      "damage": 5,
-      "fire_rate": 0.25
-    },
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "6",
+    "fire_rate": "0.15",
+    "reload_time": "0.9",
+    "shot_speed": "∞",
+    "spread": "10",
+    "notes": "Starting gun of The Convict. Does not crack secret walls."
   },
   {
     "name": "Dart Gun",
@@ -76,13 +70,14 @@
     "quote": "Sticky",
     "quality": "N",
     "link": "/Dart_Gun",
-    "semiauto_info": {
-      "magazine_size": 10,
-      "max_ammo": "∞",
-      "reload_time": 1.2,
-      "damage": 5,
-      "fire_rate": 0.25
-    },
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "6",
+    "fire_rate": "0.20",
+    "reload_time": "1.0",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires sticky darts. Starting gun of The Cultist. Does not crack secret walls."
   },
   {
     "name": "Robot's Right Hand",
@@ -91,13 +86,14 @@
     "quote": "Built To Kill",
     "quality": "N",
     "link": "/Robot%27s_Right_Hand",
-    "semiauto_info": {
-      "magazine_size": 10,
-      "max_ammo": "∞",
-      "reload_time": 1.2,
-      "damage": 5,
-      "fire_rate": 0.25
-    },
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5",
+    "fire_rate": "0.20",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "7",
+    "notes": "Starting gun of The Robot. Does not crack secret walls."
   },
   {
     "name": "Blasphemy",
@@ -106,13 +102,14 @@
     "quote": "To The Point",
     "quality": "B",
     "link": "/Blasphemy",
-    "semiauto_info": {
-      "magazine_size": 10,
-      "max_ammo": "∞",
-      "reload_time": 1.2,
-      "damage": 5,
-      "fire_rate": 0.25
-    },
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "14",
+    "fire_rate": "0.20",
+    "reload_time": "1.0",
+    "shot_speed": "∞",
+    "spread": "10",
+    "notes": "Starting weapon of The Bullet. Swings destroy nearby bullets. At full health, swings send out a piercing sword projectile. Does not crack secret walls."
   },
   {
     "name": "Casey",
@@ -121,11 +118,14 @@
     "quote": "Batting .50",
     "quality": "D",
     "link": "/Casey",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "100",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Charged swings reflect nearby bullets. Does not crack secret walls. Increases curse by 2."
   },
   {
     "name": "Pea Shooter",
@@ -134,11 +134,14 @@
     "quote": "Baby's First Gun",
     "quality": "D",
     "link": "/Pea_Shooter",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "4",
+    "fire_rate": "0.15",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "10",
+    "notes": "Fires peas."
   },
   {
     "name": "38 Special",
@@ -147,11 +150,14 @@
     "quote": "For The Inquisitive",
     "quality": "D",
     "link": "/38_Special",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5",
+    "fire_rate": "0.07",
+    "reload_time": "0.78",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires faster right after a dodge roll."
   },
   {
     "name": "Derringer",
@@ -160,11 +166,14 @@
     "quote": "One Last Trick",
     "quality": "D",
     "link": "/Derringer",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "10",
+    "fire_rate": "0.07",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "6",
+    "notes": ""
   },
   {
     "name": "Slinger",
@@ -173,11 +182,14 @@
     "quote": "Farewell to arms",
     "quality": "N",
     "link": "/Slinger",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "6 (bullet)4 (gun)",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Starting weapon of The Gunslinger. Reloading throws the gun, which has a chance to stun enemies. Does not crack secret walls."
   },
   {
     "name": "Unfinished Gun",
@@ -186,11 +198,14 @@
     "quote": "Still Warm",
     "quality": "D",
     "link": "/Unfinished_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "6",
+    "fire_rate": "0.20",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "15",
+    "notes": "Fires piercing bullets."
   },
   {
     "name": "Finished Gun",
@@ -199,11 +214,14 @@
     "quote": "Thanks For Playing",
     "quality": "S",
     "link": "/Finished_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "14\n25 (final shot)",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Replaces Unfinished Gun once the Ammonomicon is complete."
   },
   {
     "name": "Elimentaler",
@@ -212,11 +230,14 @@
     "quote": "Full of Holes",
     "quality": "S",
     "link": "/Elimentaler",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Cheese ball: 5.5\nPointy cheese: 8\nCheese wheel: 15",
+    "fire_rate": "0.22",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Encases enemies in cheese, freezing them. Enemies that die while cheesed spawn a large cheese pool, which cheeses any enemies that step in it."
   },
   {
     "name": "Bullet",
@@ -225,11 +246,14 @@
     "quote": "Fires Guns",
     "quality": "C",
     "link": "/Bullet",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Gun: 7Bullet: 4",
+    "fire_rate": "0.2",
+    "reload_time": "1.0",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires rotating guns which fire bullets as they travel."
   },
   {
     "name": "Shell",
@@ -238,11 +262,14 @@
     "quote": "Fires Shotguns",
     "quality": "B",
     "link": "/Shell",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Shotguns: 8Bullets: 4",
+    "fire_rate": "0.5",
+    "reload_time": "1.4",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires three shotguns, each of which fires three bullets upon hitting something."
   },
   {
     "name": "Hyper Light Blaster",
@@ -251,11 +278,14 @@
     "quote": "Skill Honed Sharp",
     "quality": "B",
     "link": "/Hyper_Light_Blaster",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "20",
+    "fire_rate": "0.15",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Has very low ammo, but regenerates 1 ammo if a shot hits an enemy."
   },
   {
     "name": "Boxing Glove",
@@ -264,11 +294,14 @@
     "quote": "Pistol Hondo",
     "quality": "C",
     "link": "/Boxing_Glove",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Regular: 12Super: 200",
+    "fire_rate": "0.40",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Shoots a boxing glove with a chance to stun. Gains a star each time it kills an enemy, up to 3. When at 3 stars, can be charged to consume the stars and fire a high-damage super punch. Increases curse by 1."
   },
   {
     "name": "Makarov",
@@ -277,11 +310,14 @@
     "quote": "The People's Gun",
     "quality": "D",
     "link": "/Makarov",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5",
+    "fire_rate": "0.15",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "4",
+    "notes": ""
   },
   {
     "name": "Trank Gun",
@@ -290,11 +326,14 @@
     "quote": "Non Non Lethal",
     "quality": "C",
     "link": "/Trank_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "",
+    "fire_rate": "0.15",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": ""
   },
   {
     "name": "M1911",
@@ -303,11 +342,14 @@
     "quote": "Classic",
     "quality": "C",
     "link": "/M1911",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "8",
+    "fire_rate": "0.15",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "6",
+    "notes": ""
   },
   {
     "name": "Magnum",
@@ -316,11 +358,14 @@
     "quote": "5 Shots Or 6?",
     "quality": "B",
     "link": "/Magnum",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "13",
+    "fire_rate": "0.15",
+    "reload_time": "1.0",
+    "shot_speed": "∞",
+    "spread": "7",
+    "notes": ""
   },
   {
     "name": "Colt 1851",
@@ -329,11 +374,14 @@
     "quote": "You Dig",
     "quality": "C",
     "link": "/Colt_1851",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "6",
+    "fire_rate": "0.21",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "8",
+    "notes": "Fires a burst of two bullets."
   },
   {
     "name": "SAA",
@@ -342,11 +390,14 @@
     "quote": "Exhilarating Reload Time",
     "quality": "B",
     "link": "/SAA",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Direct: 8\nBounce: 12",
+    "fire_rate": "0.12",
+    "reload_time": "0.6",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires bouncing bullets that aim towards enemies after bouncing."
   },
   {
     "name": "Cold 45",
@@ -355,11 +406,14 @@
     "quote": "Shatterday Night Special",
     "quality": "B",
     "link": "/Cold_45",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "6",
+    "fire_rate": "0.15",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "6",
+    "notes": "Fires bullets that freeze enemies."
   },
   {
     "name": "Polaris",
@@ -368,11 +422,14 @@
     "quote": "Storied",
     "quality": "B",
     "link": "/Polaris",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Level 1: 5\nLevel 2: 12 (6x2)\nLevel 3: 20",
+    "fire_rate": "0.25",
+    "reload_time": "0.6",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Has 3 levels. Killing enough enemies causes the gun to level up, increasing its damage. Taking damage decreases its level by 1."
   },
   {
     "name": "Jolter",
@@ -381,11 +438,14 @@
     "quote": ".95 Caliber",
     "quality": "B",
     "link": "/Jolter",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "13",
+    "fire_rate": "0.25",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "10",
+    "notes": "Fires large and rectangular bullets with high knockback."
   },
   {
     "name": "Dungeon Eagle",
@@ -394,11 +454,14 @@
     "quote": "Caw!",
     "quality": "C",
     "link": "/Dungeon_Eagle",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Uncharged: 10\nCharged: 20",
+    "fire_rate": "0.20",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "10",
+    "notes": "Can be charged to fire more powerful shots."
   },
   {
     "name": "Grey Mauser",
@@ -407,11 +470,14 @@
     "quote": "Silent And Deadly",
     "quality": "B",
     "link": "/Grey_Mauser",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "8",
+    "fire_rate": "0.10",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "8",
+    "notes": "Reloading an empty clip makes the player invisible. Can be used to steal from shops."
   },
   {
     "name": "Vorpal Gun",
@@ -420,24 +486,30 @@
     "quote": ".50 Criticaliber",
     "quality": "B",
     "link": "/Vorpal_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Normal shot:5\nCrit:100",
+    "fire_rate": "0.10",
+    "reload_time": "0.90",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Has a chance to fire a critical shot which deals 20 times its damage."
   },
   {
-    "name": "High Kailber",
+    "name": "High Kaliber",
     "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/b1/High_Kaliber.png?version=f013507e5426497b06207bfdb42873a4",
     "type": "Semiautomatic",
     "quote": "Soul Reaver",
     "quality": "A",
     "link": "/High_Kaliber",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "15",
+    "fire_rate": "0.50",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Causes enemy souls to leave their bodies. Touching a soul deals high damage to the enemy."
   },
   {
     "name": "Shellegun",
@@ -446,11 +518,14 @@
     "quote": "Circle Of Death",
     "quality": "B",
     "link": "/Shellegun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "8",
+    "fire_rate": "0.10",
+    "reload_time": "1.08",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Reloading alternates between a pistol and a continuous beam. Increases curse by 1."
   },
   {
     "name": "Dueling Pistol",
@@ -459,11 +534,14 @@
     "quote": "Ricochet",
     "quality": "D",
     "link": "/Dueling_Pistol",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "10",
+    "fire_rate": "0.20",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "8",
+    "notes": "Fires large piercing bullets that bounce twice."
   },
   {
     "name": "AU Gun",
@@ -472,11 +550,14 @@
     "quote": "Some Assembly Required",
     "quality": "S",
     "link": "/AU_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "100",
+    "fire_rate": "0.20",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a single powerful bullet."
   },
   {
     "name": "Big Iron",
@@ -485,11 +566,14 @@
     "quote": "Heavy",
     "quality": "B",
     "link": "/Big_Iron",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "21\n(7x3)",
+    "fire_rate": "0.33",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "4",
+    "notes": "Fires a random spread of three bullets."
   },
   {
     "name": "Composite Gun",
@@ -498,11 +582,14 @@
     "quote": "Undetectable",
     "quality": "S",
     "link": "/Composite_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Uncharged: 40\nCharged: 100",
+    "fire_rate": "0.20",
+    "reload_time": "0.6",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Charged shot consumes all ammo in magazine and will activate a blank effect when it hits a wall."
   },
   {
     "name": "Flare Gun",
@@ -511,11 +598,14 @@
     "quote": "Over Here",
     "quality": "D",
     "link": "/Flare_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "13",
+    "fire_rate": "0.10",
+    "reload_time": "0.8",
+    "shot_speed": "∞",
+    "spread": "6",
+    "notes": "Fires bullets that have a chance to burn enemies."
   },
   {
     "name": "Smiley's Revolver",
@@ -524,11 +614,14 @@
     "quote": "All Smiles",
     "quality": "B",
     "link": "/Smiley%27s_Revolver",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "9",
+    "fire_rate": "0.10",
+    "reload_time": "0.7",
+    "shot_speed": "∞",
+    "spread": "6",
+    "notes": "Decreases shop prices while held.\nFire rate increased shortly after rolling."
   },
   {
     "name": "Shades's Revolver",
@@ -537,11 +630,14 @@
     "quote": "Someone Loses An Eye",
     "quality": "C",
     "link": "/Shades%27s_Revolver",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "15",
+    "fire_rate": "0.30",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "6",
+    "notes": "Increases coolness by 3."
   },
   {
     "name": "Knight's Gun",
@@ -550,11 +646,14 @@
     "quote": "Plowshare",
     "quality": "A",
     "link": "/Knight%27s_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "40 (8x5)",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires five bullets in an arrow shape. Gains some pickups when reloading an empty clip."
   },
   {
     "name": "GuNNER",
@@ -563,11 +662,14 @@
     "quote": "Backpack Not Included",
     "quality": "B",
     "link": "/GuNNER",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "13.5",
+    "fire_rate": "",
+    "reload_time": "1.0",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Taking damage while GuNNER is held drains 40 ammo and drops a skull that heals the player upon pickup."
   },
   {
     "name": "Regular Shotgun",
@@ -576,11 +678,14 @@
     "quote": "Cocked And Loaded",
     "quality": "D",
     "link": "/Regular_Shotgun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "24\n(4x6)",
+    "fire_rate": "0.60",
+    "reload_time": "1.8",
+    "shot_speed": "∞",
+    "spread": "10",
+    "notes": ""
   },
   {
     "name": "Big Shotgun",
@@ -589,11 +694,14 @@
     "quote": "A Shotgun That's Big",
     "quality": "A",
     "link": "/Big_Shotgun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Large: 45 (15x3)Small: 5.5",
+    "fire_rate": "0.6",
+    "reload_time": "2.1",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires three exploding shots that burst into bullets. Reloading next to Shotgun Kin sucks them up, killing them and restoring 1 ammo."
   },
   {
     "name": "Old Goldie",
@@ -602,11 +710,14 @@
     "quote": "For The Discerning",
     "quality": "A",
     "link": "/Old_Goldie",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "35\n(3.5x10)",
+    "fire_rate": "0.50",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Increases coolness by 1."
   },
   {
     "name": "Sawed-Off",
@@ -615,11 +726,14 @@
     "quote": "No Butts About It",
     "quality": "D",
     "link": "/Sawed-Off",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "16\n(4x4)",
+    "fire_rate": "0.50",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "8",
+    "notes": "Starting gun of The Convict."
   },
   {
     "name": "Winchester",
@@ -628,11 +742,14 @@
     "quote": "Better Than A Box Of Roses",
     "quality": "C",
     "link": "/Winchester",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "24\n(4x6)",
+    "fire_rate": "0.60",
+    "reload_time": "1.7",
+    "shot_speed": "∞",
+    "spread": "7",
+    "notes": ""
   },
   {
     "name": "Rattler",
@@ -641,11 +758,14 @@
     "quote": "Snakes On A Gun",
     "quality": "B",
     "link": "/Rattler",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "21\n(3x7)",
+    "fire_rate": "0.20",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Simultaneously fires a shotgun blast and a beam that has a chance to poison enemies."
   },
   {
     "name": "Bubble Blaster",
@@ -654,11 +774,14 @@
     "quote": "The Suds",
     "quality": "C",
     "link": "/Bubble_Blaster",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "12",
+    "fire_rate": "0.12",
+    "reload_time": "1.4",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires bubbles which move slowly towards enemies. Reloading the gun launches bubbles away from the player at high speed."
   },
   {
     "name": "Elephant Gun",
@@ -667,11 +790,14 @@
     "quote": "Shoots Elephants",
     "quality": "C",
     "link": "/Elephant_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "33\n(5.5x6)",
+    "fire_rate": "0.60",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a cone spread of bullets with high knockback."
   },
   {
     "name": "Tangler",
@@ -680,11 +806,14 @@
     "quote": "Get Wrecktangled",
     "quality": "C",
     "link": "/Tangler",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "36\n(6x6)",
+    "fire_rate": "0.60",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "10",
+    "notes": "Fires a shotgun blast of rectangular bullets that bounce off walls. Enemies hit will be folded into a rectangle."
   },
   {
     "name": "Void Shotgun",
@@ -693,11 +822,14 @@
     "quote": "CQC",
     "quality": "B",
     "link": "/Void_Shotgun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "30\n(5x6)",
+    "fire_rate": "0.40",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires 6 purple bullets with high knockback."
   },
   {
     "name": "Mass Shotgun",
@@ -706,11 +838,14 @@
     "quote": "My Favorite Gun",
     "quality": "B",
     "link": "/Mass_Shotgun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Ball: 30\nSplit: 72 (6x12)",
+    "fire_rate": "0.40",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Shoots a large slow projectile that will split up in a barrage of small bullets shortly afterwards."
   },
   {
     "name": "Shotgun Full of Hate",
@@ -719,11 +854,14 @@
     "quote": "Hate Is Power!",
     "quality": "A",
     "link": "/Shotgun_Full_of_Hate",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "6x4 (bullets) + 5 (skull) + 3 (nail)",
+    "fire_rate": "0.45",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "14",
+    "notes": "Shoots a shotgun burst of skulls, nails, regular bullets, and poison bullets that leave pools of poison goop."
   },
   {
     "name": "Shotgun Full of Love",
@@ -732,11 +870,14 @@
     "quote": "Kill With Kindness",
     "quality": "A",
     "link": "/Shotgun_Full_of_Love",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "30\n(5x6)",
+    "fire_rate": "0.45",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "14",
+    "notes": "Has a chance to Charm enemies."
   },
   {
     "name": "Shotgrub",
@@ -745,11 +886,14 @@
     "quote": "No Worries!",
     "quality": "C",
     "link": "/Shotgrub",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "25\n(5x5)",
+    "fire_rate": "0.9",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a spread of 5 bullets that leave small pools of poison goop."
   },
   {
     "name": "Gilded Hydra",
@@ -758,11 +902,14 @@
     "quote": "Heads Up!",
     "quality": "S",
     "link": "/Gilded_Hydra",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "60\n(7.5x8)",
+    "fire_rate": "0.40",
+    "reload_time": "2.0",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a large burst of piercing, bouncing bullets. Clip size is increased by 1 for each half heart the player is missing, and healing decreases clip size."
   },
   {
     "name": "Blunderbuss",
@@ -771,11 +918,14 @@
     "quote": "Shoots Anything",
     "quality": "D",
     "link": "/Blunderbuss",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "30\n(3x10)",
+    "fire_rate": "0.50",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "20",
+    "notes": "Fires a short-ranged spray of bullets."
   },
   {
     "name": "Pulse Cannon",
@@ -784,11 +934,14 @@
     "quote": "Time Of Death…",
     "quality": "C",
     "link": "/Pulse_Cannon",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "24\n(4x6)",
+    "fire_rate": "0.6",
+    "reload_time": "1.8",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a shotgun blast spread of 6 bullets."
   },
   {
     "name": "Siren",
@@ -797,11 +950,14 @@
     "quote": "Mershotgun",
     "quality": "C",
     "link": "/Siren",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "18\n(6x3)",
+    "fire_rate": "0.40",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a shotgun blast of bullets that leave pools of water.  Negates fall damage and goop effects while equipped."
   },
   {
     "name": "Zilla Shotgun",
@@ -810,11 +966,14 @@
     "quote": "Quadruple the fun!",
     "quality": "A",
     "link": "/Zilla_Shotgun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Uncharged:\n32 (4x8)\nCharged:\n42 (6x7)",
+    "fire_rate": "0.50",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "20",
+    "notes": "Can be charged to fire the entire magazine at once, which will cause it to fire piercing, bouncing bullets."
   },
   {
     "name": "Ice Breaker",
@@ -823,11 +982,14 @@
     "quote": "Never Let Go",
     "quality": "B",
     "link": "/Ice_Breaker",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Ice:\n10 (2x5)\nExplosive:\n35",
+    "fire_rate": "0.40",
+    "reload_time": "0.9",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "The first two shots fire a shotgun blast of ice bullets, and the final shot fires a single explosive shot."
   },
   {
     "name": "The Membrane",
@@ -836,11 +998,14 @@
     "quote": "Green Or Yellow?",
     "quality": "C",
     "link": "/The_Membrane",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Before split:\n24 (4x6)\nAfter split:\n36 (3x12)",
+    "fire_rate": "0.45",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "8",
+    "notes": "Fires a shotgun blast of bouncing green bullets that split into more bouncing green bullets."
   },
   {
     "name": "Huntsman",
@@ -849,11 +1014,14 @@
     "quote": "Axes Of Evil",
     "quality": "C",
     "link": "/Huntsman",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "21\n(3.5x6)",
+    "fire_rate": "0.65",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "10",
+    "notes": "Fires a shotgun blast of bullets. Reloading destroys nearby bullets. Increases curse by 1."
   },
   {
     "name": "Blooper",
@@ -862,11 +1030,14 @@
     "quote": "Close Your Bloop",
     "quality": "B",
     "link": "/Blooper",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "42\n(7x6)",
+    "fire_rate": "0.65",
+    "reload_time": "2.0",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires shotgun blasts of blue bullets with high knockback."
   },
   {
     "name": "JK-47",
@@ -875,11 +1046,14 @@
     "quote": "Substitute",
     "quality": "C",
     "link": "/JK-47",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Reloading inflicts fear on nearby enemies."
   },
   {
     "name": "Bow",
@@ -888,11 +1062,14 @@
     "quote": "Hold Fire To Charge",
     "quality": "C",
     "link": "/Bow",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Uncharged: 7.5\nCharged:\n30",
+    "fire_rate": "1.00",
+    "reload_time": "0.12",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fully charged shots pierce."
   },
   {
     "name": "Charmed Bow",
@@ -901,11 +1078,14 @@
     "quote": "<3-----<<<",
     "quality": "B",
     "link": "/Charmed_Bow",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Uncharged:\n7.5\nCharged:\n14",
+    "fire_rate": "",
+    "reload_time": "0.0",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Charms enemies when fully charged."
   },
   {
     "name": "Crossbow",
@@ -914,11 +1094,14 @@
     "quote": "The Original",
     "quality": "D",
     "link": "/Crossbow",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "22",
+    "fire_rate": "0.50",
+    "reload_time": "0.75",
+    "shot_speed": "∞",
+    "spread": "7",
+    "notes": "Fires bolts. Starting gun of The Hunter."
   },
   {
     "name": "Sticky Crossbow",
@@ -927,11 +1110,14 @@
     "quote": "Reload, Explode",
     "quality": "C",
     "link": "/Sticky_Crossbow",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5 (arrow) + 15 (explosion)",
+    "fire_rate": "0.45",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires bolts that stick to enemies and explode upon reloading."
   },
   {
     "name": "Shotbow",
@@ -940,11 +1126,14 @@
     "quote": "A Teleporter Accident",
     "quality": "B",
     "link": "/Shotbow",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "36\n(6x6)",
+    "fire_rate": "1.00",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires a shotgun blast of bolts."
   },
   {
     "name": "Triple Crossbow",
@@ -953,11 +1142,14 @@
     "quote": "3 > 1",
     "quality": "C",
     "link": "/Triple_Crossbow",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Slow:\n7\nTriple:\n21 (7x3)",
+    "fire_rate": "0.1",
+    "reload_time": "0.9",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Reloading alternates between triple bolts and single bolts that slow enemies."
   },
   {
     "name": "Crescent Crossbow",
@@ -966,11 +1158,14 @@
     "quote": "Moon Shot",
     "quality": "A",
     "link": "/Crescent_Crossbow",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Large: 22\nMedium: 8\nSmall: 3",
+    "fire_rate": "0.20",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires stars that split into smaller bouncing stars."
   },
   {
     "name": "Gunbow",
@@ -979,11 +1174,14 @@
     "quote": "Failed Experiment",
     "quality": "A",
     "link": "/Gunbow",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "35",
+    "fire_rate": "0.001",
+    "reload_time": "1.0",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a fast, piercing projectile that ricochets many times."
   },
   {
     "name": "Klobbe",
@@ -992,11 +1190,14 @@
     "quote": "Everyone's Favorite",
     "quality": "D",
     "link": "/Klobbe",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "1.2",
+    "fire_rate": "0.04",
+    "reload_time": "2.0",
+    "shot_speed": "∞",
+    "spread": "20",
+    "notes": "Rapidly fires low-damage bullets."
   },
   {
     "name": "Machine Pistol",
@@ -1005,11 +1206,14 @@
     "quote": "Rapid Fire",
     "quality": "D",
     "link": "/Machine_Pistol",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "3.2",
+    "fire_rate": "0.07",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "10",
+    "notes": ""
   },
   {
     "name": "Thompson Sub-Machinegun",
@@ -1018,11 +1222,14 @@
     "quote": "Myeah, See!",
     "quality": "C",
     "link": "/Thompson_Sub-Machinegun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5",
+    "fire_rate": "0.10",
+    "reload_time": "0.78",
+    "shot_speed": "∞",
+    "spread": "10",
+    "notes": ""
   },
   {
     "name": "AK-47",
@@ -1031,11 +1238,14 @@
     "quote": "Accept No Substitutes",
     "quality": "B",
     "link": "/AK-47",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5.5",
+    "fire_rate": "0.11",
+    "reload_time": "0.6",
+    "shot_speed": "∞",
+    "spread": "4",
+    "notes": ""
   },
   {
     "name": "Strafe Gun",
@@ -1044,11 +1254,14 @@
     "quote": "Bleeding Edge Gameplay",
     "quality": "S",
     "link": "/Strafe_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Impact: 1 Explosion: 8",
+    "fire_rate": "0.13",
+    "reload_time": "1.4",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires nails that explode upon releasing the trigger."
   },
   {
     "name": "AKEY-47",
@@ -1057,11 +1270,14 @@
     "quote": "Unlocked And Loaded!",
     "quality": "S",
     "link": "/AKEY-47",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5.5",
+    "fire_rate": "0.11",
+    "reload_time": "0.6",
+    "shot_speed": "∞",
+    "spread": "4",
+    "notes": "Opening a locked chest or door with the gun equipped opens it for free. Alternatively, shooting a locked chest or door unlocks it."
   },
   {
     "name": "Stone Dome",
@@ -1070,11 +1286,14 @@
     "quote": "Big Head Mode",
     "quality": "B",
     "link": "/Stone_Dome",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "4.5",
+    "fire_rate": "0.20",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Sits on the player's head and rapidly fires homing bullets. While held, inflicts fear on nearby enemies. Increases curse by 1."
   },
   {
     "name": "Crown of Guns",
@@ -1083,11 +1302,14 @@
     "quote": "All Hail",
     "quality": "C",
     "link": "/Crown_of_Guns",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5.5",
+    "fire_rate": "0.04",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Sits atop the player's head and fires bullets in all directions."
   },
   {
     "name": "M16",
@@ -1096,11 +1318,14 @@
     "quote": "Underslung",
     "quality": "A",
     "link": "/M16",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Gun: 5.5\nGrenade: 10 (impact) + 25 (explosion)",
+    "fire_rate": "0.10",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "7",
+    "notes": "Reloading alternates between bursts of 3 bullets and a grenade launcher."
   },
   {
     "name": "Combined Rifle",
@@ -1109,11 +1334,14 @@
     "quote": "Halve Lives",
     "quality": "B",
     "link": "/Combined_Rifle",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5 (gun)100 (ball)",
+    "fire_rate": "0.12",
+    "reload_time": "1.0",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Reloading alternates between a rapid-fire rifle and a bouncing, piercing energy ball."
   },
   {
     "name": "Zorgun",
@@ -1122,11 +1350,14 @@
     "quote": "Don't Push The Red Button",
     "quality": "A",
     "link": "/Zorgun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5.5",
+    "fire_rate": "0.10",
+    "reload_time": "0.6",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Rapidly fires homing bullets. The final bullet in each clip fires a random explosive (grenade, rocket, or drill)."
   },
   {
     "name": "The Fat Line",
@@ -1135,11 +1366,14 @@
     "quote": "Technobabble",
     "quality": "B",
     "link": "/The_Fat_Line",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "4",
+    "fire_rate": "",
+    "reload_time": "3.0",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires purple bullets, which start at the wall the gun is aimed at and travel back towards the gun. Bullets will curve and home in on enemies as they travel."
   },
   {
     "name": "Mr. Accretion Jr.",
@@ -1148,11 +1382,14 @@
     "quote": "Music of the Spheres",
     "quality": "B",
     "link": "/Mr._Accretion_Jr.",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "",
+    "fire_rate": "0.7",
+    "reload_time": "1.9",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires planets which start orbiting the player if they hit a wall or obstacle."
   },
   {
     "name": "VertebraeK-47",
@@ -1161,11 +1398,14 @@
     "quote": "Nervous Yet?",
     "quality": "B",
     "link": "/VertebraeK-47",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "4 (bullet)\n2 (chain)",
+    "fire_rate": "0.10",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Bullets close to each other will form links between each other, which hurts enemies on touch."
   },
   {
     "name": "Balloon Gun",
@@ -1174,11 +1414,14 @@
     "quote": "Hot Air",
     "quality": "C",
     "link": "/Balloon_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "12",
+    "fire_rate": "0.25",
+    "reload_time": "1.6",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires small homing tornadoes. While held, grants flight but loses all ammo on taking damage."
   },
   {
     "name": "MAC10",
@@ -1187,11 +1430,14 @@
     "quote": "$#!^@ Never End",
     "quality": "C",
     "link": "/MAC10",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "3.5",
+    "fire_rate": "0.07",
+    "reload_time": "1.0",
+    "shot_speed": "∞",
+    "spread": "10",
+    "notes": "Fires a burst of four bullets."
   },
   {
     "name": "Triple Gun",
@@ -1200,11 +1446,14 @@
     "quote": "Bullet the Stampede",
     "quality": "B",
     "link": "/Triple_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "0.5 (revolver)\n0.11 (machine gun)",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "Changes form based on how much ammo it has left.",
+    "notes": "Rapidly fires invisible bullets. Jammed enemies hit will revert to normal."
   },
   {
     "name": "Heck Blaster",
@@ -1213,11 +1462,14 @@
     "quote": "Whoa, Nelly",
     "quality": "B",
     "link": "/Heck_Blaster",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "2.5",
+    "fire_rate": "0.05",
+    "reload_time": "0.3",
+    "shot_speed": "∞",
+    "spread": "8",
+    "notes": "Fires piercing bullets.\nFire rate increases rapidly as the trigger is held."
   },
   {
     "name": "Patriot",
@@ -1226,11 +1478,14 @@
     "quote": "Gun Eater",
     "quality": "S",
     "link": "/Patriot",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "7",
+    "fire_rate": "0.30",
+    "reload_time": "1.0",
+    "shot_speed": "∞",
+    "spread": "1",
+    "notes": "Becomes more powerful if the player has armor."
   },
   {
     "name": "AC-15",
@@ -1239,11 +1494,14 @@
     "quote": "Metalled Gear",
     "quality": "B",
     "link": "/AC-15",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Unarmored: 3.8Armored: 15",
+    "fire_rate": "Unarmored:\n0.125\nArmored: 0.5",
+    "reload_time": "1.8",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": ""
   },
   {
     "name": "Vulcan Cannon",
@@ -1252,11 +1510,14 @@
     "quote": "Boundless Slaughter",
     "quality": "S",
     "link": "/Vulcan_Cannon",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5",
+    "fire_rate": "0.05",
+    "reload_time": "0.6",
+    "shot_speed": "∞",
+    "spread": "12",
+    "notes": "Bullets create poison puddles on impact."
   },
   {
     "name": "Plague Pistol",
@@ -1265,11 +1526,14 @@
     "quote": "Chemical Warfare",
     "quality": "D",
     "link": "/Plague_Pistol",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "4",
+    "fire_rate": "0.15",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Greatly increases movement speed while held. Reloading clears nearby goop and refills the gun's ammo."
   },
   {
     "name": "Gungine",
@@ -1278,11 +1542,14 @@
     "quote": "12 Cylinder",
     "quality": "S",
     "link": "/Gungine",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5",
+    "fire_rate": "0.05",
+    "reload_time": "1.14",
+    "shot_speed": "∞",
+    "spread": "6",
+    "notes": "Locks onto enemies and fires high speed homing lasers.  Invisibility while reloading an empty magazine."
   },
   {
     "name": "The Predator",
@@ -1291,11 +1558,14 @@
     "quote": "High-tech $#!*",
     "quality": "B",
     "link": "/The_Predator",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "25",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Rapidly fires burning bullets that have a chance to inflict Burn."
   },
   {
     "name": "Dragunfire",
@@ -1304,11 +1574,14 @@
     "quote": "Roar",
     "quality": "A",
     "link": "/Dragunfire",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5",
+    "fire_rate": "0.05",
+    "reload_time": "1.6",
+    "shot_speed": "∞",
+    "spread": "7",
+    "notes": "Fires bullets that can pierce through one enemy."
   },
   {
     "name": "Sniper Rifle",
@@ -1317,11 +1590,14 @@
     "quote": "Scope Creep",
     "quality": "C",
     "link": "/Sniper_Rifle",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "26",
+    "fire_rate": "1.00",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "1",
+    "notes": "Fires bullets that can pierce through one enemy."
   },
   {
     "name": "A.W.P.",
@@ -1330,11 +1606,14 @@
     "quote": "Noob Cannon",
     "quality": "A",
     "link": "/A.W.P.",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "40",
+    "fire_rate": "1.20",
+    "reload_time": "2.1",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires high-speed piercing bullets."
   },
   {
     "name": "M1",
@@ -1343,11 +1622,14 @@
     "quote": "Bolt Action",
     "quality": "C",
     "link": "/M1",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "20",
+    "fire_rate": "0.80",
+    "reload_time": "1.3",
+    "shot_speed": "∞",
+    "spread": "2",
+    "notes": ""
   },
   {
     "name": "Winchester Rifle",
@@ -1356,11 +1638,14 @@
     "quote": "Guns And Deviltry.",
     "quality": "D",
     "link": "/Winchester_Rifle",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "15",
+    "fire_rate": "0.72",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires slow, bouncing bullets that accelerate and curve towards enemies."
   },
   {
     "name": "Corsair",
@@ -1369,11 +1654,14 @@
     "quote": "Plot A Course",
     "quality": "C",
     "link": "/Corsair",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "10",
+    "fire_rate": "0",
+    "reload_time": "0.5",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires a fast-moving piercing bullet that bounces many times."
   },
   {
     "name": "Railgun",
@@ -1382,11 +1670,14 @@
     "quote": "Calibrating",
     "quality": "S",
     "link": "/Railgun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "50",
+    "fire_rate": "",
+    "reload_time": "0.6",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires a fast-moving piercing bullet."
   },
   {
     "name": "Prototype Railgun",
@@ -1395,11 +1686,14 @@
     "quote": "DANGER: HIGH VOLTAGE",
     "quality": "A",
     "link": "/Prototype_Railgun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "150",
+    "fire_rate": "",
+    "reload_time": "0.6",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": ""
   },
   {
     "name": "Void Marshal",
@@ -1408,11 +1702,14 @@
     "quote": "Acquired Under The Table",
     "quality": "B",
     "link": "/Void_Marshal",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "9",
+    "fire_rate": "0.10",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "7",
+    "notes": "Fires a single powerful bullet that will explode upon impact."
   },
   {
     "name": "Deck4rd",
@@ -1421,11 +1718,14 @@
     "quote": "Unicorn Of Handguns",
     "quality": "A",
     "link": "/Deck4rd",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5 (impact) + 35 (explosion)",
+    "fire_rate": "0.20",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "10",
+    "notes": "The final shot of each clip has a chance to poison, freeze or ignite enemies. (likely more effects possible)"
   },
   {
     "name": "The Judge",
@@ -1434,11 +1734,14 @@
     "quote": "Hot Shot",
     "quality": "B",
     "link": "/The_Judge",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "7.5",
+    "fire_rate": "0.15",
+    "reload_time": "1.0",
+    "shot_speed": "∞",
+    "spread": "7",
+    "notes": "Calls down a controllable orbital laser."
   },
   {
     "name": "Mourning Star",
@@ -1447,11 +1750,14 @@
     "quote": "Satellite Rain",
     "quality": "S",
     "link": "/Mourning_Star",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "~110/s",
+    "fire_rate": "0.3",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Charged shots are larger and deal more damage."
   },
   {
     "name": "Alien Sidearm",
@@ -1460,11 +1766,14 @@
     "quote": "Shield Breaker",
     "quality": "D",
     "link": "/Alien_Sidearm",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Uncharged: 5\nCharged: 25",
+    "fire_rate": "0.15",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires lasers that bounce four times."
   },
   {
     "name": "RUBE-ADYNE Prototype",
@@ -1473,11 +1782,14 @@
     "quote": "It Never Quits",
     "quality": "B",
     "link": "/RUBE-ADYNE_Prototype",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "7",
+    "fire_rate": "0.12",
+    "reload_time": "0.6",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires bouncing lasers with limited range."
   },
   {
     "name": "RUBE-ADYNE MK.II",
@@ -1486,11 +1798,14 @@
     "quote": "Polished Product",
     "quality": "A",
     "link": "/RUBE-ADYNE_MK.II",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "8",
+    "fire_rate": "0.10",
+    "reload_time": "0.48",
+    "shot_speed": "∞",
+    "spread": "7",
+    "notes": "Created when both RUBE-ADYNE Prototype and RUBE-ADYNE MK.II are picked up. Rapidly fires bouncing lasers."
   },
   {
     "name": "Rubenstein's Monster",
@@ -1499,11 +1814,14 @@
     "quote": "Unit 00",
     "quality": "N",
     "link": "/Rubenstein%27s_Monster",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "7",
+    "fire_rate": "0.07",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Transforms based on the current chamber."
   },
   {
     "name": "Chamber Gun",
@@ -1512,11 +1830,14 @@
     "quote": "Product of Environment",
     "quality": "C",
     "link": "/Chamber_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Gains persist experience and levels up with kills, changing its appearance and stats."
   },
   {
     "name": "Gunderfury",
@@ -1525,11 +1846,14 @@
     "quote": "Gun of Guncraft",
     "quality": "A",
     "link": "/Gunderfury",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Reloading alternates between firing three small, piercing, parallel lasers and single large lasers."
   },
   {
     "name": "Mine Cutter",
@@ -1538,11 +1862,14 @@
     "quote": "Safety First",
     "quality": "B",
     "link": "/Mine_Cutter",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Triple: 10\nSingle: 8",
+    "fire_rate": "0.10",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "7",
+    "notes": "Fires bursts of three lasers."
   },
   {
     "name": "Void Core Assault Rifle",
@@ -1551,11 +1878,14 @@
     "quote": "Rapid Fire",
     "quality": "B",
     "link": "/Void_Core_Assault_Rifle",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "6.5",
+    "fire_rate": "0.35",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "3",
+    "notes": "Shoots piercing lasers with a chance to stun."
   },
   {
     "name": "Flash Ray",
@@ -1564,11 +1894,14 @@
     "quote": "Ah Ahhh!",
     "quality": "D",
     "link": "/Flash_Ray",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "7.5",
+    "fire_rate": "0.20",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "10",
+    "notes": "In each magazine, the first 10 bullets pierce. The last 10 deal half damage."
   },
   {
     "name": "Wind Up Gun",
@@ -1577,11 +1910,14 @@
     "quote": "Charge It",
     "quality": "D",
     "link": "/Wind_Up_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5",
+    "fire_rate": "0.13",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "8",
+    "notes": "Fires a barrage of bullets. The last shot in the magazine is a hammer, which deals extra damage and can stun enemies."
   },
   {
     "name": "H4mmer",
@@ -1590,11 +1926,14 @@
     "quote": "Many Bullets",
     "quality": "B",
     "link": "/H4mmer",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Bullets: 3.8\nHammer: 20",
+    "fire_rate": "0.05",
+    "reload_time": "0.6",
+    "shot_speed": "∞",
+    "spread": "7",
+    "notes": "Has a chance to transmogrify enemies into snakes."
   },
   {
     "name": "Snakemaker",
@@ -1603,11 +1942,14 @@
     "quote": "SSSSSSSSSSS",
     "quality": "A",
     "link": "/Snakemaker",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "12",
+    "fire_rate": "0.25",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Damage increases for the next magazine depending on the number of reload attempts during its reload."
   },
   {
     "name": "Turbo-Gun",
@@ -1616,11 +1958,14 @@
     "quote": "Repetitive Strain",
     "quality": "C",
     "link": "/Turbo-Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "8.4 (base)",
+    "fire_rate": "0.10",
+    "reload_time": "1.0",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Shoots rapid fire white bolts of energy."
   },
   {
     "name": "Hegemony Carbine",
@@ -1629,11 +1974,14 @@
     "quote": "All The Same",
     "quality": "C",
     "link": "/Hegemony_Carbine",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "3.5",
+    "fire_rate": "0.10",
+    "reload_time": "1.4",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Rapidly fires piercing sound waves that have a small chance to stun."
   },
   {
     "name": "Screecher",
@@ -1642,11 +1990,14 @@
     "quote": "Cover Your Ears!",
     "quality": "C",
     "link": "/Screecher",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "1.5",
+    "fire_rate": "0.05",
+    "reload_time": "0.6",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires piercing lasers."
   },
   {
     "name": "Laser Lotus",
@@ -1655,11 +2006,14 @@
     "quote": "Level 5",
     "quality": "A",
     "link": "/Laser_Lotus",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "16",
+    "fire_rate": "0.20",
+    "reload_time": "1.38",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Rapidly fires inaccurate white lasers."
   },
   {
     "name": "Hegemony Rifle",
@@ -1668,11 +2022,14 @@
     "quote": "So Precise",
     "quality": "B",
     "link": "/Hegemony_Rifle",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "10",
+    "fire_rate": "0.25",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "13",
+    "notes": "Reloading swings the gun around, reflecting nearby bullets. Increases curse by 2."
   },
   {
     "name": "Fightsabre",
@@ -1681,11 +2038,14 @@
     "quote": "Heresy",
     "quality": "S",
     "link": "/Fightsabre",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "6",
+    "fire_rate": "0.15",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "8",
+    "notes": "Fires two bullets in a helix pattern."
   },
   {
     "name": "Helix",
@@ -1694,11 +2054,14 @@
     "quote": "Splice 'n' Dice",
     "quality": "C",
     "link": "/Helix",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "15\n(7.5x2)",
+    "fire_rate": "0.25",
+    "reload_time": "2.0",
+    "shot_speed": "∞",
+    "spread": "7",
+    "notes": "Fires a burst of three lasers."
   },
   {
     "name": "Laser Rifle",
@@ -1707,11 +2070,14 @@
     "quote": "Blast Off!",
     "quality": "C",
     "link": "/Laser_Rifle",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5",
+    "fire_rate": "0.50",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires bullets that slow and have a chance to freeze."
   },
   {
     "name": "Crestfaller",
@@ -1720,11 +2086,14 @@
     "quote": "Cold Reality",
     "quality": "C",
     "link": "/Crestfaller",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "10",
+    "fire_rate": "0.45",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "6",
+    "notes": "Increases coolness by 2. When reloading, if the reload button is hit at the right time, the gun's damage is increased. Failing a reload resets the damage."
   },
   {
     "name": "Rad Gun",
@@ -1733,11 +2102,14 @@
     "quote": "Totally Rad",
     "quality": "B",
     "link": "/Rad_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Varies",
+    "fire_rate": "0.15",
+    "reload_time": "Varies",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires balls of lightning."
   },
   {
     "name": "Thunderclap",
@@ -1746,11 +2118,14 @@
     "quote": "Lightning In A Bullet",
     "quality": "A",
     "link": "/Thunderclap",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "8",
+    "fire_rate": "0.15",
+    "reload_time": "1.7",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires a large laser that pierces enemies and bounces off of walls two times. Laser deals higher damage after bouncing."
   },
   {
     "name": "Charge Shot",
@@ -1759,11 +2134,14 @@
     "quote": "Hold To Fire",
     "quality": "B",
     "link": "/Charge_Shot",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "30",
+    "fire_rate": "0.01",
+    "reload_time": "1.0",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Charge shot consumes the entire clip to create a room-wide explosion and blank effect."
   },
   {
     "name": "Dark Marker",
@@ -1772,11 +2150,14 @@
     "quote": "Big Bang",
     "quality": "S",
     "link": "/Dark_Marker",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Bullets: 8\nExplosion: 80",
+    "fire_rate": "0.20",
+    "reload_time": "2.0",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a large bullet, which will split into 10 bullets which seek out enemies."
   },
   {
     "name": "Particulator",
@@ -1785,11 +2166,14 @@
     "quote": "Strange Matter",
     "quality": "S",
     "link": "/Particulator",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Large: 30\nSmall: 7",
+    "fire_rate": "0.70",
+    "reload_time": "2.4",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a burst of four bullets connected by electricity."
   },
   {
     "name": "The Emperor",
@@ -1798,11 +2182,14 @@
     "quote": "Electric Terror",
     "quality": "A",
     "link": "/The_Emperor",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "7",
+    "fire_rate": "0.30",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "7",
+    "notes": "Fires grenades."
   },
   {
     "name": "RPG",
@@ -1811,11 +2198,14 @@
     "quote": "Leveled Up",
     "quality": "B",
     "link": "/RPG",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "20 (impact) + 35 (explosion)",
+    "fire_rate": "1.00",
+    "reload_time": "3.0",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Shoots a grenade that bounces off of surfaces and explodes on impact with enemies."
   },
   {
     "name": "Grenade Launcher",
@@ -1824,11 +2214,14 @@
     "quote": "Fwomp!",
     "quality": "B",
     "link": "/Grenade_Launcher",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "10 (impact) + 25 (explosion)",
+    "fire_rate": "1.20",
+    "reload_time": "0.78",
+    "shot_speed": "∞",
+    "spread": "4",
+    "notes": "Fires homing rockets that explode into bees."
   },
   {
     "name": "Stinger",
@@ -1837,11 +2230,14 @@
     "quote": "Drone Warfare",
     "quality": "B",
     "link": "/Stinger",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "10 (impact) + 15 (explosion)",
+    "fire_rate": "1.00",
+    "reload_time": "2.0",
+    "shot_speed": "∞",
+    "spread": "1",
+    "notes": "Fires rockets which burst into more homing rockets. While held, grants a ghost companion that follows the player and reveals the contents of nearby chests."
   },
   {
     "name": "The Exotic",
@@ -1850,11 +2246,14 @@
     "quote": "Pack of Wolves",
     "quality": "A",
     "link": "/The_Exotic",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "25 (impact)\n+ 15 (explosion)\n+ 35\n(7 * 5 mini rockets)",
+    "fire_rate": "",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires homing rockets."
   },
   {
     "name": "Com4nd0",
@@ -1863,11 +2262,14 @@
     "quote": "You're Fired",
     "quality": "B",
     "link": "/Com4nd0",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "20 (impact) + 25 (explosion)",
+    "fire_rate": "0.60",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires rockets guided by the player's cursor."
   },
   {
     "name": "RC Rocket",
@@ -1876,11 +2278,14 @@
     "quote": "Avoid User Error",
     "quality": "A",
     "link": "/RC_Rocket",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "100 (impact) + 30 (explosion)",
+    "fire_rate": "0.60",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "1",
+    "notes": "Rapidly fires homing rockets. Bypasses the boss DPS cap."
   },
   {
     "name": "Yari Launcher",
@@ -1889,11 +2294,14 @@
     "quote": "Hell. Yes.",
     "quality": "S",
     "link": "/Yari_Launcher",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "10 (impact) + 15 (explosion)",
+    "fire_rate": "0.04",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "45",
+    "notes": "Fires a bomb that bounces off of walls and explodes on enemy contact."
   },
   {
     "name": "Lil' Bomber",
@@ -1902,11 +2310,14 @@
     "quote": "ReFuse To Lose!",
     "quality": "D",
     "link": "/Lil%27_Bomber",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "15 (impact) + 25 (explosion)",
+    "fire_rate": "1.00",
+    "reload_time": "2.0",
+    "shot_speed": "∞",
+    "spread": "6",
+    "notes": "Fires a single powerful blast that has very strong recoil."
   },
   {
     "name": "Grasschopper",
@@ -1915,11 +2326,14 @@
     "quote": "Noisy",
     "quality": "A",
     "link": "/Grasschopper",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "20 (impact) + 20 (explosion)",
+    "fire_rate": "0.07",
+    "reload_time": "2.0",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires bursts of four large energy balls, which home in on enemies and explode upon impact."
   },
   {
     "name": "Void Core Cannon",
@@ -1928,11 +2342,14 @@
     "quote": "Critical Strike",
     "quality": "B",
     "link": "/Void_Core_Cannon",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "10 (Impact)\n11 (Explosion)",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Has a chance to transmogrify."
   },
   {
     "name": "Bundle of Wands",
@@ -1941,11 +2358,14 @@
     "quote": "Dark Arts",
     "quality": "C",
     "link": "/Bundle_of_Wands",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "21\n(7x3)",
+    "fire_rate": "0.30",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Reloading alternates between a rapid fire pistol and a beam weapon that can set enemies on fire."
   },
   {
     "name": "Staff of Firepower",
@@ -1954,11 +2374,14 @@
     "quote": "Missing Link",
     "quality": "A",
     "link": "/Staff_of_Firepower",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Gun: 7\nStaff: 12",
+    "fire_rate": "0.15",
+    "reload_time": "1.0",
+    "shot_speed": "∞",
+    "spread": "7",
+    "notes": "Fires bullets that have a chance to transmogrify enemies."
   },
   {
     "name": "Witch Pistol",
@@ -1967,11 +2390,14 @@
     "quote": "Spells Your Doom",
     "quality": "C",
     "link": "/Witch_Pistol",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "6",
+    "fire_rate": "0.15",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "2",
+    "notes": "Fires piercing bullets that have a chance to transmogrify enemies."
   },
   {
     "name": "Hexagun",
@@ -1980,11 +2406,14 @@
     "quote": "Light Fantastic",
     "quality": "B",
     "link": "/Hexagun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "35",
+    "fire_rate": "0.001",
+    "reload_time": "1.02",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Shooting creates a small cone of fire in front of the player that burns enemies."
   },
   {
     "name": "Phoenix",
@@ -1993,11 +2422,14 @@
     "quote": "Reborn In Flame",
     "quality": "D",
     "link": "/Phoenix",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "4",
+    "fire_rate": "0.15",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "3",
+    "notes": "Hitting an enemy three times causes a genie to punch them."
   },
   {
     "name": "Magic Lamp",
@@ -2006,11 +2438,14 @@
     "quote": "One Wish, Three Times",
     "quality": "B",
     "link": "/Magic_Lamp",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "8 (shots)\n115 (genie)",
+    "fire_rate": "0.50",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "While reloading, ignites nearby enemies."
   },
   {
     "name": "Teapot",
@@ -2019,11 +2454,14 @@
     "quote": "Monocular Monster",
     "quality": "C",
     "link": "/Teapot",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "8.5\n15 (pink shot)",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires slow homing ghosts that shoot and deal contact damage."
   },
   {
     "name": "Gunslinger's Ashes",
@@ -2032,11 +2470,14 @@
     "quote": "Spirit, Willing",
     "quality": "C",
     "link": "/Gunslinger%27s_Ashes",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Contact: 12 Shots: 15 (5x3)",
+    "fire_rate": "0.60",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires laser shots at enemies. The last bullet of magazine fires a crystal, which splits into 5 small crystals on impact."
   },
   {
     "name": "Luxin Cannon",
@@ -2045,11 +2486,14 @@
     "quote": "Omnichrome",
     "quality": "C",
     "link": "/Luxin_Cannon",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "4.5",
+    "fire_rate": "0.07",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "6",
+    "notes": "Cannot be used to reveal hidden walls. Grows stronger with each room cleared."
   },
   {
     "name": "Gunther",
@@ -2058,11 +2502,14 @@
     "quote": "Jealous Weapon",
     "quality": "S",
     "link": "/Gunther",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "First Stage: 6\nSecond Stage: 9\nThird Stage: 12",
+    "fire_rate": "0.10",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "10",
+    "notes": "Fires a rainbow beam that homes in on enemies. Increases curse by 1."
   },
   {
     "name": "Unicorn Horn",
@@ -2071,11 +2518,14 @@
     "quote": "Fires Friendship",
     "quality": "A",
     "link": "/Unicorn_Horn",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "30/s",
+    "fire_rate": "0.10",
+    "reload_time": "N/A",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires blue lasers. Charging the weapon makes it fire lasers in four directions."
   },
   {
     "name": "Cobalt Hammer",
@@ -2084,11 +2534,14 @@
     "quote": "Break Stuff",
     "quality": "A",
     "link": "/Cobalt_Hammer",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Uncharged: 26\nCharged: 36",
+    "fire_rate": "0.30",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires big bullets that have a chance to freeze."
   },
   {
     "name": "Frost Giant",
@@ -2097,11 +2550,14 @@
     "quote": "Icy Grasp",
     "quality": "B",
     "link": "/Frost_Giant",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "12",
+    "fire_rate": "0.001",
+    "reload_time": "1.6",
+    "shot_speed": "∞",
+    "spread": "12",
+    "notes": "Fires drills that home in on enemies, stun them, and explode after a short delay."
   },
   {
     "name": "Bullet Bore",
@@ -2110,11 +2566,14 @@
     "quote": "Mind Muncher",
     "quality": "A",
     "link": "/Bullet_Bore",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "10 (impact) + 25 (explosion)",
+    "fire_rate": "1.00",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires darts that home in on enemies and explode after a short delay. The darts deal minimal damage on contact."
   },
   {
     "name": "Cat Claw",
@@ -2123,11 +2582,14 @@
     "quote": "Kneadle Your Foes!",
     "quality": "A",
     "link": "/Cat_Claw",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "2 (impact) + 10 (explosion)",
+    "fire_rate": "0.15",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Has 2 levels of damage depending on how long the gun has been charged."
   },
   {
     "name": "Megahand",
@@ -2136,11 +2598,14 @@
     "quote": "-P-",
     "quality": "B",
     "link": "/Megahand",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Uncharged: 6\nCharged: 45",
+    "fire_rate": "0.07",
+    "reload_time": "0.54",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a continuous beam that has a chance to inflict Burn and slightly homes in on enemies."
   },
   {
     "name": "Demon Head",
@@ -2149,11 +2614,14 @@
     "quote": "Wanged",
     "quality": "B",
     "link": "/Demon_Head",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "31/s",
+    "fire_rate": "0.10",
+    "reload_time": "N/A",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Has 3 levels of damage depending on how long the gun has been charged."
   },
   {
     "name": "Heroine",
@@ -2162,11 +2630,14 @@
     "quote": "Charge Beam Active",
     "quality": "B",
     "link": "/Heroine",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Level 1: 5\nLevel 2: 10\nLevel 3: 70",
+    "fire_rate": "0.07",
+    "reload_time": "0.54",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a continuous beam and heavily pushes back the player."
   },
   {
     "name": "Mutation",
@@ -2175,11 +2646,14 @@
     "quote": "Didn't Need Two Anyway",
     "quality": "B",
     "link": "/Mutation",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "45/s",
+    "fire_rate": "0.10",
+    "reload_time": "N/A",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires fireballs that pierce enemies and have a chance to set enemies on fire."
   },
   {
     "name": "Flame Hand",
@@ -2188,11 +2662,14 @@
     "quote": "2D6 + Int Mod",
     "quality": "B",
     "link": "/Flame_Hand",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Varying",
+    "fire_rate": "0.50",
+    "reload_time": "0.0",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Shoots fiery javelins that make enemies take damage over time."
   },
   {
     "name": "Sunlight Javelin",
@@ -2201,11 +2678,14 @@
     "quote": "Brilliant Aura",
     "quality": "B",
     "link": "/Sunlight_Javelin",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "45",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Reloading alternates between firing a gatling gun, and a single shot exploding rocket punch that is guided by the player's reticle. The rocket punch consumes 10 ammo upon firing."
   },
   {
     "name": "Machine Fist",
@@ -2214,11 +2694,14 @@
     "quote": "Avalanche Of Bullets",
     "quality": "A",
     "link": "/Machine_Fist",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Bullet: 4\nRocket: 20 (impact) + 30 (explosion)",
+    "fire_rate": "0.07",
+    "reload_time": "1.0",
+    "shot_speed": "∞",
+    "spread": "6",
+    "notes": "Rapidly fires blue lasers."
   },
   {
     "name": "Robot's Left Hand",
@@ -2227,11 +2710,14 @@
     "quote": "See You Later",
     "quality": "A",
     "link": "/Robot%27s_Left_Hand",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5",
+    "fire_rate": "0.10",
+    "reload_time": "1.6",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires snowballs that have a chance to freeze enemies."
   },
   {
     "name": "Snowballer",
@@ -2240,11 +2726,14 @@
     "quote": "May Contain Rocks",
     "quality": "D",
     "link": "/Snowballer",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "3.5",
+    "fire_rate": "0.15",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "10",
+    "notes": "Fires piercing, bouncing saw blades. Slightly increases movement speed."
   },
   {
     "name": "Super Meat Gun",
@@ -2253,11 +2742,14 @@
     "quote": "Very Fast",
     "quality": "A",
     "link": "/Super_Meat_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "6",
+    "fire_rate": "0.10",
+    "reload_time": "0.5",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires piercing anvils with high knockback and a chance to stun."
   },
   {
     "name": "Anvillain",
@@ -2266,11 +2758,14 @@
     "quote": "Practical And Safe",
     "quality": "C",
     "link": "/Anvillain",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "35",
+    "fire_rate": "0.10",
+    "reload_time": "0.5",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires a stream of oil. Reloading spits fire, which can ignite the oil."
   },
   {
     "name": "Fossilized Gun",
@@ -2279,11 +2774,14 @@
     "quote": "Proof That Guns Once Existed",
     "quality": "D",
     "link": "/Fossilized_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "15/s",
+    "fire_rate": "0.10",
+    "reload_time": "N/A",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a green laser that slightly curves towards enemies and can poison."
   },
   {
     "name": "Gamma Ray",
@@ -2292,11 +2790,14 @@
     "quote": "Mean Green",
     "quality": "C",
     "link": "/Gamma_Ray",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "15/s",
+    "fire_rate": "0.10",
+    "reload_time": "N/A",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a blue laser that has a chance to freeze enemies."
   },
   {
     "name": "Freeze Ray",
@@ -2305,11 +2806,14 @@
     "quote": "Ice To Meet You",
     "quality": "A",
     "link": "/Freeze_Ray",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "20/s",
+    "fire_rate": "0.10",
+    "reload_time": "N/A",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a large laser after a short charge-up, which inflicts random status effects on enemies."
   },
   {
     "name": "Science Cannon",
@@ -2318,11 +2822,14 @@
     "quote": "Charged Particles",
     "quality": "B",
     "link": "/Science_Cannon",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "26/s",
+    "fire_rate": "0.10",
+    "reload_time": "N/A",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a large laser after a long charge-up."
   },
   {
     "name": "Disintegrator",
@@ -2331,11 +2838,14 @@
     "quote": "Return To Dust",
     "quality": "S",
     "link": "/Disintegrator",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "70/s",
+    "fire_rate": "0.10",
+    "reload_time": "N/A",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a homing laser."
   },
   {
     "name": "Proton Backpack",
@@ -2344,11 +2854,14 @@
     "quote": "Crossing Streams",
     "quality": "B",
     "link": "/Proton_Backpack",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "50/s",
+    "fire_rate": "0.10",
+    "reload_time": "N/A",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a stream of water."
   },
   {
     "name": "Mega Douser",
@@ -2357,11 +2870,14 @@
     "quote": "Contents Under Pressure",
     "quality": "D",
     "link": "/Mega_Douser",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "15/s",
+    "fire_rate": "0.10",
+    "reload_time": "N/A",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a stream of poison. Has a chance to poison enemies and leaves poison puddles on impact."
   },
   {
     "name": "Plunger",
@@ -2370,11 +2886,14 @@
     "quote": "Take Your Best Shot!",
     "quality": "C",
     "link": "/Plunger",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5/s",
+    "fire_rate": "0.10",
+    "reload_time": "N/A",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a laser that homes in on all on-screen enemies."
   },
   {
     "name": "Raiden Coil",
@@ -2383,11 +2902,14 @@
     "quote": "Shoot Em' Up",
     "quality": "A",
     "link": "/Raiden_Coil",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "15/s",
+    "fire_rate": "0.10",
+    "reload_time": "N/A",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires a beam that reflects off of solid objects once."
   },
   {
     "name": "Moonscraper",
@@ -2396,11 +2918,14 @@
     "quote": "Beeeeoooowwww!",
     "quality": "C",
     "link": "/Moonscraper",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "26/s",
+    "fire_rate": "0.10",
+    "reload_time": "N/A",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires a fish that has a chance to stun and leaves a pool of water on impact."
   },
   {
     "name": "Barrel",
@@ -2409,11 +2934,14 @@
     "quote": "Nothin' Easier",
     "quality": "C",
     "link": "/Barrel",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "8",
+    "fire_rate": "0.20",
+    "reload_time": "0.78",
+    "shot_speed": "∞",
+    "spread": "7",
+    "notes": "Reloading transforms the gun between a pistol and a shotgun."
   },
   {
     "name": "Trick Gun",
@@ -2422,11 +2950,14 @@
     "quote": "Reload To Transform",
     "quality": "C",
     "link": "/Trick_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Pistol: 7\nShotgun: 16 (2x8)",
+    "fire_rate": "",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires mail at enemies. The last bullet of each magazine is a package, which can explode, leave confetti, burn, or poison."
   },
   {
     "name": "Mailbox",
@@ -2435,11 +2966,14 @@
     "quote": "Special Delivery",
     "quality": "D",
     "link": "/Mailbox",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5",
+    "fire_rate": "0.20",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "10",
+    "notes": "Fires a rapid stream of low damage nails. Fires faster if fire button is tapped rather than held."
   },
   {
     "name": "Nail Gun",
@@ -2448,11 +2982,14 @@
     "quote": "Pest Control",
     "quality": "D",
     "link": "/Nail_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "3",
+    "fire_rate": "0.12",
+    "reload_time": "0.0",
+    "shot_speed": "∞",
+    "spread": "10",
+    "notes": "Fires zaps of light at enemies. The last bullet in the magazine is a duck, which will automatically seek out the nearest enemy and attack them."
   },
   {
     "name": "Light Gun",
@@ -2461,11 +2998,14 @@
     "quote": "Third-Party",
     "quality": "B",
     "link": "/Light_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "7",
+    "fire_rate": "0.20",
+    "reload_time": "1.0",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires a large, piercing, high-damage laser. Needs to recharge after each shot."
   },
   {
     "name": "Dueling Laser",
@@ -2474,11 +3014,14 @@
     "quote": "More interesting this way!",
     "quality": "B",
     "link": "/Dueling_Laser",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "100",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Melee weapon that extends itself to hit enemies. Increases curse by 1."
   },
   {
     "name": "Wood Beam",
@@ -2487,11 +3030,14 @@
     "quote": "Speak Softly",
     "quality": "B",
     "link": "/Wood_Beam",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Based on swing speed\n(Max: 26)",
+    "fire_rate": "1.0",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires bouncing explosive wood bullets and several leaves."
   },
   {
     "name": "Mahoguny",
@@ -2500,11 +3046,14 @@
     "quote": "100% Organic",
     "quality": "C",
     "link": "/Mahoguny",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Wood: 5 (impact) + 10 (explosion)\nLeaves: 4",
+    "fire_rate": "0.40",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires bullets that hatch into many homing bullets upon hitting an enemy or obstacle."
   },
   {
     "name": "The Scrambler",
@@ -2513,11 +3062,14 @@
     "quote": "Bullet Or The Gun?",
     "quality": "C",
     "link": "/The_Scrambler",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "6 (egg) + 9x5 (seekers)",
+    "fire_rate": "0.10",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "6",
+    "notes": "Fires a trash bag that explodes into poison projectiles that leave trails of poison goop."
   },
   {
     "name": "Trashcannon",
@@ -2526,11 +3078,14 @@
     "quote": "Take It Out!",
     "quality": "C",
     "link": "/Trashcannon",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "20",
+    "fire_rate": "0.20",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires bouncing ice cubes that explode and freeze enemies."
   },
   {
     "name": "Glacier",
@@ -2539,11 +3094,14 @@
     "quote": "Refill Your Trays",
     "quality": "A",
     "link": "/Glacier",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "8 (impact) + 6 (explosion)",
+    "fire_rate": "0.50",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires paper planes that follow the player's crosshair."
   },
   {
     "name": "Origuni",
@@ -2552,11 +3110,14 @@
     "quote": "Thousand Cuts",
     "quality": "C",
     "link": "/Origuni",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "7.5",
+    "fire_rate": "0.20",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires pots that break into 3 bouncing crystals upon hitting something."
   },
   {
     "name": "The Kiln",
@@ -2565,11 +3126,14 @@
     "quote": "Fires Pots",
     "quality": "C",
     "link": "/The_Kiln",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Pots: 8\nCrystals: 4",
+    "fire_rate": "0.40",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires homing skulls."
   },
   {
     "name": "Skull Spitter",
@@ -2578,11 +3142,14 @@
     "quote": "Hard Headed",
     "quality": "C",
     "link": "/Skull_Spitter",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "10",
+    "fire_rate": "0.30",
+    "reload_time": "1.0",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires piercing, bouncing sawblades."
   },
   {
     "name": "Buzzkill",
@@ -2591,11 +3158,14 @@
     "quote": "Sawed On!",
     "quality": "C",
     "link": "/Buzzkill",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "7",
+    "fire_rate": "0.20",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires tears that leave behind puddles of water."
   },
   {
     "name": "Tear Jerker",
@@ -2604,11 +3174,14 @@
     "quote": "Q_Q",
     "quality": "C",
     "link": "/Tear_Jerker",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "7",
+    "fire_rate": "0.22",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires water droplets. Can be charged to increase the number of droplets fired."
   },
   {
     "name": "Starpew",
@@ -2617,11 +3190,14 @@
     "quote": "Reap And Sow",
     "quality": "A",
     "link": "/Starpew",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "5",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "The last shot of each clip spawns a friendly Beadie."
   },
   {
     "name": "Eye of the Beholster",
@@ -2630,11 +3206,14 @@
     "quote": "What A Beauty!",
     "quality": "B",
     "link": "/Eye_of_the_Beholster",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "6",
+    "fire_rate": "0.15",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "4",
+    "notes": "Fires molotovs that create fire puddles on impact."
   },
   {
     "name": "Molotov Launcher",
@@ -2643,11 +3222,14 @@
     "quote": "Exactly What You Think",
     "quality": "C",
     "link": "/Molotov_Launcher",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "6",
+    "fire_rate": "1.50",
+    "reload_time": "2.5",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires a powerful beam. Loses all ammo upon taking damage."
   },
   {
     "name": "Glass Cannon",
@@ -2656,11 +3238,14 @@
     "quote": "Fragile, Fatal",
     "quality": "C",
     "link": "/Glass_Cannon",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "140",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires a zap of electricity."
   },
   {
     "name": "Shock Rifle",
@@ -2669,11 +3254,14 @@
     "quote": "Zap",
     "quality": "B",
     "link": "/Shock_Rifle",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "8",
+    "fire_rate": "0.20",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires a steak that causes a tiger to appear and maul the target."
   },
   {
     "name": "Bait Launcher",
@@ -2682,11 +3270,14 @@
     "quote": "Meat Your Maker",
     "quality": "C",
     "link": "/Bait_Launcher",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "10 (Steak) + 50 (Tiger)",
+    "fire_rate": "0.50",
+    "reload_time": "1.0",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires piercing turtle shells that bounce off of walls."
   },
   {
     "name": "Brick Breaker",
@@ -2695,11 +3286,14 @@
     "quote": "Wrong Kind Of Mortar",
     "quality": "C",
     "link": "/Brick_Breaker",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "10",
+    "fire_rate": "0.50",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "2",
+    "notes": "Upon reloading, leaves a protective shield on the ground. Players in that area will be protected until the shield has absorbed a number of bullets."
   },
   {
     "name": "Betrayer's Shield",
@@ -2708,11 +3302,14 @@
     "quote": "Actually A Gun",
     "quality": "B",
     "link": "/Betrayer%27s_Shield",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "6",
+    "fire_rate": "0.10",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires a burst of 6 bullets that spell out the word bullet."
   },
   {
     "name": "Lower Case r",
@@ -2721,11 +3318,14 @@
     "quote": "Alphabetical!",
     "quality": "D",
     "link": "/Lower_Case_r",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "2.222...",
+    "fire_rate": "0.07",
+    "reload_time": "2.0",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a burst of three piercing sword projectiles. Reloading swings the sword, destroying nearby bullets and damaging nearby enemies. Increases curse by 2.5."
   },
   {
     "name": "Excaliber",
@@ -2734,11 +3334,14 @@
     "quote": "Once And Future",
     "quality": "B",
     "link": "/Excaliber",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "7",
+    "fire_rate": "0.15",
+    "reload_time": "0.48",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Simultaneously fires music notes in four directions. Places an amplifier on the ground at the player's position upon reloading. Whenever the Face Melter is fired, the amplifier will fire music notes in the same pattern. Reloading again will remove the amplifier and place a new one."
   },
   {
     "name": "Face Melter",
@@ -2747,24 +3350,30 @@
     "quote": "Squiddley-squiddley-wheeyooo!",
     "quality": "B",
     "link": "/Face_Melter",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "4",
+    "fire_rate": "0.10",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "6",
+    "notes": ""
   },
   {
     "name": "Really Special Lute",
     "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/56/Really_Special_Lute.png?version=ec7fb4a8eef8c0d9868c04d9f796c507",
-    "type": "Automatic",
+    "type": "",
     "quote": "Purple Prose",
     "quality": "C",
     "link": "/Really_Special_Lute",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "42 (6x7)",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires a long-range laser that pierces one enemy. Destroys nearby bullets and pushes enemies away while reloading."
   },
   {
     "name": "Trident",
@@ -2773,11 +3382,14 @@
     "quote": "Under The Sea",
     "quality": "A",
     "link": "/Trident",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "8",
+    "fire_rate": "0.08",
+    "reload_time": "1.0",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Throws a boomerang-like projectile that homes in on multiple enemies, damaging and sometimes stunning them."
   },
   {
     "name": "Kruller Glaive",
@@ -2786,11 +3398,14 @@
     "quote": "Studied the Blade",
     "quality": "B",
     "link": "/Kruller_Glaive",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "25",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires a tentacle that homes in on and grips enemies, damaging them."
   },
   {
     "name": "Abyssal Tentacle",
@@ -2799,11 +3414,14 @@
     "quote": "Look Away",
     "quality": "A",
     "link": "/Abyssal_Tentacle",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "22.5/s",
+    "fire_rate": "0.10",
+    "reload_time": "N/A",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires a large, square, extremely slow bullet."
   },
   {
     "name": "Quad Laser",
@@ -2812,11 +3430,14 @@
     "quote": "No One Can Defeat It",
     "quality": "C",
     "link": "/Quad_Laser",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "80",
+    "fire_rate": "0.07",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires random tetrominoes that stick to enemies. Line pieces explode, dealing more damage the more tetrominoes are stuck to an enemy."
   },
   {
     "name": "Tetrominator",
@@ -2825,11 +3446,14 @@
     "quote": "LINE PIECE!",
     "quality": "B",
     "link": "/Tetrominator",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "4\n6 (line piece)",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Fires piercing fireballs that burn."
   },
   {
     "name": "Pitchfork",
@@ -2838,24 +3462,30 @@
     "quote": "Get Forked!",
     "quality": "C",
     "link": "/Pitchfork",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "4",
+    "fire_rate": "0.15",
+    "reload_time": "0.0",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Killing enemies evolves the gun through 6 forms."
   },
   {
     "name": "Evolver",
     "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/98/Evolver.png?version=1032291e77571ea19179a009b933b86b",
-    "type": "-",
+    "type": "",
     "quote": "Tamagunchi",
     "quality": "C",
     "link": "/Evolver",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "In oil mode, creates oil puddles on impact. In fire mode, fires fireballs that pierce and burn. Reloading switches modes."
   },
   {
     "name": "Gungeon Ant",
@@ -2864,11 +3494,14 @@
     "quote": "What Army?",
     "quality": "C",
     "link": "/Gungeon_Ant",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "Oil: 6 (2x3)\nFire: 4.5 (1.5x3)",
+    "fire_rate": "0",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "After killing an enemy, reloading damages all enemies in the room."
   },
   {
     "name": "Life Orb",
@@ -2877,11 +3510,14 @@
     "quote": "Your Soul is Mine",
     "quality": "A",
     "link": "/Life_Orb",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "20/s",
+    "fire_rate": "0.10",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Rapid fire weapon that has a very short range, only damaging enemies that come into contact with the muzzle flash. Enemies damaged have a chance to catch on fire. Extremely high recoil."
   },
   {
     "name": "Alien Engine",
@@ -2890,11 +3526,14 @@
     "quote": "The Dangerzone",
     "quality": "B",
     "link": "/Alien_Engine",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "10",
+    "fire_rate": "0.02",
+    "reload_time": "0.9",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Shoots various figurines, books, and gems at the cost of 1 coin per shot."
   },
   {
     "name": "Microtransaction Gun",
@@ -2903,11 +3542,14 @@
     "quote": "Pay To Win",
     "quality": "A",
     "link": "/Microtransaction_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "2/8/15/20",
+    "fire_rate": "0.20",
+    "reload_time": "N/A",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Shoots poisonous t-shirts with high knockback. Poisoned enemies create a poison puddle on death."
   },
   {
     "name": "Poxcannon",
@@ -2916,11 +3558,14 @@
     "quote": "Lousy T-Shirt",
     "quality": "C",
     "link": "/Poxcannon",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "15",
+    "fire_rate": "0.35",
+    "reload_time": "1.7",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires t-shirts that have high knockback."
   },
   {
     "name": "T-Shirt Cannon",
@@ -2929,11 +3574,14 @@
     "quote": "Machine Gun Wash Only!",
     "quality": "D",
     "link": "/T-Shirt_Cannon",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "8",
+    "fire_rate": "0.35",
+    "reload_time": "0.9",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Fires an explosive banana that sends out three more bouncing explosive bananas."
   },
   {
     "name": "Banana",
@@ -2942,11 +3590,14 @@
     "quote": "Planpain",
     "quality": "C",
     "link": "/Banana",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "10 (impact) + 30 (explosion)",
+    "fire_rate": "1.00",
+    "reload_time": "0.01",
+    "shot_speed": "∞",
+    "spread": "6",
+    "notes": "Fires bees that home in on and damage enemies."
   },
   {
     "name": "Bee Hive",
@@ -2955,11 +3606,14 @@
     "quote": "Bzzzzzzz!",
     "quality": "B",
     "link": "/Bee_Hive",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "3",
+    "fire_rate": "0.10",
+    "reload_time": "0.06",
+    "shot_speed": "∞",
+    "spread": "90",
+    "notes": "Fires zippers. Hitting an enemy with the swing of the weapon will stun the enemy."
   },
   {
     "name": "Silencer",
@@ -2968,11 +3622,14 @@
     "quote": "300 Dead Count",
     "quality": "C",
     "link": "/Silencer",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "13",
+    "fire_rate": "0.60",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "5",
+    "notes": "Damages all enemies in the room, with a chance to stun."
   },
   {
     "name": "Camera",
@@ -2981,11 +3638,14 @@
     "quote": "Say Cheese",
     "quality": "C",
     "link": "/Camera",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "10",
+    "fire_rate": "0.20",
+    "reload_time": "2.0",
+    "shot_speed": "∞",
+    "spread": "7",
+    "notes": "Fires bullets in four directions. Combos can be entered to fire fireballs or a grappling hook. After running out of ammo, it is destroyed but spawns a chest."
   },
   {
     "name": "Directional Pad",
@@ -2994,11 +3654,14 @@
     "quote": "Input Output",
     "quality": "B",
     "link": "/Directional_Pad",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "8 (normal)45 (fireball)10 (grappling hook)",
+    "fire_rate": "0.30",
+    "reload_time": "1.6",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Upon hitting an enemy, they will move in the same direction the player moves, and shoot towards the crosshair if the player shoots."
   },
   {
     "name": "3rd Party Controller",
@@ -3007,11 +3670,14 @@
     "quote": "Assuming Direct Control",
     "quality": "A",
     "link": "/3rd_Party_Controller",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "2.5",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": "Rapidly fires inaccurate, piercing, homing arrows."
   },
   {
     "name": "Gunzheng",
@@ -3020,11 +3686,14 @@
     "quote": "Hustle",
     "quality": "B",
     "link": "/Gunzheng",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "6",
+    "fire_rate": "0.07",
+    "reload_time": "0.0",
+    "shot_speed": "∞",
+    "spread": "35",
+    "notes": "Fires bouncing rocks. Deals 2.5x damage to bosses and 2x damage after bouncing."
   },
   {
     "name": "Sling",
@@ -3033,11 +3702,14 @@
     "quote": "Outrageous!",
     "quality": "D",
     "link": "/Sling",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "25",
+    "fire_rate": "0.10",
+    "reload_time": "0.9",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires needles."
   },
   {
     "name": "Cactus",
@@ -3046,11 +3718,14 @@
     "quote": "1000 Needles!",
     "quality": "C",
     "link": "/Cactus",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "2.5",
+    "fire_rate": "0.10",
+    "reload_time": "0.0",
+    "shot_speed": "∞",
+    "spread": "7",
+    "notes": "Fires black holes that attract enemies and enemy bullets."
   },
   {
     "name": "Black Hole Gun",
@@ -3059,11 +3734,14 @@
     "quote": "Won't You Come",
     "quality": "A",
     "link": "/Black_Hole_Gun",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "10",
+    "fire_rate": "1.00",
+    "reload_time": "1.56",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Slowly charges up to fire a large high-damage projectile."
   },
   {
     "name": "BSG",
@@ -3072,11 +3750,14 @@
     "quote": "Big Shooty Gun",
     "quality": "S",
     "link": "/BSG",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "50",
+    "fire_rate": "4.00",
+    "reload_time": "2.4",
+    "shot_speed": "∞",
+    "spread": "0",
+    "notes": "Fires sharks that swim around the room, seeking enemies and biting them."
   },
   {
     "name": "Compressed Air Tank",
@@ -3085,11 +3766,14 @@
     "quote": "You Know My Work",
     "quality": "A",
     "link": "/Compressed_Air_Tank",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "50",
+    "fire_rate": "0.60",
+    "reload_time": "1.2",
+    "shot_speed": "∞",
+    "spread": "6",
+    "notes": "Fires large bouncing cannonballs."
   },
   {
     "name": "Serious Cannon",
@@ -3098,11 +3782,14 @@
     "quote": "Seriously MENTAL",
     "quality": "A",
     "link": "/Serious_Cannon",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "50",
+    "fire_rate": "0.60",
+    "reload_time": "1.5",
+    "shot_speed": "∞",
+    "spread": "6",
+    "notes": "Fires a single blast that deals a large amount of damage."
   },
   {
     "name": "Makeshift Cannon",
@@ -3111,11 +3798,14 @@
     "quote": "You Only Get One Shot",
     "quality": "S",
     "link": "/Makeshift_Cannon",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "1213.3 (approx)",
+    "fire_rate": "0.50",
+    "reload_time": "2.1",
+    "shot_speed": "∞",
+    "spread": "6",
+    "notes": "Has a chance to devolve enemies into simpler enemies."
   },
   {
     "name": "Devolver",
@@ -3124,10 +3814,13 @@
     "quote": "Degenerates",
     "quality": "C",
     "link": "/Devolver",
-    "magazine_size": [0],
-    "max_ammo": ["∞"],
-    "reload_time": ["0"],
-    "damage": [0],
-    "fire_rate": [0.0]
+    "magazine_size": "∞",
+    "ammo_capacity": "∞",
+    "damage": "6",
+    "fire_rate": "",
+    "reload_time": "",
+    "shot_speed": "∞",
+    "spread": "",
+    "notes": null
   }
 ]
