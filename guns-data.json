@@ -3362,7 +3362,7 @@
   {
     "name": "Really Special Lute",
     "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/56/Really_Special_Lute.png?version=ec7fb4a8eef8c0d9868c04d9f796c507",
-    "type": "",
+    "type": "Automatic",
     "quote": "Purple Prose",
     "quality": "C",
     "link": "/Really_Special_Lute",
@@ -3474,7 +3474,7 @@
   {
     "name": "Evolver",
     "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/98/Evolver.png?version=1032291e77571ea19179a009b933b86b",
-    "type": "",
+    "type": "Varies",
     "quote": "Tamagunchi",
     "quality": "C",
     "link": "/Evolver",

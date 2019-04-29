@@ -9,11 +9,16 @@ defmodule GungeonSearch.DatabaseSeeder do
   def get_content(path) do
     {:ok, content} = File.read(path)
 
-    content |> Poison.decode!
+    content |> Poison.decode!()
   end
 
   def insert_item do
-    Enum.map(get_content(@item_path), fn item -> %Item{} |> Item.changeset(item) |> Repo.insert! end)
-    Enum.map(get_content(@gun_path), fn item -> %Gun{} |> Gun.changeset(item) |> Repo.insert! end)
+    Enum.map(get_content(@item_path), fn item ->
+      %Item{} |> Item.changeset(item) |> Repo.insert!()
+    end)
+
+    Enum.map(get_content(@gun_path), fn item ->
+      %Gun{} |> Gun.changeset(item) |> Repo.insert!()
+    end)
   end
 end

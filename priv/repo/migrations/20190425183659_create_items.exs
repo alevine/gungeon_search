@@ -13,6 +13,5 @@ defmodule GungeonSearch.Repo.Migrations.CreateItems do
 
       timestamps()
     end
-
   end
 end

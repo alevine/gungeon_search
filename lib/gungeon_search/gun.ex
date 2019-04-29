@@ -24,7 +24,22 @@ defmodule GungeonSearch.Gun do
   @doc false
   def changeset(gun, attrs) do
     gun
-    |> cast(attrs, [:name, :image, :type, :quote, :quality, :link, :magazine_size, :ammo_capacity, :damage, :fire_rate, :reload_time, :shot_speed, :spread, :notes])
-    |> validate_required([:name, :image, :type, :quote, :quality, :link, :magazine_size, :ammo_capacity, :damage, :fire_rate, :reload_time, :shot_speed, :spread, :notes])
+    |> cast(attrs, [
+      :name,
+      :image,
+      :type,
+      :quote,
+      :quality,
+      :link,
+      :magazine_size,
+      :ammo_capacity,
+      :damage,
+      :fire_rate,
+      :reload_time,
+      :shot_speed,
+      :spread,
+      :notes
+    ])
+    |> validate_required([:name, :image, :type, :quote, :quality, :link, :notes])
   end
 end
