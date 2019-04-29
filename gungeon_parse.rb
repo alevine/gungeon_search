@@ -8,7 +8,9 @@ ITEMS_URI = 'https://enterthegungeon.gamepedia.com/Items'.freeze
 GUNS_URI = 'https://enterthegungeon.gamepedia.com/Guns'.freeze
 
 #items_doc = Nokogiri::HTML(URI.parse(ITEMS_URI).open)
-guns_doc = Nokogiri::HTML(URI.parse(GUNS_URI).open)
+guns_doc = Nokogiri::HTML(File.open('gungeon_source.html'))
+
+puts guns_doc
 
 quality_hash = {
   S: 'https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/8b/1S_Quality_Item.png?version=40a22e5d15d51edf8172d87fc8288f9f',

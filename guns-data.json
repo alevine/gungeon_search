@@ -173,7 +173,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "6",
-    "notes": ""
+    "notes": "A small and weak handgun with only two shots per magazine."
   },
   {
     "name": "Slinger",
@@ -317,7 +317,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "4",
-    "notes": ""
+    "notes": "A small and weak semiautomatic handgun."
   },
   {
     "name": "Trank Gun",
@@ -333,7 +333,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "",
-    "notes": ""
+    "notes": "A tranquilizer gun that fires bullets."
   },
   {
     "name": "M1911",
@@ -349,7 +349,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "6",
-    "notes": ""
+    "notes": "Strong handgun with a small magazine."
   },
   {
     "name": "Magnum",
@@ -365,7 +365,7 @@
     "reload_time": "1.0",
     "shot_speed": "∞",
     "spread": "7",
-    "notes": ""
+    "notes": "A 6-round revolver that deals decent damage with a high fire rate."
   },
   {
     "name": "Colt 1851",
@@ -685,7 +685,7 @@
     "reload_time": "1.8",
     "shot_speed": "∞",
     "spread": "10",
-    "notes": ""
+    "notes": "Nearly identical in stats to the Winchester shotgun."
   },
   {
     "name": "Big Shotgun",
@@ -749,7 +749,7 @@
     "reload_time": "1.7",
     "shot_speed": "∞",
     "spread": "7",
-    "notes": ""
+    "notes": "Very similar to the Regular Shotgun, with higher shot speed and fire rate."
   },
   {
     "name": "Rattler",
@@ -1213,7 +1213,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "10",
-    "notes": ""
+    "notes": "High fire rate gun with low damage."
   },
   {
     "name": "Thompson Sub-Machinegun",
@@ -1229,7 +1229,7 @@
     "reload_time": "0.78",
     "shot_speed": "∞",
     "spread": "10",
-    "notes": ""
+    "notes": "A favorite of organized criminals!"
   },
   {
     "name": "AK-47",
@@ -1245,7 +1245,7 @@
     "reload_time": "0.6",
     "shot_speed": "∞",
     "spread": "4",
-    "notes": ""
+    "notes": "Well-balanced gun with respect to damage and ammo capacity. A classic."
   },
   {
     "name": "Strafe Gun",
@@ -1452,8 +1452,8 @@
     "fire_rate": "",
     "reload_time": "",
     "shot_speed": "∞",
-    "spread": "Changes form based on how much ammo it has left.",
-    "notes": "Rapidly fires invisible bullets. Jammed enemies hit will revert to normal."
+    "spread": "",
+    "notes": "Changes form based on how much ammo it has left."
   },
   {
     "name": "Heck Blaster",
@@ -1469,7 +1469,7 @@
     "reload_time": "0.3",
     "shot_speed": "∞",
     "spread": "8",
-    "notes": "Fires piercing bullets.\nFire rate increases rapidly as the trigger is held."
+    "notes": "Rapidly fires invisible bullets. Jammed enemies hit will revert to normal."
   },
   {
     "name": "Patriot",
@@ -1485,7 +1485,7 @@
     "reload_time": "1.0",
     "shot_speed": "∞",
     "spread": "1",
-    "notes": "Becomes more powerful if the player has armor."
+    "notes": "Fires piercing bullets.\nFire rate increases rapidly as the trigger is held."
   },
   {
     "name": "AC-15",
@@ -1501,7 +1501,7 @@
     "reload_time": "1.8",
     "shot_speed": "∞",
     "spread": "",
-    "notes": ""
+    "notes": "Becomes more powerful if the player has armor."
   },
   {
     "name": "Vulcan Cannon",
@@ -1517,7 +1517,7 @@
     "reload_time": "0.6",
     "shot_speed": "∞",
     "spread": "12",
-    "notes": "Bullets create poison puddles on impact."
+    "notes": "A machine gun with a very high fire rate, very fast shot speed and a very large magazine that is countered by low damage per shot and a very large spread. Stand close for maximum damage."
   },
   {
     "name": "Plague Pistol",
@@ -1533,7 +1533,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Greatly increases movement speed while held. Reloading clears nearby goop and refills the gun's ammo."
+    "notes": "Bullets create poison puddles on impact."
   },
   {
     "name": "Gungine",
@@ -1549,7 +1549,7 @@
     "reload_time": "1.14",
     "shot_speed": "∞",
     "spread": "6",
-    "notes": "Locks onto enemies and fires high speed homing lasers.  Invisibility while reloading an empty magazine."
+    "notes": "Greatly increases movement speed while held. Reloading clears nearby goop and refills the gun's ammo."
   },
   {
     "name": "The Predator",
@@ -1565,7 +1565,7 @@
     "reload_time": "",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Rapidly fires burning bullets that have a chance to inflict Burn."
+    "notes": "Locks onto enemies and fires high speed homing lasers.  Invisibility while reloading an empty magazine."
   },
   {
     "name": "Dragunfire",
@@ -1581,7 +1581,7 @@
     "reload_time": "1.6",
     "shot_speed": "∞",
     "spread": "7",
-    "notes": "Fires bullets that can pierce through one enemy."
+    "notes": "Rapidly fires burning bullets that have a chance to inflict Burn."
   },
   {
     "name": "Sniper Rifle",
@@ -1613,7 +1613,7 @@
     "reload_time": "2.1",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires high-speed piercing bullets."
+    "notes": "Fires bullets that can pierce through one enemy."
   },
   {
     "name": "M1",
@@ -1629,7 +1629,7 @@
     "reload_time": "1.3",
     "shot_speed": "∞",
     "spread": "2",
-    "notes": ""
+    "notes": "Fires high-speed piercing bullets."
   },
   {
     "name": "Winchester Rifle",
@@ -1645,7 +1645,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires slow, bouncing bullets that accelerate and curve towards enemies."
+    "notes": "Slow fire rate, but high damage."
   },
   {
     "name": "Corsair",
@@ -1661,7 +1661,7 @@
     "reload_time": "0.5",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires a fast-moving piercing bullet that bounces many times."
+    "notes": "Fires slow, bouncing bullets that accelerate and curve towards enemies."
   },
   {
     "name": "Railgun",
@@ -1677,7 +1677,7 @@
     "reload_time": "0.6",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Fires a fast-moving piercing bullet."
+    "notes": "Fires a fast-moving piercing bullet that bounces many times."
   },
   {
     "name": "Prototype Railgun",
@@ -1693,7 +1693,7 @@
     "reload_time": "0.6",
     "shot_speed": "∞",
     "spread": "",
-    "notes": ""
+    "notes": "Fires a fast-moving piercing bullet."
   },
   {
     "name": "Void Marshal",
@@ -1709,7 +1709,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "7",
-    "notes": "Fires a single powerful bullet that will explode upon impact."
+    "notes": "A pistol that fires fast-moving lasers."
   },
   {
     "name": "Deck4rd",
@@ -1725,7 +1725,7 @@
     "reload_time": "1.5",
     "shot_speed": "∞",
     "spread": "10",
-    "notes": "The final shot of each clip has a chance to poison, freeze or ignite enemies. (likely more effects possible)"
+    "notes": "Fires a single powerful bullet that will explode upon impact."
   },
   {
     "name": "The Judge",
@@ -1741,7 +1741,7 @@
     "reload_time": "1.0",
     "shot_speed": "∞",
     "spread": "7",
-    "notes": "Calls down a controllable orbital laser."
+    "notes": "The final shot of each clip has a chance to poison, freeze or ignite enemies. (likely more effects possible)"
   },
   {
     "name": "Mourning Star",
@@ -1757,7 +1757,7 @@
     "reload_time": "",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Charged shots are larger and deal more damage."
+    "notes": "Calls down a controllable orbital laser."
   },
   {
     "name": "Alien Sidearm",
@@ -1773,7 +1773,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires lasers that bounce four times."
+    "notes": "Charged shots are larger and deal more damage."
   },
   {
     "name": "RUBE-ADYNE Prototype",
@@ -1789,7 +1789,7 @@
     "reload_time": "0.6",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires bouncing lasers with limited range."
+    "notes": "Fires lasers that bounce four times."
   },
   {
     "name": "RUBE-ADYNE MK.II",
@@ -1805,7 +1805,7 @@
     "reload_time": "0.48",
     "shot_speed": "∞",
     "spread": "7",
-    "notes": "Created when both RUBE-ADYNE Prototype and RUBE-ADYNE MK.II are picked up. Rapidly fires bouncing lasers."
+    "notes": "Fires bouncing lasers with limited range."
   },
   {
     "name": "Rubenstein's Monster",
@@ -1821,7 +1821,7 @@
     "reload_time": "",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Transforms based on the current chamber."
+    "notes": "Created when both RUBE-ADYNE Prototype and RUBE-ADYNE MK.II are picked up. Rapidly fires bouncing lasers."
   },
   {
     "name": "Chamber Gun",
@@ -1837,7 +1837,7 @@
     "reload_time": "",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Gains persist experience and levels up with kills, changing its appearance and stats."
+    "notes": "Transforms based on the current chamber."
   },
   {
     "name": "Gunderfury",
@@ -1853,7 +1853,7 @@
     "reload_time": "",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Reloading alternates between firing three small, piercing, parallel lasers and single large lasers."
+    "notes": "Gains persist experience and levels up with kills, changing its appearance and stats."
   },
   {
     "name": "Mine Cutter",
@@ -1869,7 +1869,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "7",
-    "notes": "Fires bursts of three lasers."
+    "notes": "Reloading alternates between firing three small, piercing, parallel lasers and single large lasers."
   },
   {
     "name": "Void Core Assault Rifle",
@@ -1885,7 +1885,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "3",
-    "notes": "Shoots piercing lasers with a chance to stun."
+    "notes": "Fires bursts of three lasers."
   },
   {
     "name": "Flash Ray",
@@ -1901,7 +1901,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "10",
-    "notes": "In each magazine, the first 10 bullets pierce. The last 10 deal half damage."
+    "notes": "Shoots piercing lasers with a chance to stun."
   },
   {
     "name": "Wind Up Gun",
@@ -1917,7 +1917,7 @@
     "reload_time": "1.5",
     "shot_speed": "∞",
     "spread": "8",
-    "notes": "Fires a barrage of bullets. The last shot in the magazine is a hammer, which deals extra damage and can stun enemies."
+    "notes": "In each magazine, the first 10 bullets pierce. The last 10 deal half damage."
   },
   {
     "name": "H4mmer",
@@ -1933,7 +1933,7 @@
     "reload_time": "0.6",
     "shot_speed": "∞",
     "spread": "7",
-    "notes": "Has a chance to transmogrify enemies into snakes."
+    "notes": "Fires a barrage of bullets. The last shot in the magazine is a hammer, which deals extra damage and can stun enemies."
   },
   {
     "name": "Snakemaker",
@@ -1949,7 +1949,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Damage increases for the next magazine depending on the number of reload attempts during its reload."
+    "notes": "Has a chance to transmogrify enemies into snakes."
   },
   {
     "name": "Turbo-Gun",
@@ -1965,7 +1965,7 @@
     "reload_time": "1.0",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Shoots rapid fire white bolts of energy."
+    "notes": "Damage increases for the next magazine depending on the number of reload attempts during its reload."
   },
   {
     "name": "Hegemony Carbine",
@@ -1981,7 +1981,7 @@
     "reload_time": "1.4",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Rapidly fires piercing sound waves that have a small chance to stun."
+    "notes": "Shoots rapid fire white bolts of energy."
   },
   {
     "name": "Screecher",
@@ -1997,7 +1997,7 @@
     "reload_time": "0.6",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires piercing lasers."
+    "notes": "Rapidly fires piercing sound waves that have a small chance to stun."
   },
   {
     "name": "Laser Lotus",
@@ -2013,7 +2013,7 @@
     "reload_time": "1.38",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Rapidly fires inaccurate white lasers."
+    "notes": "Fires piercing lasers."
   },
   {
     "name": "Hegemony Rifle",
@@ -2029,7 +2029,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "13",
-    "notes": "Reloading swings the gun around, reflecting nearby bullets. Increases curse by 2."
+    "notes": "Rapidly fires inaccurate white lasers."
   },
   {
     "name": "Fightsabre",
@@ -2045,7 +2045,7 @@
     "reload_time": "1.5",
     "shot_speed": "∞",
     "spread": "8",
-    "notes": "Fires two bullets in a helix pattern."
+    "notes": "Reloading swings the gun around, reflecting nearby bullets. Increases curse by 2."
   },
   {
     "name": "Helix",
@@ -2061,7 +2061,7 @@
     "reload_time": "2.0",
     "shot_speed": "∞",
     "spread": "7",
-    "notes": "Fires a burst of three lasers."
+    "notes": "Fires two bullets in a helix pattern."
   },
   {
     "name": "Laser Rifle",
@@ -2077,7 +2077,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires bullets that slow and have a chance to freeze."
+    "notes": "Fires a burst of three lasers."
   },
   {
     "name": "Crestfaller",
@@ -2093,7 +2093,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "6",
-    "notes": "Increases coolness by 2. When reloading, if the reload button is hit at the right time, the gun's damage is increased. Failing a reload resets the damage."
+    "notes": "Fires bullets that slow and have a chance to freeze."
   },
   {
     "name": "Rad Gun",
@@ -2109,7 +2109,7 @@
     "reload_time": "Varies",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Fires balls of lightning."
+    "notes": "Increases coolness by 2. When reloading, if the reload button is hit at the right time, the gun's damage is increased. Failing a reload resets the damage."
   },
   {
     "name": "Thunderclap",
@@ -2125,7 +2125,7 @@
     "reload_time": "1.7",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires a large laser that pierces enemies and bounces off of walls two times. Laser deals higher damage after bouncing."
+    "notes": "Fires balls of lightning."
   },
   {
     "name": "Charge Shot",
@@ -2141,7 +2141,7 @@
     "reload_time": "1.0",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Charge shot consumes the entire clip to create a room-wide explosion and blank effect."
+    "notes": "Fires a large laser that pierces enemies and bounces off of walls two times. Laser deals higher damage after bouncing."
   },
   {
     "name": "Dark Marker",
@@ -2157,7 +2157,7 @@
     "reload_time": "2.0",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires a large bullet, which will split into 10 bullets which seek out enemies."
+    "notes": "Charge shot consumes the entire clip to create a room-wide explosion and blank effect."
   },
   {
     "name": "Particulator",
@@ -2173,7 +2173,7 @@
     "reload_time": "2.4",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires a burst of four bullets connected by electricity."
+    "notes": "Fires a large bullet, which will split into 10 bullets which seek out enemies."
   },
   {
     "name": "The Emperor",
@@ -2189,7 +2189,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "7",
-    "notes": "Fires grenades."
+    "notes": "Fires a burst of four bullets connected by electricity."
   },
   {
     "name": "RPG",
@@ -2205,7 +2205,7 @@
     "reload_time": "3.0",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Shoots a grenade that bounces off of surfaces and explodes on impact with enemies."
+    "notes": "Fires grenades."
   },
   {
     "name": "Grenade Launcher",
@@ -2221,7 +2221,7 @@
     "reload_time": "0.78",
     "shot_speed": "∞",
     "spread": "4",
-    "notes": "Fires homing rockets that explode into bees."
+    "notes": "Shoots a grenade that bounces off of surfaces and explodes on impact with enemies."
   },
   {
     "name": "Stinger",
@@ -2237,7 +2237,7 @@
     "reload_time": "2.0",
     "shot_speed": "∞",
     "spread": "1",
-    "notes": "Fires rockets which burst into more homing rockets. While held, grants a ghost companion that follows the player and reveals the contents of nearby chests."
+    "notes": "Fires homing rockets that explode into bees."
   },
   {
     "name": "The Exotic",
@@ -2253,7 +2253,7 @@
     "reload_time": "1.5",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Fires homing rockets."
+    "notes": "Fires rockets which burst into more homing rockets. While held, grants a ghost companion that follows the player and reveals the contents of nearby chests."
   },
   {
     "name": "Com4nd0",
@@ -2269,7 +2269,7 @@
     "reload_time": "1.5",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires rockets guided by the player's cursor."
+    "notes": "Fires homing rockets."
   },
   {
     "name": "RC Rocket",
@@ -2285,7 +2285,7 @@
     "reload_time": "1.5",
     "shot_speed": "∞",
     "spread": "1",
-    "notes": "Rapidly fires homing rockets. Bypasses the boss DPS cap."
+    "notes": "Fires rockets guided by the player's cursor."
   },
   {
     "name": "Yari Launcher",
@@ -2301,7 +2301,7 @@
     "reload_time": "1.5",
     "shot_speed": "∞",
     "spread": "45",
-    "notes": "Fires a bomb that bounces off of walls and explodes on enemy contact."
+    "notes": "Rapidly fires homing rockets. Bypasses the boss DPS cap."
   },
   {
     "name": "Lil' Bomber",
@@ -2317,7 +2317,7 @@
     "reload_time": "2.0",
     "shot_speed": "∞",
     "spread": "6",
-    "notes": "Fires a single powerful blast that has very strong recoil."
+    "notes": "Fires a bomb that bounces off of walls and explodes on enemy contact."
   },
   {
     "name": "Grasschopper",
@@ -2333,7 +2333,7 @@
     "reload_time": "2.0",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires bursts of four large energy balls, which home in on enemies and explode upon impact."
+    "notes": "Fires a single powerful blast that has very strong recoil."
   },
   {
     "name": "Void Core Cannon",
@@ -2349,7 +2349,7 @@
     "reload_time": "",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Has a chance to transmogrify."
+    "notes": "Fires bursts of four large energy balls, which home in on enemies and explode upon impact."
   },
   {
     "name": "Bundle of Wands",
@@ -2365,7 +2365,7 @@
     "reload_time": "1.5",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Reloading alternates between a rapid fire pistol and a beam weapon that can set enemies on fire."
+    "notes": "Has a chance to transmogrify."
   },
   {
     "name": "Staff of Firepower",
@@ -2381,7 +2381,7 @@
     "reload_time": "1.0",
     "shot_speed": "∞",
     "spread": "7",
-    "notes": "Fires bullets that have a chance to transmogrify enemies."
+    "notes": "Reloading alternates between a rapid fire pistol and a beam weapon that can set enemies on fire."
   },
   {
     "name": "Witch Pistol",
@@ -2397,7 +2397,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "2",
-    "notes": "Fires piercing bullets that have a chance to transmogrify enemies."
+    "notes": "Fires bullets that have a chance to transmogrify enemies."
   },
   {
     "name": "Hexagun",
@@ -2413,7 +2413,7 @@
     "reload_time": "1.02",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Shooting creates a small cone of fire in front of the player that burns enemies."
+    "notes": "Fires piercing bullets that have a chance to transmogrify enemies."
   },
   {
     "name": "Phoenix",
@@ -2429,7 +2429,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "3",
-    "notes": "Hitting an enemy three times causes a genie to punch them."
+    "notes": "Shooting creates a small cone of fire in front of the player that burns enemies."
   },
   {
     "name": "Magic Lamp",
@@ -2445,7 +2445,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "While reloading, ignites nearby enemies."
+    "notes": "Hitting an enemy three times causes a genie to punch them."
   },
   {
     "name": "Teapot",
@@ -2461,7 +2461,7 @@
     "reload_time": "",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Fires slow homing ghosts that shoot and deal contact damage."
+    "notes": "While reloading, ignites nearby enemies."
   },
   {
     "name": "Gunslinger's Ashes",
@@ -2477,7 +2477,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires laser shots at enemies. The last bullet of magazine fires a crystal, which splits into 5 small crystals on impact."
+    "notes": "Fires slow homing ghosts that shoot and deal contact damage."
   },
   {
     "name": "Luxin Cannon",
@@ -2493,7 +2493,7 @@
     "reload_time": "1.5",
     "shot_speed": "∞",
     "spread": "6",
-    "notes": "Cannot be used to reveal hidden walls. Grows stronger with each room cleared."
+    "notes": "Fires laser shots at enemies. The last bullet of magazine fires a crystal, which splits into 5 small crystals on impact."
   },
   {
     "name": "Gunther",
@@ -2509,7 +2509,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "10",
-    "notes": "Fires a rainbow beam that homes in on enemies. Increases curse by 1."
+    "notes": "Cannot be used to reveal hidden walls. Grows stronger with each room cleared."
   },
   {
     "name": "Unicorn Horn",
@@ -2525,7 +2525,7 @@
     "reload_time": "N/A",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires blue lasers. Charging the weapon makes it fire lasers in four directions."
+    "notes": "Fires a rainbow beam that homes in on enemies. Increases curse by 1."
   },
   {
     "name": "Cobalt Hammer",
@@ -2541,7 +2541,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires big bullets that have a chance to freeze."
+    "notes": "Fires blue lasers. Charging the weapon makes it fire lasers in four directions."
   },
   {
     "name": "Frost Giant",
@@ -2557,7 +2557,7 @@
     "reload_time": "1.6",
     "shot_speed": "∞",
     "spread": "12",
-    "notes": "Fires drills that home in on enemies, stun them, and explode after a short delay."
+    "notes": "Fires big bullets that have a chance to freeze."
   },
   {
     "name": "Bullet Bore",
@@ -2573,7 +2573,7 @@
     "reload_time": "1.5",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires darts that home in on enemies and explode after a short delay. The darts deal minimal damage on contact."
+    "notes": "Fires drills that home in on enemies, stun them, and explode after a short delay."
   },
   {
     "name": "Cat Claw",
@@ -2589,7 +2589,7 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Has 2 levels of damage depending on how long the gun has been charged."
+    "notes": "Fires darts that home in on enemies and explode after a short delay. The darts deal minimal damage on contact."
   },
   {
     "name": "Megahand",
@@ -2605,7 +2605,7 @@
     "reload_time": "0.54",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires a continuous beam that has a chance to inflict Burn and slightly homes in on enemies."
+    "notes": "Has 2 levels of damage depending on how long the gun has been charged."
   },
   {
     "name": "Demon Head",
@@ -2621,7 +2621,7 @@
     "reload_time": "N/A",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Has 3 levels of damage depending on how long the gun has been charged."
+    "notes": "Fires a continuous beam that has a chance to inflict Burn and slightly homes in on enemies."
   },
   {
     "name": "Heroine",
@@ -2637,7 +2637,7 @@
     "reload_time": "0.54",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires a continuous beam and heavily pushes back the player."
+    "notes": "Has 3 levels of damage depending on how long the gun has been charged."
   },
   {
     "name": "Mutation",
@@ -2653,7 +2653,7 @@
     "reload_time": "N/A",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires fireballs that pierce enemies and have a chance to set enemies on fire."
+    "notes": "Fires a continuous beam and heavily pushes back the player."
   },
   {
     "name": "Flame Hand",
@@ -2669,11 +2669,11 @@
     "reload_time": "0.0",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Shoots fiery javelins that make enemies take damage over time."
+    "notes": "Fires fireballs that pierce enemies and have a chance to set enemies on fire."
   },
   {
     "name": "Sunlight Javelin",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/11/Sunlight_Javelin.png?version=d08fdc83c455478b7ed10e39ab538bb9",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f7x2f77x2fYatromnz_Pgbkrot.vtmx3fbkx78youtx3dj64lji49i011034h3kj76k95gh194hh5x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Brilliant Aura",
     "quality": "B",
@@ -2685,11 +2685,11 @@
     "reload_time": "",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Reloading alternates between firing a gatling gun, and a single shot exploding rocket punch that is guided by the player's reticle. The rocket punch consumes 10 ammo upon firing."
+    "notes": "Shoots fiery javelins that make enemies take damage over time."
   },
   {
     "name": "Machine Fist",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/5a/Machine_Fist.png?version=ec8e9144b6fcfe7b802e9750ea39b2ec",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f1x2f1gx2fSginotk_Loyz.vtmx3fbkx78youtx3dki4k5700h2lilk3h468k5316kg95h8kix26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Automatic",
     "quote": "Avalanche Of Bullets",
     "quality": "A",
@@ -2701,11 +2701,11 @@
     "reload_time": "1.0",
     "shot_speed": "∞",
     "spread": "6",
-    "notes": "Rapidly fires blue lasers."
+    "notes": "Reloading alternates between firing a gatling gun, and a single shot exploding rocket punch that is guided by the player's reticle. The rocket punch consumes 10 ammo upon firing."
   },
   {
     "name": "Robot's Left Hand",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/fb/Robot%27s_Left_Hand.png?version=f478e818b4edc47550e09f07a9dd1df2",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2flx2flhx2fXuhuzx2583y_Rklz_Ngtj.vtmx3fbkx78youtx3dl034k474h0kji03116k65l63g5jj7jl8x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Automatic",
     "quote": "See You Later",
     "quality": "A",
@@ -2717,11 +2717,11 @@
     "reload_time": "1.6",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Fires snowballs that have a chance to freeze enemies."
+    "notes": "Rapidly fires blue lasers."
   },
   {
     "name": "Snowballer",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/39/Snowballer.png?version=f28cf0cec194fb7e9c02abd8ba24a20a",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f9x2f95x2fYtuchgrrkx78.vtmx3fbkx78youtx3dl84il6iki750lh3k5i68ghj4hg80g86gx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Automatic",
     "quote": "May Contain Rocks",
     "quality": "D",
@@ -2733,11 +2733,11 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "10",
-    "notes": "Fires piercing, bouncing saw blades. Slightly increases movement speed."
+    "notes": "Fires snowballs that have a chance to freeze enemies."
   },
   {
     "name": "Super Meat Gun",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/e/ee/Super_Meat_Gun.png?version=ef23c0e6730d502f7d6984917cf313d7",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2fkx2fkkx2fYavkx78_Skgz_Mat.vtmx3fbkx78youtx3dkl89i6k2396j168l3j2540573il979j3x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Very Fast",
     "quality": "A",
@@ -2749,11 +2749,11 @@
     "reload_time": "0.5",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires piercing anvils with high knockback and a chance to stun."
+    "notes": "Fires piercing, bouncing saw blades. Slightly increases movement speed."
   },
   {
     "name": "Anvillain",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/2/28/Anvillain.png?version=95637a06e46d911c5fa56297a6c1f559",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f8x2f84x2fGtborrgot.vtmx3fbkx78youtx3d51293g62k02j577i1lg12853g2i7l115x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Charged",
     "quote": "Practical And Safe",
     "quality": "C",
@@ -2765,11 +2765,11 @@
     "reload_time": "0.5",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires a stream of oil. Reloading spits fire, which can ignite the oil."
+    "notes": "Fires piercing anvils with high knockback and a chance to stun."
   },
   {
     "name": "Fossilized Gun",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/7/77/Fossilized_Gun.png?version=d4ca903dce90f1b0f56ad0096d22fcbb",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f3x2f33x2fLuyyorofkj_Mat.vtmx3fbkx78youtx3dj0ig569jik56l7h6l12gj6652j88lihhx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Beam",
     "quote": "Proof That Guns Once Existed",
     "quality": "D",
@@ -2781,11 +2781,11 @@
     "reload_time": "N/A",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires a green laser that slightly curves towards enemies and can poison."
+    "notes": "Fires a stream of oil. Reloading spits fire, which can ignite the oil."
   },
   {
     "name": "Gamma Ray",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/30/Gamma_Ray.png?version=1c3aac21abca2399ba5d6cfddfe44f9b",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f9x2f96x2fMgssg_Xge.vtmx3fbkx78youtx3d7i9ggi87ghig8955hg1j2iljjlk00l5hx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Beam",
     "quote": "Mean Green",
     "quality": "C",
@@ -2797,11 +2797,11 @@
     "reload_time": "N/A",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires a blue laser that has a chance to freeze enemies."
+    "notes": "Fires a green laser that slightly curves towards enemies and can poison."
   },
   {
     "name": "Freeze Ray",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/c/c2/Freeze_Ray.png?version=4a13bcd55db680c90d03fddcf7e06dd9",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2fix2fi8x2fLx78kkfk_Xge.vtmx3fbkx78youtx3d0g79hij11jh246i56j69ljjil3k62jj5x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Beam",
     "quote": "Ice To Meet You",
     "quality": "A",
@@ -2813,11 +2813,11 @@
     "reload_time": "N/A",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires a large laser after a short charge-up, which inflicts random status effects on enemies."
+    "notes": "Fires a blue laser that has a chance to freeze enemies."
   },
   {
     "name": "Science Cannon",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/6/68/Science_Cannon.png?version=dd06c0958217bfd8e124778dd024df1e",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f2x2f24x2fYioktik_Igttut.vtmx3fbkx78youtx3djj62i6514873hlj4k780334jj680jl7kx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Beam",
     "quote": "Charged Particles",
     "quality": "B",
@@ -2829,11 +2829,11 @@
     "reload_time": "N/A",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires a large laser after a long charge-up."
+    "notes": "Fires a large laser after a short charge-up, which inflicts random status effects on enemies."
   },
   {
     "name": "Disintegrator",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/84/Disintegrator.png?version=af30d0eff1cfc22fc435b88383cbd817",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f4x2f40x2fJoyotzkmx78gzux78.vtmx3fbkx78youtx3dgl96j6kll7ili88li091h44949ihj473x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Beam",
     "quote": "Return To Dust",
     "quality": "S",
@@ -2845,11 +2845,11 @@
     "reload_time": "N/A",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires a homing laser."
+    "notes": "Fires a large laser after a long charge-up."
   },
   {
     "name": "Proton Backpack",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/b0/Proton_Backpack.png?version=238cef37caba5d092d4f803c363e6d90",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2fhx2fh6x2fVx78uzut_Hgiqvgiq.vtmx3fbkx78youtx3d894ikl93ighg1j658j0l469i929k2j56x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Beam",
     "quote": "Crossing Streams",
     "quality": "B",
@@ -2861,11 +2861,11 @@
     "reload_time": "N/A",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires a stream of water."
+    "notes": "Fires a homing laser."
   },
   {
     "name": "Mega Douser",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/c/c1/Mega_Douser.png?version=98ed724f6067a02808af730b60f3730c",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2fix2fi7x2fSkmg_Juaykx78.vtmx3fbkx78youtx3d54kj380l2623g68464gl396h26l9396ix26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Beam",
     "quote": "Contents Under Pressure",
     "quality": "D",
@@ -2877,11 +2877,11 @@
     "reload_time": "N/A",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires a stream of poison. Has a chance to poison enemies and leaves poison puddles on impact."
+    "notes": "Fires a stream of water."
   },
   {
     "name": "Plunger",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/3/30/Plunger.png?version=7b0555620b5ed412a0980f401a6e2afd",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f9x2f96x2fVratmkx78.vtmx3fbkx78youtx3d3h6111286h1kj078g6546l067g2k8gljx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Beam",
     "quote": "Take Your Best Shot!",
     "quality": "C",
@@ -2893,11 +2893,11 @@
     "reload_time": "N/A",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires a laser that homes in on all on-screen enemies."
+    "notes": "Fires a stream of poison. Has a chance to poison enemies and leaves poison puddles on impact."
   },
   {
     "name": "Raiden Coil",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/1e/Raiden_Coil.png?version=2db355cc00aa6e8c922bc259cc252919",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f7x2f7kx2fXgojkt_Iuor.vtmx3fbkx78youtx3d8jh911ii66gg2k4i588hi815ii818575x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Beam",
     "quote": "Shoot Em' Up",
     "quality": "A",
@@ -2909,11 +2909,11 @@
     "reload_time": "N/A",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires a beam that reflects off of solid objects once."
+    "notes": "Fires a laser that homes in on all on-screen enemies."
   },
   {
     "name": "Moonscraper",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/b/ba/Moonscraper.png?version=a75759e6d1dbc978ce7cd1a19c4fafb1",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2fhx2fhgx2fSuutyix78gvkx78.vtmx3fbkx78youtx3dg31315k2j7jhi534ik3ij7g75i0lglh7x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Beam",
     "quote": "Beeeeoooowwww!",
     "quality": "C",
@@ -2925,11 +2925,11 @@
     "reload_time": "N/A",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires a fish that has a chance to stun and leaves a pool of water on impact."
+    "notes": "Fires a beam that reflects off of solid objects once."
   },
   {
     "name": "Barrel",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/a1/Barrel.png?version=0748066ed171faccaadbbd64cd572cf5",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2fgx2fg7x2fHgx78x78kr.vtmx3fbkx78youtx3d6304622kj737lgiiggjhhj20ij138il1x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Nothin' Easier",
     "quality": "C",
@@ -2941,11 +2941,11 @@
     "reload_time": "0.78",
     "shot_speed": "∞",
     "spread": "7",
-    "notes": "Reloading transforms the gun between a pistol and a shotgun."
+    "notes": "Fires a fish that has a chance to stun and leaves a pool of water on impact."
   },
   {
     "name": "Trick Gun",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/d1/Trick_Gun.png?version=8b6776ce8bc62f052b7e2920028b00b3",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2fjx2fj7x2fZx78oiq_Mat.vtmx3fbkx78youtx3d4h2332ik4hi28l618h3k8586684h66h9x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Reload To Transform",
     "quality": "C",
@@ -2957,11 +2957,11 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Fires mail at enemies. The last bullet of each magazine is a package, which can explode, leave confetti, burn, or poison."
+    "notes": "Reloading transforms the gun between a pistol and a shotgun."
   },
   {
     "name": "Mailbox",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/88/Mailbox.png?version=c1cf80d0a2aa70a157181eb57e43e1ed",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f4x2f44x2fSgorhud.vtmx3fbkx78youtx3di7il46j6g8gg36g713747kh13k09k7kjx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Special Delivery",
     "quality": "D",
@@ -2973,11 +2973,11 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "10",
-    "notes": "Fires a rapid stream of low damage nails. Fires faster if fire button is tapped rather than held."
+    "notes": "Fires mail at enemies. The last bullet of each magazine is a package, which can explode, leave confetti, burn, or poison."
   },
   {
     "name": "Nail Gun",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/7/79/Nail_Gun.png?version=b220308eb7a637b2cc0c12abb09b2a63",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f3x2f35x2fTgor_Mat.vtmx3fbkx78youtx3dh886964kh3g293h8ii6i78ghh65h8g29x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Pest Control",
     "quality": "D",
@@ -2989,11 +2989,11 @@
     "reload_time": "0.0",
     "shot_speed": "∞",
     "spread": "10",
-    "notes": "Fires zaps of light at enemies. The last bullet in the magazine is a duck, which will automatically seek out the nearest enemy and attack them."
+    "notes": "Fires a rapid stream of low damage nails. Fires faster if fire button is tapped rather than held."
   },
   {
     "name": "Light Gun",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/44/Light_Gun.png?version=45e1447fd0c937c142727e28cb023f3d",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f0x2f00x2fRomnz_Mat.vtmx3fbkx78youtx3d01k7003lj6i593i708383k84ih689l9jx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Third-Party",
     "quality": "B",
@@ -3005,11 +3005,11 @@
     "reload_time": "1.0",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires a large, piercing, high-damage laser. Needs to recharge after each shot."
+    "notes": "Fires zaps of light at enemies. The last bullet in the magazine is a duck, which will automatically seek out the nearest enemy and attack them."
   },
   {
     "name": "Dueling Laser",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/af/Dueling_Laser.png?version=fc81da9dd598cc765243b6ec3641d329",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2fgx2fglx2fJakrotm_Rgykx78.vtmx3fbkx78youtx3dli47jg5jj154ii321809h2ki9207j985x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "More interesting this way!",
     "quality": "B",
@@ -3021,11 +3021,11 @@
     "reload_time": "",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Melee weapon that extends itself to hit enemies. Increases curse by 1."
+    "notes": "Fires a large, piercing, high-damage laser. Needs to recharge after each shot."
   },
   {
     "name": "Wood Beam",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/7/78/Wood_Beam.png?version=f68ace3614b5397d561b8e162cb77f94",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f3x2f34x2fCuuj_Hkgs.vtmx3fbkx78youtx3dl24gik9270h1953j127h4k728ih33l50x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Beam",
     "quote": "Speak Softly",
     "quality": "B",
@@ -3037,11 +3037,11 @@
     "reload_time": "",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Fires bouncing explosive wood bullets and several leaves."
+    "notes": "Melee weapon that extends itself to hit enemies. Increases curse by 1."
   },
   {
     "name": "Mahoguny",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/e/ed/Mahoguny.png?version=54ad9e95ac7d1bf4ede8b83b15bc4d05",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2fkx2fkjx2fSgnumate.vtmx3fbkx78youtx3d10gj5k51gi3j7hl0kjk4h49h71hi0j61x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "100% Organic",
     "quality": "C",
@@ -3053,11 +3053,11 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires bullets that hatch into many homing bullets upon hitting an enemy or obstacle."
+    "notes": "Fires bouncing explosive wood bullets and several leaves."
   },
   {
     "name": "The Scrambler",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/fc/The_Scrambler.png?version=fbe6e51b0b43e49f51eb1d77a2f3e36c",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2flx2flix2fZnk_Yix78gshrkx78.vtmx3fbkx78youtx3dlhk2k17h6h09k05l17kh7j33g8l9k92ix26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Bullet Or The Gun?",
     "quality": "C",
@@ -3069,11 +3069,11 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "6",
-    "notes": "Fires a trash bag that explodes into poison projectiles that leave trails of poison goop."
+    "notes": "Fires bullets that hatch into many homing bullets upon hitting an enemy or obstacle."
   },
   {
     "name": "Trashcannon",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/1e/Trashcannon.png?version=bd87857586021436293f5221b671157c",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f7x2f7kx2fZx78gynigttut.vtmx3fbkx78youtx3dhj43413142687092859l1887h237713ix26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Take It Out!",
     "quality": "C",
@@ -3085,11 +3085,11 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires bouncing ice cubes that explode and freeze enemies."
+    "notes": "Fires a trash bag that explodes into poison projectiles that leave trails of poison goop."
   },
   {
     "name": "Glacier",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/2/24/Glacier.png?version=81164ced96631a879ae851f2282d1dfd",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f8x2f80x2fMrgiokx78.vtmx3fbkx78youtx3d47720ikj52297g435gk417l8848j7jljx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Automatic",
     "quote": "Refill Your Trays",
     "quality": "A",
@@ -3101,11 +3101,11 @@
     "reload_time": "1.5",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires paper planes that follow the player's crosshair."
+    "notes": "Fires bouncing ice cubes that explode and freeze enemies."
   },
   {
     "name": "Origuni",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/0/09/Origuni.png?version=5cce7ec489fb6192fa8566021d935c5b",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f6x2f65x2fUx78omato.vtmx3fbkx78youtx3d1iik3ki045lh2758lg4122687j591i1hx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Thousand Cuts",
     "quality": "C",
@@ -3117,11 +3117,11 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Fires pots that break into 3 bouncing crystals upon hitting something."
+    "notes": "Fires paper planes that follow the player's crosshair."
   },
   {
     "name": "The Kiln",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/48/The_Kiln.png?version=e26c4bf276c95cf1dd8fefbb9529d5a0",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f0x2f04x2fZnk_Qort.vtmx3fbkx78youtx3dk82i0hl832i51il7jj4lklhh5185j1g6x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Fires Pots",
     "quality": "C",
@@ -3133,11 +3133,11 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires homing skulls."
+    "notes": "Fires pots that break into 3 bouncing crystals upon hitting something."
   },
   {
     "name": "Skull Spitter",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/0/0b/Skull_Spitter.png?version=62045d9625169a7200d798afd7be7fcb",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f6x2f6hx2fYqarr_Yvozzkx78.vtmx3fbkx78youtx3d28601j5281725g3866j354glj3hk3lihx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Hard Headed",
     "quality": "C",
@@ -3149,11 +3149,11 @@
     "reload_time": "1.0",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires piercing, bouncing sawblades."
+    "notes": "Fires homing skulls."
   },
   {
     "name": "Buzzkill",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/7/7e/Buzzkill.png?version=9966ef447884a4cf4d5998eb92e62818",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f3x2f3kx2fHaffqorr.vtmx3fbkx78youtx3d5522kl003440g0il0j1554kh58k28474x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Sawed On!",
     "quality": "C",
@@ -3165,11 +3165,11 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires tears that leave behind puddles of water."
+    "notes": "Fires piercing, bouncing sawblades."
   },
   {
     "name": "Tear Jerker",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/2/2b/Tear_Jerker.png?version=7770f328f36906257eb676cdb31d0895",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f8x2f8hx2fZkgx78_Pkx78qkx78.vtmx3fbkx78youtx3d3336l984l92562813kh232ijh97j6451x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Q_Q",
     "quality": "C",
@@ -3181,11 +3181,11 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires water droplets. Can be charged to increase the number of droplets fired."
+    "notes": "Fires tears that leave behind puddles of water."
   },
   {
     "name": "Starpew",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/0/0a/Starpew.png?version=a106d9ae93b4ba032a4fe01e9b6f2363",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f6x2f6gx2fYzgx78vkc.vtmx3fbkx78youtx3dg762j5gk59h0hg698g0lk67k5h2l8929x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Charged",
     "quote": "Reap And Sow",
     "quality": "A",
@@ -3197,11 +3197,11 @@
     "reload_time": "",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "The last shot of each clip spawns a friendly Beadie."
+    "notes": "Fires water droplets. Can be charged to increase the number of droplets fired."
   },
   {
     "name": "Eye of the Beholster",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/4c/Eye_of_the_Beholster.png?version=e1a903834bd5357575a855ed0f2f7b50",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f0x2f0ix2fKek_ul_znk_Hknuryzkx78.vtmx3fbkx78youtx3dk7g569490hj1913131g411kj6l8l3h16x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "What A Beauty!",
     "quality": "B",
@@ -3213,11 +3213,11 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "4",
-    "notes": "Fires molotovs that create fire puddles on impact."
+    "notes": "The last shot of each clip spawns a friendly Beadie."
   },
   {
     "name": "Molotov Launcher",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/thumb/0/03/Molotov_Launcher.png/32px-Molotov_Launcher.png?version=5484875a60e9154ab17559feb86082fa",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2fznashx2f6x2f69x2fSuruzub_Rgatinkx78.vtmx2f98vd-Suruzub_Rgatinkx78.vtmx3fbkx78youtx3d1040431g26k5710gh73115lkh42648lgx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Exactly What You Think",
     "quality": "C",
@@ -3229,11 +3229,11 @@
     "reload_time": "2.5",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires a powerful beam. Loses all ammo upon taking damage."
+    "notes": "Fires molotovs that create fire puddles on impact."
   },
   {
     "name": "Glass Cannon",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/6/6e/Glass_Cannon.png?version=009c8ea0d3f0dc02320b9e3ebac24d09",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f2x2f2kx2fMrgyy_Igttut.vtmx3fbkx78youtx3d665i4kg6j9l6ji68986h5k9khgi80j65x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Charged",
     "quote": "Fragile, Fatal",
     "quality": "C",
@@ -3245,11 +3245,11 @@
     "reload_time": "",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Fires a zap of electricity."
+    "notes": "Fires a powerful beam. Loses all ammo upon taking damage."
   },
   {
     "name": "Shock Rifle",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/6/6a/Shock_Rifle.png?version=fe3aafb5e50257e3d5e54a473715a2ed",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f2x2f2gx2fYnuiq_Xolrk.vtmx3fbkx78youtx3dlk9gglh1k16813k9j1k10g039371g8kjx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Zap",
     "quality": "B",
@@ -3261,11 +3261,11 @@
     "reload_time": "1.5",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires a steak that causes a tiger to appear and maul the target."
+    "notes": "Fires a zap of electricity."
   },
   {
     "name": "Bait Launcher",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/c/ca/Bait_Launcher.png?version=2532bc88f7402f83b5e778ae70e25ad4",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2fix2figx2fHgoz_Rgatinkx78.vtmx3fbkx78youtx3d8198hi44l3068l49h1k334gk36k81gj0x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Charged",
     "quote": "Meat Your Maker",
     "quality": "C",
@@ -3277,11 +3277,11 @@
     "reload_time": "1.0",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires piercing turtle shells that bounce off of walls."
+    "notes": "Fires a steak that causes a tiger to appear and maul the target."
   },
   {
     "name": "Brick Breaker",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/51/Brick_Breaker.png?version=e63cfe47af4b25a1c2f3ef48307508b0",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f1x2f17x2fHx78oiq_Hx78kgqkx78.vtmx3fbkx78youtx3dk29ilk03gl0h81g7i8l9kl04963164h6x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Wrong Kind Of Mortar",
     "quality": "C",
@@ -3293,11 +3293,11 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "2",
-    "notes": "Upon reloading, leaves a protective shield on the ground. Players in that area will be protected until the shield has absorbed a number of bullets."
+    "notes": "Fires piercing turtle shells that bounce off of walls."
   },
   {
     "name": "Betrayer's Shield",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/82/Betrayer%27s_Shield.png?version=ca88e7c8da7079244876524dc286a42d",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f4x2f48x2fHkzx78gekx78x2583y_Ynokrj.vtmx3fbkx78youtx3dig44k3i4jg3635800432180ji842g08jx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Automatic",
     "quote": "Actually A Gun",
     "quality": "B",
@@ -3309,11 +3309,11 @@
     "reload_time": "1.5",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires a burst of 6 bullets that spell out the word bullet."
+    "notes": "Upon reloading, leaves a protective shield on the ground. Players in that area will be protected until the shield has absorbed a number of bullets."
   },
   {
     "name": "Lower Case r",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/f4/Lower_Case_r.png?version=9f9a4beef28816ba3674f03cc47dc8dc",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2flx2fl0x2fRuckx78_Igyk_x78.vtmx3fbkx78youtx3d5l5g0hkkl84472hg9230l69ii03ji4jix26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Burst",
     "quote": "Alphabetical!",
     "quality": "D",
@@ -3325,11 +3325,11 @@
     "reload_time": "2.0",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires a burst of three piercing sword projectiles. Reloading swings the sword, destroying nearby bullets and damaging nearby enemies. Increases curse by 2.5."
+    "notes": "Fires a burst of 6 bullets that spell out the word bullet."
   },
   {
     "name": "Excaliber",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/5f/Excaliber.png?version=51640d3674fb7c267effc8e6eeeb5cc7",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f1x2f1lx2fKdigrohkx78.vtmx3fbkx78youtx3d17206j9230lh3i823klli4k2kkkh1ii3x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Burst",
     "quote": "Once And Future",
     "quality": "B",
@@ -3341,11 +3341,11 @@
     "reload_time": "0.48",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Simultaneously fires music notes in four directions. Places an amplifier on the ground at the player's position upon reloading. Whenever the Face Melter is fired, the amplifier will fire music notes in the same pattern. Reloading again will remove the amplifier and place a new one."
+    "notes": "Fires a burst of three piercing sword projectiles. Reloading swings the sword, destroying nearby bullets and damaging nearby enemies. Increases curse by 2.5."
   },
   {
     "name": "Face Melter",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/4f/Face_Melter.png?version=ba81e1efd7bd3b1241c2eeebc3953da0",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f0x2f0lx2fLgik_Skrzkx78.vtmx3fbkx78youtx3dhg47k7klj3hj9h7807i8kkkhi9519jg6x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Automatic",
     "quote": "Squiddley-squiddley-wheeyooo!",
     "quality": "B",
@@ -3357,11 +3357,11 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "6",
-    "notes": ""
+    "notes": "Simultaneously fires music notes in four directions. Places an amplifier on the ground at the player's position upon reloading. Whenever the Face Melter is fired, the amplifier will fire music notes in the same pattern. Reloading again will remove the amplifier and place a new one."
   },
   {
     "name": "Really Special Lute",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/56/Really_Special_Lute.png?version=ec7fb4a8eef8c0d9868c04d9f796c507",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f1x2f12x2fXkgrre_Yvkiogr_Razk.vtmx3fbkx78youtx3dki3lh0g4kkl4i6j5424i60j5l352i163x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "",
     "quote": "Purple Prose",
     "quality": "C",
@@ -3373,11 +3373,11 @@
     "reload_time": "",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Fires a long-range laser that pierces one enemy. Destroys nearby bullets and pushes enemies away while reloading."
+    "notes": "This gun fires a spread of 7 bullets that have a chance to charm enemies. It also buffs nearby companions."
   },
   {
     "name": "Trident",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/thumb/9/9a/Trident.png/32px-Trident.png?version=d3aded454f42eab1c65f752e8c5812f0",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2fznashx2f5x2f5gx2fZx78ojktz.vtmx2f98vd-Zx78ojktz.vtmx3fbkx78youtx3dj9gjkj010l08kgh7i21l318k4i1478l6x26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Under The Sea",
     "quality": "A",
@@ -3389,11 +3389,11 @@
     "reload_time": "1.0",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Throws a boomerang-like projectile that homes in on multiple enemies, damaging and sometimes stunning them."
+    "notes": "Fires a long-range laser that pierces one enemy. Destroys nearby bullets and pushes enemies away while reloading."
   },
   {
     "name": "Kruller Glaive",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/48/Kruller_Glaive.png?version=581c903edc988fb972ce9f42d61ce2d5",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f0x2f04x2fQx78arrkx78_Mrgobk.vtmx3fbkx78youtx3d147i569kji544lh538ik5l08j27ik8j1x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Charged",
     "quote": "Studied the Blade",
     "quality": "B",
@@ -3405,11 +3405,11 @@
     "reload_time": "",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Fires a tentacle that homes in on and grips enemies, damaging them."
+    "notes": "Throws a boomerang-like projectile that homes in on multiple enemies, damaging and sometimes stunning them."
   },
   {
     "name": "Abyssal Tentacle",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/fe/Abyssal_Tentacle.png?version=67776d746a9f327d8b7053a95af821c9",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2flx2flkx2fGheyygr_Zktzgirk.vtmx3fbkx78youtx3d23332j302g5l983j4h3619g51gl487i5x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Beam",
     "quote": "Look Away",
     "quality": "A",
@@ -3421,11 +3421,11 @@
     "reload_time": "N/A",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires a large, square, extremely slow bullet."
+    "notes": "Fires a tentacle that homes in on and grips enemies, damaging them."
   },
   {
     "name": "Quad Laser",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/0/02/Quad_Laser.png?version=66c0556f5340e4caeb348b57fd646cad",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f6x2f68x2fWagj_Rgykx78.vtmx3fbkx78youtx3d22i6112l1906k0igkh904h13lj202igjx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "No One Can Defeat It",
     "quality": "C",
@@ -3437,11 +3437,11 @@
     "reload_time": "1.5",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires random tetrominoes that stick to enemies. Line pieces explode, dealing more damage the more tetrominoes are stuck to an enemy."
+    "notes": "Fires a large, square, extremely slow bullet."
   },
   {
     "name": "Tetrominator",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/5f/Tetrominator.png?version=d1ae4915fd6b257c1dde47e9972688e7",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f1x2f1lx2fZkzx78usotgzux78.vtmx3fbkx78youtx3dj7gk0571lj2h813i7jjk03k5538244k3x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "LINE PIECE!",
     "quality": "B",
@@ -3453,11 +3453,11 @@
     "reload_time": "",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Fires piercing fireballs that burn."
+    "notes": "Fires random tetrominoes that stick to enemies. Line pieces explode, dealing more damage the more tetrominoes are stuck to an enemy."
   },
   {
     "name": "Pitchfork",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/1/1c/Pitchfork.png?version=b36b71d8b4f86fce078c9ceac40f769f",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f7x2f7ix2fVozinlux78q.vtmx3fbkx78youtx3dh92h37j4h0l42lik634i5ikgi06l325lx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Get Forked!",
     "quality": "C",
@@ -3469,11 +3469,11 @@
     "reload_time": "0.0",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Killing enemies evolves the gun through 6 forms."
+    "notes": "Fires piercing fireballs that burn."
   },
   {
     "name": "Evolver",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/98/Evolver.png?version=1032291e77571ea19179a009b933b86b",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f5x2f54x2fKburbkx78.vtmx3fbkx78youtx3d7698857k33137kg75735g665h599h42hx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "",
     "quote": "Tamagunchi",
     "quality": "C",
@@ -3485,11 +3485,11 @@
     "reload_time": "",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "In oil mode, creates oil puddles on impact. In fire mode, fires fireballs that pierce and burn. Reloading switches modes."
+    "notes": "Killing enemies evolves the gun through 6 forms."
   },
   {
     "name": "Gungeon Ant",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/8d/Gungeon_Ant.png?version=3fea17e9b537fb7e1020819f0dbb6246",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f4x2f4jx2fMatmkut_Gtz.vtmx3fbkx78youtx3d9lkg73k5h193lh3k7686475l6jhh2802x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "What Army?",
     "quality": "C",
@@ -3501,11 +3501,11 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "After killing an enemy, reloading damages all enemies in the room."
+    "notes": "In oil mode, creates oil puddles on impact. In fire mode, fires fireballs that pierce and burn. Reloading switches modes."
   },
   {
     "name": "Life Orb",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/a5/Life_Orb.png?version=f51da3a239436da57b847ded3df1f5c9",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2fgx2fg1x2fRolk_Ux78h.vtmx3fbkx78youtx3dl17jg9g895092jg13h403jkj9jl7l1i5x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Beam",
     "quote": "Your Soul is Mine",
     "quality": "A",
@@ -3517,11 +3517,11 @@
     "reload_time": "",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Rapid fire weapon that has a very short range, only damaging enemies that come into contact with the muzzle flash. Enemies damaged have a chance to catch on fire. Extremely high recoil."
+    "notes": "After killing an enemy, reloading damages all enemies in the room."
   },
   {
     "name": "Alien Engine",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/2/2e/Alien_Engine.png?version=c161b13fb7fff07f6365f38bdba6c882",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f8x2f8kx2fGrokt_Ktmotk.vtmx3fbkx78youtx3di727h79lh3lll63l2921l94hjhg2i448x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Automatic",
     "quote": "The Dangerzone",
     "quality": "B",
@@ -3533,11 +3533,11 @@
     "reload_time": "0.9",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Shoots various figurines, books, and gems at the cost of 1 coin per shot."
+    "notes": "Rapid fire weapon that has a very short range, only damaging enemies that come into contact with the muzzle flash. Enemies damaged have a chance to catch on fire. Extremely high recoil."
   },
   {
     "name": "Microtransaction Gun",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/f/f1/Microtransaction_Gun.png?version=ae610309f6d385336aed30e25b1329a2",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2flx2fl7x2fSoix78uzx78gtygizout_Mat.vtmx3fbkx78youtx3dgk276965l2j941992gkj96k81h7985g8x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Pay To Win",
     "quality": "A",
@@ -3549,11 +3549,11 @@
     "reload_time": "N/A",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Shoots poisonous t-shirts with high knockback. Poisoned enemies create a poison puddle on death."
+    "notes": "Shoots various figurines, books, and gems at the cost of 1 coin per shot."
   },
   {
     "name": "Poxcannon",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/96/Poxcannon.png?version=0106eee35b9981683def2dafb5251216",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f5x2f52x2fVudigttut.vtmx3fbkx78youtx3d6762kkk91h5547249jkl8jglh1817872x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Lousy T-Shirt",
     "quality": "C",
@@ -3565,11 +3565,11 @@
     "reload_time": "1.7",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires t-shirts that have high knockback."
+    "notes": "Shoots poisonous t-shirts with high knockback. Poisoned enemies create a poison puddle on death."
   },
   {
     "name": "T-Shirt Cannon",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/2/25/T-Shirt_Cannon.png?version=4ed70ffb5fcb4ddcc0021ac78a86c2d3",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f8x2f81x2fZ-Ynox78z_Igttut.vtmx3fbkx78youtx3d0kj36llh1lih0jjii6687gi34g42i8j9x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Machine Gun Wash Only!",
     "quality": "D",
@@ -3581,11 +3581,11 @@
     "reload_time": "0.9",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Fires an explosive banana that sends out three more bouncing explosive bananas."
+    "notes": "Fires t-shirts that have high knockback."
   },
   {
     "name": "Banana",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/6/69/Banana.png?version=96324e1a4650a0c18183a9c209952503",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f2x2f25x2fHgtgtg.vtmx3fbkx78youtx3d52980k7g0216g6i74749g5i865518169x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Charged",
     "quote": "Planpain",
     "quality": "C",
@@ -3597,11 +3597,11 @@
     "reload_time": "0.01",
     "shot_speed": "∞",
     "spread": "6",
-    "notes": "Fires bees that home in on and damage enemies."
+    "notes": "Fires an explosive banana that sends out three more bouncing explosive bananas."
   },
   {
     "name": "Bee Hive",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/82/Bee_Hive.png?version=30f6786d87ee4a2afd9e53c93b575c1a",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f4x2f48x2fHkk_Nobk.vtmx3fbkx78youtx3d96l2342j43kk0g8glj5k19i59h131i7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Automatic",
     "quote": "Bzzzzzzz!",
     "quality": "B",
@@ -3613,11 +3613,11 @@
     "reload_time": "0.06",
     "shot_speed": "∞",
     "spread": "90",
-    "notes": "Fires zippers. Hitting an enemy with the swing of the weapon will stun the enemy."
+    "notes": "Fires bees that home in on and damage enemies."
   },
   {
     "name": "Silencer",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/4/43/Silencer.png?version=ad5da10021a0fca7eadb7e39556f1126",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f0x2f09x2fYorktikx78.vtmx3fbkx78youtx3dgj1jg76687g6lig3kgjh3k95112l7782x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "300 Dead Count",
     "quality": "C",
@@ -3629,11 +3629,11 @@
     "reload_time": "1.5",
     "shot_speed": "∞",
     "spread": "5",
-    "notes": "Damages all enemies in the room, with a chance to stun."
+    "notes": "Fires zippers. Hitting an enemy with the swing of the weapon will stun the enemy."
   },
   {
     "name": "Camera",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/80/Camera.png?version=ae1329071fae069b9e1d3df5b6995ce6",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f4x2f46x2fIgskx78g.vtmx3fbkx78youtx3dgk7985637lgk625h5k7j9jl1h2551ik2x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Charged",
     "quote": "Say Cheese",
     "quality": "C",
@@ -3645,11 +3645,11 @@
     "reload_time": "2.0",
     "shot_speed": "∞",
     "spread": "7",
-    "notes": "Fires bullets in four directions. Combos can be entered to fire fireballs or a grappling hook. After running out of ammo, it is destroyed but spawns a chest."
+    "notes": "Damages all enemies in the room, with a chance to stun."
   },
   {
     "name": "Directional Pad",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/e/ef/Directional_Pad.png?version=a84d4c78bd3d8f6b4300b8b04a29987e",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2fkx2fklx2fJox78kizoutgr_Vgj.vtmx3fbkx78youtx3dg40j0i34hj9j4l2h0966h4h60g85543kx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Automatic",
     "quote": "Input Output",
     "quality": "B",
@@ -3661,11 +3661,11 @@
     "reload_time": "1.6",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Upon hitting an enemy, they will move in the same direction the player moves, and shoot towards the crosshair if the player shoots."
+    "notes": "Fires bullets in four directions. Combos can be entered to fire fireballs or a grappling hook. After running out of ammo, it is destroyed but spawns a chest."
   },
   {
     "name": "3rd Party Controller",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/a1/3rd_Party_Controller.png?version=372e6ee2dc59eddfc25834ef014eb11f",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2fgx2fg7x2f9x78j_Vgx78ze_Iutzx78urrkx78.vtmx3fbkx78youtx3d938k2kk8ji15kjjli81490kl670kh77lx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Assuming Direct Control",
     "quality": "A",
@@ -3677,11 +3677,11 @@
     "reload_time": "",
     "shot_speed": "∞",
     "spread": "",
-    "notes": "Rapidly fires inaccurate, piercing, homing arrows."
+    "notes": "Upon hitting an enemy, they will move in the same direction the player moves, and shoot towards the crosshair if the player shoots."
   },
   {
     "name": "Gunzheng",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/9f/Gunzheng.png?version=0e076bf1d4c4e3de1de888465c9a5ade",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f5x2f5lx2fMatfnktm.vtmx3fbkx78youtx3d6k632hl7j0i0k9jk7jk444021i5g1gjkx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Automatic",
     "quote": "Hustle",
     "quality": "B",
@@ -3693,11 +3693,11 @@
     "reload_time": "0.0",
     "shot_speed": "∞",
     "spread": "35",
-    "notes": "Fires bouncing rocks. Deals 2.5x damage to bosses and 2x damage after bouncing."
+    "notes": "Rapidly fires inaccurate, piercing, homing arrows."
   },
   {
     "name": "Sling",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/93/Sling.png?version=8f336664e3a015d972fc4ed552ad8729",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f5x2f59x2fYrotm.vtmx3fbkx78youtx3d4l992220k9g671j538li0kj118gj4385x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Charged",
     "quote": "Outrageous!",
     "quality": "D",
@@ -3709,11 +3709,11 @@
     "reload_time": "0.9",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires needles."
+    "notes": "Fires bouncing rocks. Deals 2.5x damage to bosses and 2x damage after bouncing."
   },
   {
     "name": "Cactus",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/a6/Cactus.png?version=c7c7b68361eccea474b72f3b9c84ac75",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2fgx2fg2x2fIgizay.vtmx3fbkx78youtx3di3i3h24927kiikg030h38l9h5i40gi31x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Automatic",
     "quote": "1000 Needles!",
     "quality": "C",
@@ -3725,11 +3725,11 @@
     "reload_time": "0.0",
     "shot_speed": "∞",
     "spread": "7",
-    "notes": "Fires black holes that attract enemies and enemy bullets."
+    "notes": "Fires needles."
   },
   {
     "name": "Black Hole Gun",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/thumb/7/79/Black_Hole_Gun.png/32px-Black_Hole_Gun.png?version=da8d6b6566812800d93b697b76f9cf0b",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2fznashx2f3x2f35x2fHrgiq_Nurk_Mat.vtmx2f98vd-Hrgiq_Nurk_Mat.vtmx3fbkx78youtx3djg4j2h2122478466j59h253h32l5il6hx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$",
     "type": "Charged",
     "quote": "Won't You Come",
     "quality": "A",
@@ -3741,11 +3741,11 @@
     "reload_time": "1.56",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Slowly charges up to fire a large high-damage projectile."
+    "notes": "Fires black holes that attract enemies and enemy bullets."
   },
   {
     "name": "BSG",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/57/BSG.png?version=d234b10420f6aad58c1e1188083ea2a7",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f1x2f13x2fHYM.vtmx3fbkx78youtx3dj890h76086l2ggj14i7k7744649kg8g3x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Charged",
     "quote": "Big Shooty Gun",
     "quality": "S",
@@ -3757,11 +3757,11 @@
     "reload_time": "2.4",
     "shot_speed": "∞",
     "spread": "0",
-    "notes": "Fires sharks that swim around the room, seeking enemies and biting them."
+    "notes": "Slowly charges up to fire a large high-damage projectile."
   },
   {
     "name": "Compressed Air Tank",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/a/af/Compressed_Air_Tank.png?version=ec18a31e093bb520adebce8c63c3db9e",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2fgx2fglx2fIusvx78kyykj_Gox78_Zgtq.vtmx3fbkx78youtx3dki74g97k659hh186gjkhik4i29i9jh5kx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Charged",
     "quote": "You Know My Work",
     "quality": "A",
@@ -3773,11 +3773,11 @@
     "reload_time": "1.2",
     "shot_speed": "∞",
     "spread": "6",
-    "notes": "Fires large bouncing cannonballs."
+    "notes": "Fires sharks that swim around the room, seeking enemies and biting them."
   },
   {
     "name": "Serious Cannon",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/51/Serious_Cannon.png?version=723716644bb84b7d8eae956b6a766a3c",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f1x2f17x2fYkx78ouay_Igttut.vtmx3fbkx78youtx3d389372200hh40h3j4kgk512h2g322g9ix26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Charged",
     "quote": "Seriously MENTAL",
     "quality": "A",
@@ -3789,11 +3789,11 @@
     "reload_time": "1.5",
     "shot_speed": "∞",
     "spread": "6",
-    "notes": "Fires a single blast that deals a large amount of damage."
+    "notes": "Fires large bouncing cannonballs."
   },
   {
     "name": "Makeshift Cannon",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/d1/Makeshift_Cannon.png?version=13c931c2814b52e40aa567fad2006a87",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2fjx2fj7x2fSgqkynolz_Igttut.vtmx3fbkx78youtx3d79i597i8470h18k06gg123lgj8662g43x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Charged",
     "quote": "You Only Get One Shot",
     "quality": "S",
@@ -3805,11 +3805,11 @@
     "reload_time": "2.1",
     "shot_speed": "∞",
     "spread": "6",
-    "notes": "Has a chance to devolve enemies into simpler enemies."
+    "notes": "Fires a single blast that deals a large amount of damage."
   },
   {
     "name": "Devolver",
-    "image": "https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/5/58/Devolver.png?version=70af70d79257894b4bdc0f4dd6f9d33e",
+    "image": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3ktzkx78znkmatmkut.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fktzkx78znkmatmkut_mgskvkjogx2f1x2f14x2fJkburbkx78.vtmx3fbkx78youtx3d36gl36j35813450h0hji6l0jj2l5j99kx26o76i.sgx78qx3dosgmk_$/$/$/$/$",
     "type": "Semiautomatic",
     "quote": "Degenerates",
     "quality": "C",
@@ -3821,6 +3821,6 @@
     "reload_time": "",
     "shot_speed": "∞",
     "spread": "",
-    "notes": null
+    "notes": "Has a chance to devolve enemies into simpler enemies."
   }
 ]

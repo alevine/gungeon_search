@@ -1,6 +1,7 @@
 defmodule GungeonSearch.Item do
   use Ecto.Schema
   import Ecto.Changeset
+  import Ecto.Query
 
   schema "items" do
     field :effect, :string
