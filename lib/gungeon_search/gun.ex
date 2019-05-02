@@ -2,7 +2,8 @@ defmodule GungeonSearch.Gun do
   use Ecto.Schema
   import Ecto.Changeset
   import Ecto.Query
-  import GungeonSearch.Utils
+
+  @derive [Poison.Encoder]
 
   schema "guns" do
     field :ammo_capacity, :string
@@ -24,24 +25,19 @@ defmodule GungeonSearch.Gun do
   end
 
   @doc """
-  Fuzzy searches based on the given `query_string` up to the given `threshold`
+  Searches for a gun based on the given `query_string`
 
   Returns `[results]`
   """
-  def fuzzy_search(query_string, threshold \\ 3) do
+  def search(query_string) do
     query_string = query_string |> String.downcase()
+    query_string = "%" <> query_string <> "%"
 
     query =
       from gun in GungeonSearch.Gun,
         where:
-          levenshtein(gun.name, ^query_string, ^threshold) or
-          levenshtein(gun.quote, ^query_string, ^threshold)
-        # order_by:
-        #   fragment(
-        #     "LEAST (?, ?)",
-        #     levenshtein(gun.name, ^query_string),
-        #     levenshtein(gun.quote, ^query_string)
-        #   )
+          ilike(gun.name, ^query_string) or
+          ilike(gun.quote, ^query_string)
 
     GungeonSearch.Repo.all(query)
   end

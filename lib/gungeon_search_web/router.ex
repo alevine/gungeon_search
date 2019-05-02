@@ -16,11 +16,12 @@ defmodule GungeonSearchWeb.Router do
   scope "/", GungeonSearchWeb do
     pipe_through :browser
 
-    get "/", PageController, :index
+    get "/", HomeController, :index
   end
 
-  # Other scopes may use custom stacks.
-  # scope "/api", GungeonSearchWeb do
-  #   pipe_through :api
-  # end
+  scope "/api", GungeonSearchWeb do
+    pipe_through :api
+
+    get "/search/:query", SearchController, :show
+  end
 end

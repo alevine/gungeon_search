@@ -1,4 +1,4 @@
-defmodule GungeonSearchWeb.PageController do
+defmodule GungeonSearchWeb.HomeController do
   use GungeonSearchWeb, :controller
 
   def index(conn, _params) do
