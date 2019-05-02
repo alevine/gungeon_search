@@ -10,9 +10,14 @@ defmodule GungeonSearch.Utils do
   # between them is less than the given threshold
   defmacro levenshtein(str1, str2, threshold) do
     quote do
-      levenshtein(unquote(str1), unquote(str2)) <= unquote(threshold)
+      levenshtein(unquote(str1), unquote(str2))# <= unquote(threshold)
     end
   end
+
+  #"CASE
+  #        WHEN ? ~ '[\s]' THEN levenshtein(?, ?)
+  #        ELSE LEAST (levenshtein (SPLIT_PART(?, ' ', 1), ?), levenshtein(SPLIT_PART(?, ' ', 2), ?), levenshtein(SPLIT_PART(?, ' ', 3), ?))
+  #      END"
 
   # Wrapper for SQL levenshtein function, which gets the levenshtein distance
   # between str1 and str2
@@ -21,7 +26,7 @@ defmodule GungeonSearch.Utils do
   defmacro levenshtein(str1, str2) do
     quote do
       fragment(
-        "levenshtein(LOWER('%' || ? || '%'), LOWER('%' || ? || '%'))",
+        "? ILIKE ?",
         unquote(str1),
         unquote(str2)
       )

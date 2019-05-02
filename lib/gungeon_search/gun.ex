@@ -35,13 +35,13 @@ defmodule GungeonSearch.Gun do
       from gun in GungeonSearch.Gun,
         where:
           levenshtein(gun.name, ^query_string, ^threshold) or
-          levenshtein(gun.quote, ^query_string, ^threshold),
-        order_by:
-          fragment(
-            "LEAST (?, ?)",
-            levenshtein(gun.name, ^query_string),
-            levenshtein(gun.name, ^query_string)
-          )
+          levenshtein(gun.quote, ^query_string, ^threshold)
+        # order_by:
+        #   fragment(
+        #     "LEAST (?, ?)",
+        #     levenshtein(gun.name, ^query_string),
+        #     levenshtein(gun.quote, ^query_string)
+        #   )
 
     GungeonSearch.Repo.all(query)
   end

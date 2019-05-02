@@ -23,18 +23,19 @@ defmodule GungeonSearch.Item do
   """
   def fuzzy_search(query_string, threshold \\ 3) do
     query_string = query_string |> String.downcase()
+    query_string = "%" <> query_string <> "%"
 
     query =
       from item in GungeonSearch.Item,
         where:
           levenshtein(item.name, ^query_string, ^threshold) or
-          levenshtein(item.quote, ^query_string, ^threshold),
-        order_by:
-          fragment(
-            "LEAST (?, ?)",
-            levenshtein(item.name, ^query_string),
-            levenshtein(item.quote, ^query_string)
-          )
+          levenshtein(item.quote, ^query_string, ^threshold)
+        # order_by:
+        #   fragment(
+        #     "LEAST (?, ?)",
+        #     levenshtein(item.name, ^query_string),
+        #     levenshtein(item.quote, ^query_string)
+        #   )
 
     GungeonSearch.Repo.all(query)
   end
