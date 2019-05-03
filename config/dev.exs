@@ -72,4 +72,5 @@ config :gungeon_search, GungeonSearch.Repo,
   password: "postgres",
   database: "gungeon_search_dev",
   hostname: "localhost",
-  pool_size: 10
+  pool_size: 10,
+  timeout: 10_000

@@ -12,54 +12,22 @@ import css from '../css/app.css'
 import 'phoenix_html'
 import React from 'react'
 import { render } from 'react-dom'
+import axios from 'axios'
+import Search from './components/search'
 
-// Import local files
-//
-// Local files can be imported directly using relative paths, for example:
-// import socket from "./socket"
-
-class HelloReact extends React.Component {
+class GungeonSearch extends React.Component {
   constructor(props) {
     super(props);
-
-    this.state = { query: '' };
-
-    this.handleSubmit = this.handleSubmit.bind(this);
-    this.handleChange = this.handleChange.bind(this);
-  }
-
-  handleChange(event) {
-    this.setState({ query: event.target.value });
-  }
-
-  handleSubmit(event) {
-    const myInit = { method: 'GET', cache: 'default' };
-    const queryParam = encodeURI(this.state.query);
-
-    const myRequest = new Request(`/api/search/${queryParam}`, myInit);
-
-    fetch(myRequest)
-      .then((resp) => {
-        console.log(resp.json());
-      })
-      .then((myJson) => {
-        console.log(JSON.stringify(myJson));
-      });
   }
 
   render() {
     return (
-      <form onSubmit={this.handleSubmit}>
-        <label>Search:
-          <input type="text" value={this.state.value} onChange={this.handleChange} />
-        </label>
-
-      </form>
+      <Search />
     );
   }
 }
 
 render(
-  <HelloReact />,
+  <GungeonSearch />,
   document.getElementById("app")
 )
