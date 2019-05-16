@@ -22,7 +22,10 @@ class GungeonSearch extends React.Component {
 
   render() {
     return (
-      <Search />
+      <div class="title">
+        <label class="label">Search the Gungeon</label>
+        <Search />
+      </div>
     );
   }
 }

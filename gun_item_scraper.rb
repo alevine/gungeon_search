@@ -7,7 +7,7 @@ require 'json'
 ITEMS_URI = 'https://enterthegungeon.gamepedia.com/Items'.freeze
 GUNS_URI = 'https://enterthegungeon.gamepedia.com/Guns'.freeze
 
-#items_doc = Nokogiri::HTML(URI.parse(ITEMS_URI).open)
+# items_doc = Nokogiri::HTML(URI.parse(ITEMS_URI).open)
 guns_doc = Nokogiri::HTML(URI.parse(GUNS_URI).open)
 
 quality_hash = {
@@ -35,7 +35,6 @@ spreads = []
 notes = []
 
 guns_doc.search('wikitable searchable', 'tr').each_with_index do |row, ind|
-  #puts "#{ind} –> #{row.text.strip}"
   row.search('td').each_with_index do |cell, index|
     case index
     when 0
@@ -56,12 +55,7 @@ guns_doc.search('wikitable searchable', 'tr').each_with_index do |row, ind|
     when 4
       types << cell.text.strip
     when 5
-      found_infinity = cell.search('img')
-      if found_infinity
-        mag_sizes << '∞'
-      else
-        mag_sizes << cell.text.strip
-      end
+      cell.search('img') ? mag_sizes << '∞' : mag_sizes << cell.text.strip
     when 6
       found_infinity = cell.search('img')
       if found_infinity
