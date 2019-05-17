@@ -1,0 +1,3148 @@
+{
+  "Master Round": [
+    {
+      "name": "Chief Master",
+      "effect": "If the player has Alien Sidearm and any two Master Rounds, the Alien Sidearm has a much larger magazine and cannot be charged, but becomes fully automatic and the final two shots in the magazine are fully",
+      "link": "/Synergies#Chief_Master"
+    },
+    {
+      "name": "Master's Chambers",
+      "effect": "Each Master Round the player carries permanently unlocks the Chamber Gun's mode of its respective floor. Reloading the Chamber Gun with a full magazine cycles through the unlocked modes.",
+      "link": "/Synergies#Master.27s_Chambers"
+    }
+  ],
+  "Meatbun": [
+    {
+      "name": "Sausage and Pepper",
+      "effect": "If the player also has Gungeon Pepper, its range will be increased. The Meatbun will also heal five hearts rather than just one. The synergy is lost when Meatbun is consumed.",
+      "link": "/Synergies#Sausage_and_Pepper"
+    }
+  ],
+  "Medkit": [
+    {
+      "name": "Emergency Help",
+      "effect": "If the player also has Flare Gun, its reload time is decreased by 66% and its damage is increased by 50%.",
+      "link": "/Synergies#Emergency_Help"
+    }
+  ],
+  "Ration": [
+    {
+      "name": "Pretty Good",
+      "effect": "If the player has SAA, coolness is increased by 2.",
+      "link": "/Synergies#Pretty_Good"
+    },
+    {
+      "name": "What A Thrill",
+      "effect": "If the player has Patriot, it has a chance to transmogrify enemies into snakes.",
+      "link": "/Synergies#What_A_Thrill"
+    }
+  ],
+  "Orange": [
+    {
+      "name": "AK-47 (Island Forme)",
+      "effect": "If the player has AK-47, reloading the gun with a full magazine toggles Island Forme. Island Forme AK-47 fires oranges, which deal more damage than regular AK-47 shots. The synergy will be lost once the Orange is used. If the Orange is eaten while the AK-47 is in Island Forme, it will remain in Island Forme; however reloading with a full magazine will return it to its original form, and cannot be reversed.",
+      "link": "/Synergies#AK-47_.28Island_Forme.29"
+    },
+    {
+      "name": "Cactus Flower",
+      "effect": "If the player has Cactus, it has a chance to shoot out a prickly pear that bounces off walls and shoots needles in all directions. The synergy will be lost once the Orange is used.",
+      "link": "/Synergies#Cactus_Flower"
+    },
+    {
+      "name": "Enter the Fruitgeon / Oranger Guon Stone",
+      "effect": "If the player also has the Orange Guon Stone, it will grow in size, fire more frequently, and fire oranges at enemies that deal 7 damage. The synergy will be lost once the Orange is used.",
+      "link": "/Synergies#Enter_the_Fruitgeon_.2F_Oranger_Guon_Stone"
+    },
+    {
+      "name": "Pulp Gungeon",
+      "effect": "If the player also has the M1911, a copy of the M1911 orbits the player and fires whenever the player fires. The synergy will be lost once the Orange is used.",
+      "link": "/Synergies#Pulp_Gungeon"
+    }
+  ],
+  "Bottle": [
+    {
+      "name": "Clearer Guon Stone",
+      "effect": "If the player has Clear Guon Stone, it grants immunity to poison, fire, and electricity.",
+      "link": "/Synergies#Clearer_Guon_Stone"
+    },
+    {
+      "name": "Empty Vessels",
+      "effect": "If the player has Holey Grail, if damage is taken while Bottle is empty, it fills with a purple soul that deals 100 damage to all enemies in the room upon use.",
+      "link": "/Synergies#Empty_Vessels"
+    },
+    {
+      "name": "Mak Pak",
+      "effect": "If the player has Makarov, its maximum ammo is increased by 30%, and while holding Marakov, it occasionally fires a homing bullet at an enemy for free.",
+      "link": "/Synergies#Mak_Pak"
+    }
+  ],
+  "Bomb": [
+    {
+      "name": "Bomberpal",
+      "effect": "If the player has Lil' Bomber, it fires two bombs instead of one, charges twice as fast, and has 40% lower reload time.",
+      "link": "/Synergies#Bomberpal"
+    },
+    {
+      "name": "Fairy Bow",
+      "effect": "If the player also has Bow, its charge time is halved and the Bow has a chance to fire an extra arrow, similar to the Shadow Bullets effect.",
+      "link": "/Synergies#Fairy_Bow"
+    },
+    {
+      "name": "Smart Bombs",
+      "effect": "If the player has Homing Bullets or Crutch, Bomb will home in on enemies.",
+      "link": "/Synergies#Smart_Bombs"
+    },
+    {
+      "name": "Just in case",
+      "effect": "If the player has Lower Case R, the gun transforms into a one shot rocket launcher, saying ROCKET when shot, and BOOM when it hits something.",
+      "link": "/Synergies#Just_in_case"
+    },
+    {
+      "name": "Battle Mode",
+      "effect": "If the player has Orbital Bullets, bombs will spawn over time as orbitals surrounding the player, exploding on contact with enemies or after a short amount of time. These bombs can both open secret rooms and exert full knockback on the player, and will also ignite flammable objects in the same way as normal bombs.",
+      "link": "/Synergies#Battle_Mode"
+    }
+  ],
+  "Ice Bomb": [
+    {
+      "name": "Smart Bombs",
+      "effect": "If the player has Homing Bullets or Crutch, Ice Bomb will home in on enemies.",
+      "link": "/Synergies#Smart_Bombs"
+    },
+    {
+      "name": "Battle Mode",
+      "effect": "If the player has Orbital Bullets, bombs start to generate and orbit around the player. These bombs won't deal damage to the player, just knock them around.",
+      "link": "/Synergies#Battle_Mode"
+    },
+    {
+      "name": "Super Bomberpal",
+      "effect": "If the player has Lil' Bomber, it fires two bombs instead of one, charges twice as fast, and has 20% lower reload time.",
+      "link": "/Synergies#Super_Bomberpal"
+    }
+  ],
+  "Chaff Grenade": [
+    {
+      "name": "Camera Shy",
+      "effect": "If the player has Camera, the Camera has a chance to stun enemies.",
+      "link": "/Synergies#Camera_Shy"
+    }
+  ],
+  "Cluster Mine": [
+    {
+      "name": "Cerebral Bros",
+      "effect": "If the player also has Bullet Bore, the gun shoots an extra drill and turns red.",
+      "link": "/Synergies#Cerebral_Bros"
+    },
+    {
+      "name": "Mine Craft",
+      "effect": "If the player also has Mine Cutter, mines home in on enemies.",
+      "link": "/Synergies#Mine_Craft"
+    }
+  ],
+  "Weird Egg": [
+    {
+      "name": "Phoenix Up",
+      "effect": "If the player has Phoenix, summons a phoenix companion that fires at enemies.",
+      "link": "/Synergies#Phoenix_Up"
+    },
+    {
+      "name": "Two Eggs Over Easy",
+      "effect": "If the player has The Scrambler, its homing shots cause poison.",
+      "link": "/Synergies#Two_Eggs_Over_Easy"
+    }
+  ],
+  "Air Strike": [
+    {
+      "name": "Air Support",
+      "effect": "If the player has Explosive Rounds, Air Strike will cover a massive area.",
+      "link": "/Synergies#Air_Support"
+    },
+    {
+      "name": "Shot Across The Bow",
+      "effect": "If the player has Gunbow, it fires explosive missiles.",
+      "link": "/Synergies#Shot_Across_The_Bow"
+    }
+  ],
+  "Napalm Strike": [
+    {
+      "name": "Napalm B",
+      "effect": "If the player has Mega Douser, it will spread fire instead of dousing it.",
+      "link": "/Synergies#Napalm_B"
+    },
+    {
+      "name": "Phoenix Up",
+      "effect": "If the player has Phoenix, while Phoenix is held, summons a phoenix companion that fires at enemies.",
+      "link": "/Synergies#Phoenix_Up"
+    },
+    {
+      "name": "Special Reserve",
+      "effect": "If the player has Molotov Launcher, it creates green fire pools. Green fire does not damage the player, and enemies that touch green fire are permanently aflame.",
+      "link": "/Synergies#Special_Reserve"
+    }
+  ],
+  "Big Boy": [
+    {
+      "name": "Meltdown",
+      "effect": "If the player also has Gamma Ray, Gamma Ray branches twice to form a spread of 5 beams, and using Big Boy refills 100 ammo on the Gamma Ray. Ammo restoration only works if Gamma Ray is held when activating Big Boy.",
+      "link": "/Synergies#Meltdown"
+    },
+    {
+      "name": "Natural Selection",
+      "effect": "If the player also has Evolver, it evolves after every 3 unique enemy types killed instead of 5.",
+      "link": "/Synergies#Natural_Selection"
+    }
+  ],
+  "Roll Bomb": [
+    {
+      "name": "AI Assistant",
+      "effect": "If the player has iBomb Companion App, roll bombs will bounce around instead of detonating immediately, and can be manually detonated with the iBomb Companion App.",
+      "link": "/Synergies#AI_Assistant"
+    },
+    {
+      "name": "y cant u crawl",
+      "effect": "If the player is holding Heroine, roll bombs have larger explosions.",
+      "link": "/Synergies#y_cant_u_crawl"
+    }
+  ],
+  "iBomb Companion App": [
+    {
+      "name": "AI Assistant",
+      "effect": "If the player has Roll Bomb, roll bombs will bounce around instead of detonating immediately, and can be manually detonated with the iBomb Companion App.",
+      "link": "/Synergies#AI_Assistant"
+    },
+    {
+      "name": "Shot Across The Bow",
+      "effect": "If the player has Gunbow, it fires explosive missiles.",
+      "link": "/Synergies#Shot_Across_The_Bow"
+    }
+  ],
+  "Ammo Synthesizer": [
+    {
+      "name": "Extreme Operation",
+      "effect": "If the player also has Melted Rock, Melted Rock causes each corpse to fire a bullet at a nearby enemy in addition to exploding.",
+      "link": "/Synergies#Extreme_Operation"
+    },
+    {
+      "name": "Synthetic Shield",
+      "effect": "If the player also has Heart Synthesizer or Armor Synthesizer, grants a familiar that orbits the player and blocks shots. If all three synthesizers are picked up, grants three familiars.",
+      "link": "/Synergies#Synthetic_Shield"
+    }
+  ],
+  "Armor Synthesizer": [
+    {
+      "name": "Synthetic Shield",
+      "effect": "If the player has Heart Synthesizer or Ammo Synthesizer, grants a familiar that orbits the player and blocks shots. If all three synthesizers are picked up, grants three familiars.",
+      "link": "/Synergies#Synthetic_Shield"
+    }
+  ],
+  "Heart Synthesizer": [
+    {
+      "name": "Synthetic Shield",
+      "effect": "If the player has Armor Synthesizer or Ammo Synthesizer, grants a familiar that orbits the player and blocks shots. If all three synthesizers are picked up, grants three familiars.",
+      "link": "/Synergies#Synthetic_Shield"
+    }
+  ],
+  "Master of Unlocking": [
+    {
+      "name": "Firing With Flair",
+      "effect": "If the player also has the Flare Gun, it sets green fire, which leaves enemies permanently burning.",
+      "link": "/Synergies#Firing_With_Flair"
+    },
+    {
+      "name": "Key Witness",
+      "effect": "If the player also has Shelleton Key, firing any gun has a chance to fire an AKEY",
+      "link": "/Synergies#Key_Witness"
+    }
+  ],
+  "Utility Belt": [
+    {
+      "name": "Gunnerang",
+      "effect": "If the player also has Boomerang, thrown guns deal 50% more damage.",
+      "link": "/Synergies#Gunnerang"
+    },
+    {
+      "name": "M1 Multi-Tool",
+      "effect": "If the player also has M1, M1's reload time is decreased by 20%, and its magazine size and maximum ammo are increased. Movement speed is also increased while M1 is held.",
+      "link": "/Synergies#M1_Multi-Tool"
+    }
+  ],
+  "Macho Brace": [
+    {
+      "name": "Blunderbrace",
+      "effect": "If the player also has Blunderbuss, it shoots bigger and faster bullets and charge time is reduced.",
+      "link": "/Synergies#Blunderbrace"
+    }
+  ],
+  "Backpack": [
+    {
+      "name": "M1 Multi-Tool",
+      "effect": "If the player also has M1, M1's reload time is decreased by 20%, and its magazine size and maximum ammo are increased. Movement speed is also increased while M1 is held.",
+      "link": "/Synergies#M1_Multi-Tool"
+    },
+    {
+      "name": "Mak Pak",
+      "effect": "If the player has Makarov, Makarov's maximum ammo is increased by 30%. While holding Marakov, it occasionally fires a homing bullet at an enemy for free.",
+      "link": "/Synergies#Mak_Pak"
+    },
+    {
+      "name": "MM6 Mini Rocket",
+      "effect": "If the player also has Jetpack, activating the Jetpack fires a rocket in the direction of the crosshair. This has a cooldown of about 5 seconds.\nThe rocket can be used to find secret rooms in shops as it does not anger Bello.",
+      "link": "/Synergies#MM6_Mini_Rocket"
+    },
+    {
+      "name": "Whale of a Time",
+      "effect": "If the player also has GuNNER, there's a chance a skull will spawn when getting hit to recover lost health, even if the player has another weapon equipped while getting hit.",
+      "link": "/Synergies#Whale_of_a_Time"
+    }
+  ],
+  "Clown Mask": [
+    {
+      "name": "Tea for Two",
+      "effect": "If the player also has Teapot, when reloading Teapot, Wolf, Hoxton, and Chains will have a small red aura around them. Every enemy in this aura will be ignited.",
+      "link": "/Synergies#Tea_for_Two"
+    }
+  ],
+  "Scope": [
+    {
+      "name": "360 Yes Scope",
+      "effect": "While holding A.W.P. or Sniper Rifle, spinning 360 degrees before firing makes the shot deal 50% more damage.\nThe buff can activate any number of times, and each instance of the buff will last for 3 seconds, providing a stacking 1.5x damage multiplier for each instance.\nDue to a programming error, it will only activate for clockwise rotations and not counterclockwise rotations.",
+      "link": "/Synergies#360_Yes_Scope"
+    },
+    {
+      "name": "Iron Slug",
+      "effect": "If the player also has Big Iron, Big Iron fires a single high",
+      "link": "/Synergies#Iron_Slug"
+    },
+    {
+      "name": "M1 Multi-Tool",
+      "effect": "If the player also has M1, M1's reload time is decreased by 20%, and its magazine size and maximum ammo are increased. Movement speed is also increased while M1 is held.",
+      "link": "/Synergies#M1_Multi-Tool"
+    },
+    {
+      "name": "Sleuth Out",
+      "effect": "If the player is holding 38 Special, its rate of fire is decreased by 20% but enemy bullets become slower.",
+      "link": "/Synergies#Sleuth_Out"
+    }
+  ],
+  "Laser Sight": [
+    {
+      "name": "Future Gangster",
+      "effect": "If the player has Thompson Sub",
+      "link": "/Synergies#Future_Gangster"
+    },
+    {
+      "name": "Particle Accelerator",
+      "effect": "If the player has Particulator, whenever a split Particular shot dissipates, a laser is automatically fired in its direction.",
+      "link": "/Synergies#Particle_Accelerator"
+    },
+    {
+      "name": "Peripheral Vision",
+      "effect": "If the player has Light Gun, a dog occasionally appears and attacks enemies.",
+      "link": "/Synergies#Peripheral_Vision"
+    },
+    {
+      "name": "Pistol Machine",
+      "effect": "If the player has Machine Pistol, its shots pierce enemies and are connected with electricity.",
+      "link": "/Synergies#Pistol_Machine"
+    }
+  ],
+  "Ammo Belt": [
+    {
+      "name": "Buckle Up",
+      "effect": "If the player has Gungine, continuously moving with Gungine held gives the player a yellow glow, significantly increasing Gungine's rate of fire. The glow disappears if the player stops moving. Additionally, Gungine has a chance to not consume ammo upon firing.",
+      "link": "/Synergies#Buckle_Up"
+    },
+    {
+      "name": "Comammo Belt",
+      "effect": "If the player has Com4nd0, its magazine size is doubled.",
+      "link": "/Synergies#Comammo_Belt"
+    },
+    {
+      "name": "Hegemony Special Forces",
+      "effect": "If the player has Hegemony Rifle, its bullets are replaced with piercing lasers.",
+      "link": "/Synergies#Hegemony_Special_Forces"
+    },
+    {
+      "name": "M1 Multi-Tool",
+      "effect": "If the player also has M1, M1's reload time is decreased by 20%, and its magazine size and maximum ammo are increased. Movement speed is also increased while M1 is held.",
+      "link": "/Synergies#M1_Multi-Tool"
+    },
+    {
+      "name": "Not Quite As Mini",
+      "effect": "If the player has Vulcan Cannon, its maximum ammo and fire rate are increased.",
+      "link": "/Synergies#Not_Quite_As_Mini"
+    }
+  ],
+  "Bullet Time": [
+    {
+      "name": "Bluer Guon Stone",
+      "effect": "If the player also has Blue Guon Stone, the size and rotation speed of the Guon Stone is increased. If the Guon Stone blocks a bullet, it deals 15 damage to all nearby enemies.",
+      "link": "/Synergies#Bluer_Guon_Stone"
+    },
+    {
+      "name": "Thrown For A Bloop",
+      "effect": "If the player also has Blooper, while Bullet Time is active, a Blooper orbits the player and continually fires at enemies.",
+      "link": "/Synergies#Thrown_For_A_Bloop"
+    }
+  ],
+  "Aged Bell": [
+    {
+      "name": "Get Equipped With -F-",
+      "effect": "If the player has Megahand, Megahand can be toggled into Time Stopper by reloading at full ammo, which briefly stops time on a fully charged shot.",
+      "link": "/Synergies#Get_Equipped_With_-F-"
+    },
+    {
+      "name": "Holy Bell",
+      "effect": "If the player has Trident, killing an enemy with the Trident creates a large circular area that slows time.",
+      "link": "/Synergies#Holy_Bell"
+    }
+  ],
+  "Singularity": [
+    {
+      "name": "Hellhole",
+      "effect": "If the player has Yellow Chamber, Sixth Chamber, or Holey Grail, Singularity spawns a hell portal that sucks enemies in and deals high damage.",
+      "link": "/Synergies#Hellhole"
+    },
+    {
+      "name": "Outer Limits",
+      "effect": "If the player has Mr. Accretion Jr., firing three planets into Singularity's black hole causes it to explode and deal 100 damage to all enemies in the room.",
+      "link": "/Synergies#Outer_Limits"
+    }
+  ],
+  "Decoy": [
+    {
+      "name": "Deadly Distraction",
+      "effect": "If the player also has Monster Blood, the Decoy creates a large poison pool when attacked.",
+      "link": "/Synergies#Deadly_Distraction"
+    },
+    {
+      "name": "Decoy Octorok",
+      "effect": "If the player also has Abyssal Tentacle, the decoy will become a charmed enemy.",
+      "link": "/Synergies#Decoy_Octorok"
+    },
+    {
+      "name": "Frosty Distraction",
+      "effect": "If the player also has Heart of Ice, the Decoy becomes partially made of ice and causes enemies that shoot it to be frozen.",
+      "link": "/Synergies#Frosty_Distraction"
+    },
+    {
+      "name": "Hardwood",
+      "effect": "If the player also has Mahoguny, it will fire three explosive shots at a time.",
+      "link": "/Synergies#Hardwood"
+    },
+    {
+      "name": "Kage Bunshin",
+      "effect": "If the player also has Shadow Bullets, using Decoy spawns a shadow clone of the player that mirrors their movements and fires towards the crosshair whenever the player fires. Also does not provide the ability to steal from shops.",
+      "link": "/Synergies#Kage_Bunshin"
+    },
+    {
+      "name": "Kinjutsu",
+      "effect": "If the player also has Shadow Clone, Shadow Clone creates 3 clones instead of 1.",
+      "link": "/Synergies#Kinjutsu"
+    }
+  ],
+  "Shadow Clone": [
+    {
+      "name": "Kinjutsu",
+      "effect": "If the player also has Decoy, Shadow Clone spawns three clones.",
+      "link": "/Synergies#Kinjutsu"
+    }
+  ],
+  "Explosive Decoy": [
+    {
+      "name": "Deadlier Distraction",
+      "effect": "If the player also has Monster Blood, the Explosive Decoy explodes and creates a large poison pool when attacked.",
+      "link": "/Synergies#Deadlier_Distraction"
+    },
+    {
+      "name": "Decoy Octorok",
+      "effect": "If the player also has Abyssal Tentacle, the decoy will become a charmed enemy.",
+      "link": "/Synergies#Decoy_Octorok"
+    },
+    {
+      "name": "Frostier Distraction",
+      "effect": "If the player also has Heart of Ice, the Explosive Decoy becomes partially made of ice and causes enemies that shoot it to be frozen, and the decoy will explode after a short period.",
+      "link": "/Synergies#Frostier_Distraction"
+    },
+    {
+      "name": "Hardwood",
+      "effect": "If the player also has Mahoguny, it will fire three explosive shots at a time.",
+      "link": "/Synergies#Hardwood"
+    }
+  ],
+  "Melted Rock": [
+    {
+      "name": "Alternative Rock",
+      "effect": "If the player has Face Melter, instead of firing four streams, Face Melter fires two parallel columns of notes.",
+      "link": "/Synergies#Alternative_Rock"
+    },
+    {
+      "name": "Dead Place",
+      "effect": "If the player also has Mine Cutter, its damage is increased by 25%.",
+      "link": "/Synergies#Dead_Place"
+    },
+    {
+      "name": "Extreme Operation",
+      "effect": "If the player has Ammo Synthesizer, Melted Rock causes each corpse to fire a bullet at a nearby enemy in addition to exploding.",
+      "link": "/Synergies#Extreme_Operation"
+    },
+    {
+      "name": "Human Shield",
+      "effect": "If the player has Crisis Stone, Melted Rock causes each corpse to spawn a Betrayer's Shield shield after exploding.",
+      "link": "/Synergies#Human_Shield"
+    }
+  ],
+  "Box": [
+    {
+      "name": "Apiary",
+      "effect": "If the player has Bee Hive, it turns into an apiary and automatically regenerates ammo over time.",
+      "link": "/Synergies#Apiary"
+    },
+    {
+      "name": "Flat Stanley",
+      "effect": "If the player has Mailbox, the Mailbox's clip size is reduced by 50% and its reload time is reduced by 33%, allowing packages to be fired more often.",
+      "link": "/Synergies#Flat_Stanley"
+    },
+    {
+      "name": "Pretty Good",
+      "effect": "If the player has SAA, coolness is increased by 2.",
+      "link": "/Synergies#Pretty_Good"
+    },
+    {
+      "name": "What A Thrill",
+      "effect": "If the player has Patriot, it has a chance to transmogrify enemies into snakes.",
+      "link": "/Synergies#What_A_Thrill"
+    }
+  ],
+  "Fortune's Favor": [
+    {
+      "name": "Dead Cell",
+      "effect": "If player has Railgun, its charge time is decreased by 10% and its damage to bosses is increased by 30%.",
+      "link": "/Synergies#Dead_Cell"
+    },
+    {
+      "name": "Pistol Machine",
+      "effect": "If the player has Machine Pistol, its shots pierce enemies and are connected with electricity.",
+      "link": "/Synergies#Pistol_Machine"
+    },
+    {
+      "name": "Pretty Good",
+      "effect": "If the player has SAA, coolness is increased by 2.",
+      "link": "/Synergies#Pretty_Good"
+    },
+    {
+      "name": "What A Thrill",
+      "effect": "If the player has Patriot, it has a chance to transmogrify enemies into snakes.",
+      "link": "/Synergies#What_A_Thrill"
+    }
+  ],
+  "Jar of Bees": [
+    {
+      "name": "Bee Plus",
+      "effect": "If the player has Honeycomb, taking damage causes Honeycomb to spawn hornets, which travel faster and deal more damage than regular bees.",
+      "link": "/Synergies#Bee_Plus"
+    },
+    {
+      "name": "Hidden Tech Bees",
+      "effect": "If the player has Table Tech Blanks, a swarm of bees replaces enemy bullets when a table is flipped.",
+      "link": "/Synergies#Hidden_Tech_Bees"
+    }
+  ],
+  "Potion of Lead Skin": [
+    {
+      "name": "Five O'Clock Somewhere",
+      "effect": "If the player also has Crestfaller, reloading it will fire a glass bottle that has a chance to stun enemies hit. Reloading Crestfaller while standing on a liquid replenishes the ammo missing in the current magazine, similar to Gungine.",
+      "link": "/Synergies#Five_O.27Clock_Somewhere"
+    },
+    {
+      "name": "Terminated, Too",
+      "effect": "if the player also has Grenade Launcher, grenades fire 8 bullets in all directions upon exploding.",
+      "link": "/Synergies#Terminated.2C_Too"
+    }
+  ],
+  "Double Vision": [
+    {
+      "name": "Dwarven Stout",
+      "effect": "If the player also has Stout Bullets, Double Vision will triple shots fired instead of double.",
+      "link": "/Synergies#Dwarven_Stout"
+    },
+    {
+      "name": "Five O'Clock Somewhere",
+      "effect": "If the player also has Crestfaller, reloading will fire a glass bottle that has a chance to stun enemies hit. Reloading Crestfaller while standing on a liquid replenishes the ammo missing in the current magazine, similar to Gungine.",
+      "link": "/Synergies#Five_O.27Clock_Somewhere"
+    },
+    {
+      "name": "Special Reserve",
+      "effect": "If the player also has the Molotov Launcher, Molotovs create green pools of fire, which do not harm the player and permanently light enemies on fire.",
+      "link": "/Synergies#Special_Reserve"
+    }
+  ],
+  "Chest Teleporter": [
+    {
+      "name": "Second Accident",
+      "effect": "If the player also has Shotbow, its firing pattern is changed to a grid of nine arrows.",
+      "link": "/Synergies#Second_Accident"
+    },
+    {
+      "name": "Telefrag",
+      "effect": "If the player also has Teleporter Prototype, uses it, and get teleported to an uncleared room, all enemies in the room will be killed instantly. If it teleports the player to a special room, Teleporter Prototype's cooldown is decreased.",
+      "link": "/Synergies#Telefrag"
+    }
+  ],
+  "Relodestone": [
+    {
+      "name": "Relodestar",
+      "effect": "If the player has any Ammolet, after Relodestone's effect ends, the bullets that were absorbed are shot out of the player dealing damage to enemies.",
+      "link": "/Synergies#Relodestar"
+    }
+  ],
+  "Potion of Gun Friendship": [
+    {
+      "name": "Five O'Clock Somewhere",
+      "effect": "If the player also has Crestfaller, reloading will fire a glass bottle that has a chance to stun enemies hit. Reloading Crestfaller while standing on a liquid replenishes the ammo missing in the current magazine, similar to Gungine.",
+      "link": "/Synergies#Five_O.27Clock_Somewhere"
+    },
+    {
+      "name": "Friend to Gun and Bullet",
+      "effect": "If the player has +1 Bullets, while Potion of Gun Friendship is active, a copy of the player's current gun appears and automatically fires at nearby enemies.\nThe copy of the held gun fires faster than normal but with reduced damage, especially if it is a rifle",
+      "link": "/Synergies#Friend_to_Gun_and_Bullet"
+    }
+  ],
+  "Portable Turret": [
+    {
+      "name": "Captain Plant It",
+      "effect": "If the player has Unity, Portable Turret gains Unity's damage bonus.",
+      "link": "/Synergies#Captain_Plant_It"
+    },
+    {
+      "name": "Turret Link",
+      "effect": "If the player has Chance Bullets, Portable Turret will sometimes fire shots from guns in the player's inventory.",
+      "link": "/Synergies#Turret_Link"
+    }
+  ],
+  "Knife Shield": [
+    {
+      "name": "Fightknives",
+      "effect": "If the player has Fightsabre, activating Knife Shield while holding Fightsabre makes the knives reflect enemy bullets before getting destroyed. This synergy effect remains even if you switch weapons (provided you were holding Fightsabre upon activation).",
+      "link": "/Synergies#Fightknives"
+    },
+    {
+      "name": "Running Blades",
+      "effect": "If the player has Deck4rd, killing an enemy with Deck4rd has a high chance to spawn a knife.",
+      "link": "/Synergies#Running_Blades"
+    },
+    {
+      "name": "Throw All Daggers",
+      "effect": "If the player is holding Excaliber, Knife Shield generates two layers of knives upon use.",
+      "link": "/Synergies#Throw_All_Daggers"
+    }
+  ],
+  "Grappling Hook": [
+    {
+      "name": "Black Flag",
+      "effect": "If the player also has Corsair, each Corsair shot will periodically fire two bouncing cannonballs perpendicular to itself as it travels.",
+      "link": "/Synergies#Black_Flag"
+    },
+    {
+      "name": "Raizo's Stuff",
+      "effect": "If the player also has Bloodied Scarf, bullets shot while being pulled with the grappling hook gain homing.",
+      "link": "/Synergies#Raizo.27s_Stuff"
+    }
+  ],
+  "Stuffed Star": [
+    {
+      "name": "Double Rainbow",
+      "effect": "If the player also has Unicorn Horn, while Stuffed Star is active, the player will emit 5 rainbow beams in a star pattern.",
+      "link": "/Synergies#Double_Rainbow"
+    },
+    {
+      "name": "Softshell",
+      "effect": "If the player is holding Brick Breaker, while Stuffed Star is active, Brick Breaker shells are continually fired in random directions.",
+      "link": "/Synergies#Softshell"
+    },
+    {
+      "name": "Star Friends",
+      "effect": "If the player also has Polaris, while Stuffed Star is active, the player will continually fire max level Polaris shots in all directions.",
+      "link": "/Synergies#Star_Friends"
+    }
+  ],
+  "Boomerang": [
+    {
+      "name": "Gunnerang",
+      "effect": "If the player also has Utility Belt, thrown guns deal 50% more damage.",
+      "link": "/Synergies#Gunnerang"
+    },
+    {
+      "name": "Get Equipped With -Q-",
+      "effect": "If the player also has Megahand, enables Quick Boomerang mode, which fires small boomerangs when uncharged that stun enemies. Modes can be switched by reloading the Megahand with a full magazine.",
+      "link": "/Synergies#Get_Equipped_With_-Q-"
+    }
+  ],
+  "Shield of the Maiden": [
+    {
+      "name": "Mirror Shield",
+      "effect": "If the player also has the Rolling Eye, Shield of the Maiden will reflect bullets while it is active.",
+      "link": "/Synergies#Mirror_Shield"
+    },
+    {
+      "name": "Shield Night",
+      "effect": "If the player also has Knight's Gun, reloading the gun will leave a shield on the floor, just like the Betrayer's Shield.",
+      "link": "/Synergies#Shield_Night"
+    }
+  ],
+  "Crisis Stone": [
+    {
+      "name": "Human Shield",
+      "effect": "If the player also has Melted Rock, it causes each corpse to spawn a Betrayer's Shield shield after exploding.",
+      "link": "/Synergies#Human_Shield"
+    }
+  ],
+  "Partially-Eaten Cheese": [
+    {
+      "name": "Resourceful Indeed",
+      "effect": "If the player also has Rat Boots, Elimentaler, and Resourceful Sack, the player becomes the Resourceful Rat, preventing items from being stolen when they're left behind in rooms.",
+      "link": "/Synergies#Resourceful_Indeed"
+    }
+  ],
+  "+1 Bullets": [
+    {
+      "name": "Bluer Guon Stone",
+      "effect": "If the player has Blue Guon Stone, the size of the Guon Stone is increased and the Guon Stone revolves around the player faster. If the Guon Stone blocks a bullet, it deals 15 damage to all nearby enemies.",
+      "link": "/Synergies#Bluer_Guon_Stone"
+    },
+    {
+      "name": "Clearer Guon Stone",
+      "effect": "If the player has Clear Guon Stone, it grants immunity to poison, fire, and electricity.",
+      "link": "/Synergies#Clearer_Guon_Stone"
+    },
+    {
+      "name": "Friend to Gun and Bullet",
+      "effect": "If the player has Potion of Gun Friendship, while it is active, a copy of the player's current gun appears and automatically fires at nearby enemies.\nThe copy of the held gun fires faster than normal but with reduced damage, especially if it is a rifle",
+      "link": "/Synergies#Friend_to_Gun_and_Bullet"
+    },
+    {
+      "name": "Greener Guon Stone",
+      "effect": "If the player has Green Guon Stone, 20  appears whenever Green Guon Stone heals the player.",
+      "link": "/Synergies#Greener_Guon_Stone"
+    },
+    {
+      "name": "Nailed It!",
+      "effect": "If the player has Nail Gun, its nails deal triple damage.",
+      "link": "/Synergies#Nailed_It.21"
+    },
+    {
+      "name": "Oranger Guon Stone",
+      "effect": "If the player has Orange Guon Stone, it grows in size, fires more frequently, and deals more damage.",
+      "link": "/Synergies#Oranger_Guon_Stone"
+    },
+    {
+      "name": "Pinker Guon Stone",
+      "effect": "If the player has Pink Guon Stone, enemies that damage the player become temporarily charmed.",
+      "link": "/Synergies#Pinker_Guon_Stone"
+    },
+    {
+      "name": "Pistol Machine",
+      "effect": "If the player has Machine Pistol, its shots pierce enemies and are connected with electricity.",
+      "link": "/Synergies#Pistol_Machine"
+    },
+    {
+      "name": "Redder Guon Stone",
+      "effect": "If the player has Red Guon Stone, the Guon Stone's size is increased and the player will gain a yellow glow and stat increase similar to that of the Macho Brace for a short time whenever the Guon Stone blocks a bullet.",
+      "link": "/Synergies#Redder_Guon_Stone"
+    },
+    {
+      "name": "Reinforced",
+      "effect": "If the player has Lower Case r, it spells out BULLET+1 when fired.",
+      "link": "/Synergies#Reinforced"
+    },
+    {
+      "name": "Whiter Guon Stone",
+      "effect": "If the player has White Guon Stone, the size of the Guon Stone is increased.",
+      "link": "/Synergies#Whiter_Guon_Stone"
+    }
+  ],
+  "Rocket-Powered Bullets": [
+    {
+      "name": "Shot Across The Bow",
+      "effect": "If the player also has Gunbow, it fires explosive missiles.",
+      "link": "/Synergies#Shot_Across_The_Bow"
+    }
+  ],
+  "Shock Rounds": [
+    {
+      "name": "Alistair's Ladder",
+      "effect": "If the player has Thunderclap, it fires two parallel balls of lightning with every shot.",
+      "link": "/Synergies#Alistair.27s_Ladder"
+    },
+    {
+      "name": "Battery Powered",
+      "effect": "If the player has Shock Rifle, it automatically regenerates ammo over time.",
+      "link": "/Synergies#Battery_Powered"
+    },
+    {
+      "name": "Chain Lightning",
+      "effect": "If the player has Shadow Bullets, the range that Shock Bullets can connect bullets is increased, and lightning can connect to enemy bullets.",
+      "link": "/Synergies#Chain_Lightning"
+    },
+    {
+      "name": "Future Gangster",
+      "effect": "If the player has Thompson Sub",
+      "link": "/Synergies#Future_Gangster"
+    },
+    {
+      "name": "Lotus Bloom",
+      "effect": "If the player has Laser Lotus, its magazine size increases to 32, its maximum ammo increases to 250, its fire rate greatly increases, and it deals half damage.",
+      "link": "/Synergies#Lotus_Bloom"
+    },
+    {
+      "name": "Neo Tech, Yo",
+      "effect": "If the player has Mutation, its beams turn blue, it creates electrified water, and it grants electricity immunity while held.",
+      "link": "/Synergies#Neo_Tech.2C_Yo"
+    },
+    {
+      "name": "Pistol Machine",
+      "effect": "If the player has Machine Pistol, its shots pierce.",
+      "link": "/Synergies#Pistol_Machine"
+    },
+    {
+      "name": "Wave Beam",
+      "effect": "If the player has Heroine, enables Wave Beam mode on Heroine, which fires two wavy projectiles connected by electricity when uncharged, and a standard large Heroine shot when charged. Modes can be switched by reloading Heroine with a full magazine.",
+      "link": "/Synergies#Wave_Beam"
+    }
+  ],
+  "Vorpal Bullets": [
+    {
+      "name": "Snicker-snack",
+      "effect": "If the player has Excaliber, it fires a spread of 3 homing shots that deal 20% less damage.",
+      "link": "/Synergies#Snicker-snack"
+    }
+  ],
+  "Heavy Bullets": [
+    {
+      "name": "Alternative Rock",
+      "effect": "If the player has Face Melter, instead of firing four streams, Face Melter fires two parallel columns of notes.",
+      "link": "/Synergies#Alternative_Rock"
+    },
+    {
+      "name": "Heavy Jolt",
+      "effect": "If the player has Jolter, it gains increased knockback.",
+      "link": "/Synergies#Heavy_Jolt"
+    },
+    {
+      "name": "Heavy Metal",
+      "effect": "If the player also has Anvillain, its damage is increased by 20% and its shot speed is decreased by 25%.",
+      "link": "/Synergies#Heavy_Metal"
+    },
+    {
+      "name": "Iron Slug",
+      "effect": "If the player has Big Iron, it fires a single high",
+      "link": "/Synergies#Iron_Slug"
+    },
+    {
+      "name": "Massive Effect",
+      "effect": "If the player has Mass Shotgun, its shot size increases significantly.",
+      "link": "/Synergies#Massive_Effect"
+    },
+    {
+      "name": "Nailed It!",
+      "effect": "If the player has Nail Gun, its nails deal triple damage and cause bleeding.",
+      "link": "/Synergies#Nailed_It.21"
+    },
+    {
+      "name": "Over Dose",
+      "effect": "If the player has Devolver, Heavy Bullets no longer decreases shot speed with any gun.",
+      "link": "/Synergies#Over_Dose"
+    }
+  ],
+  "Bouncy Bullets": [
+    {
+      "name": "Absent Minded",
+      "effect": "If the player also has The Membrane, its shots bounce 4 times and become homing.",
+      "link": "/Synergies#Absent_Minded"
+    }
+  ],
+  "Explosive Rounds": [
+    {
+      "name": "Air Support",
+      "effect": "If the player has Air Strike, it will cover a massive area when used.",
+      "link": "/Synergies#Air_Support"
+    },
+    {
+      "name": "Cerebral Bros",
+      "effect": "Upgrades the Bullet Bore to fire 2 drills.",
+      "link": "/Synergies#Cerebral_Bros"
+    },
+    {
+      "name": "Reactive",
+      "effect": "Makes Lower Case r spell out ROCKET, BOOM, KABOOM, and POW when fired, and its shots explode.",
+      "link": "/Synergies#Reactive"
+    },
+    {
+      "name": "Shot Across The Bow",
+      "effect": "If the player has Gunbow, it fires explosive missiles.",
+      "link": "/Synergies#Shot_Across_The_Bow"
+    }
+  ],
+  "Ghost Bullets": [
+    {
+      "name": "Electron Pack",
+      "effect": "If the player also has Proton Backpack, kills with the Proton Backpack spawn ghost allies that attack enemies.",
+      "link": "/Synergies#Electron_Pack"
+    },
+    {
+      "name": "Ghost With the Most",
+      "effect": "If the player also has Gunslinger's Ashes, its ghosts will be larger and freeze enemies, and its reload time is decreased by 20%.",
+      "link": "/Synergies#Ghost_With_the_Most"
+    },
+    {
+      "name": "Reanimate",
+      "effect": "If the player also has Lower Case r, it will fire the words SPOOKY, GHOST and BOO.",
+      "link": "/Synergies#Reanimate"
+    }
+  ],
+  "Alpha Bullet": [
+    {
+      "name": "Added Effect - Fire",
+      "effect": "With Hot Lead, the first shot of each magazine is guaranteed to be a fire bullet.",
+      "link": "/Synergies#Added_Effect_-_Fire"
+    },
+    {
+      "name": "Added Effect - Ice",
+      "effect": "With Frost Bullets, the first shot of each magazine is guaranteed to be an ice bullet.",
+      "link": "/Synergies#Added_Effect_-_Ice"
+    },
+    {
+      "name": "Added Effect - Poison",
+      "effect": "With Irradiated Lead, the first shot of each magazine is guaranteed to be a poison bullet.",
+      "link": "/Synergies#Added_Effect_-_Poison"
+    },
+    {
+      "name": "J am",
+      "effect": "With Omega Bullets, reload times for all guns are decreased by 33%.",
+      "link": "/Synergies#J_am"
+    },
+    {
+      "name": "Root",
+      "effect": "With Lower Case r, adds an alpha before each BULLET.",
+      "link": "/Synergies#Root"
+    }
+  ],
+  "Omega Bullets": [
+    {
+      "name": "Diamond Weapon",
+      "effect": "With Frost Bullets, the last shot of each magazine is guaranteed to be an ice bullet.",
+      "link": "/Synergies#Diamond_Weapon"
+    },
+    {
+      "name": "Emerald Weapon",
+      "effect": "With Irradiated Lead, the last shot of each magazine is guaranteed to be a poison bullet.",
+      "link": "/Synergies#Emerald_Weapon"
+    },
+    {
+      "name": "J am",
+      "effect": "With Alpha Bullets, reload times for all guns are decreased by 33%.",
+      "link": "/Synergies#J_am"
+    },
+    {
+      "name": "Remnant",
+      "effect": "With Lower Case r, adds an omega after each BULLET.",
+      "link": "/Synergies#Remnant"
+    },
+    {
+      "name": "Ruby Weapon",
+      "effect": "With Hot Lead, the last shot of each magazine is guaranteed to be a fire bullet.",
+      "link": "/Synergies#Ruby_Weapon"
+    }
+  ],
+  "Scattershot": [
+    {
+      "name": "Dumb Smart Bullets",
+      "effect": "If the player also has Homing Bullets, bullets unaffected by Homing Bullets become larger and deal 50% more damage.",
+      "link": "/Synergies#Dumb_Smart_Bullets"
+    },
+    {
+      "name": "Laser Light Show",
+      "effect": "If the player also has Laser Rifle, Laser Rifle becomes blue and gold, and fires 3 sets of 3 shots in a spread per trigger pull. Each shot bounces once.",
+      "link": "/Synergies#Laser_Light_Show"
+    }
+  ],
+  "Irradiated Lead": [
+    {
+      "name": "Added Effect - Poison",
+      "effect": "If the player has Alpha Bullet, the first shot of each magazine is guaranteed to be a poison bullet.",
+      "link": "/Synergies#Added_Effect_-_Poison"
+    },
+    {
+      "name": "Beta Ray",
+      "effect": "Gamma Ray's beam grows larger and deals more damage.",
+      "link": "/Synergies#Beta_Ray"
+    },
+    {
+      "name": "Emerald Weapon",
+      "effect": "If the player has Omega Bullets, the last shot of each magazine is guaranteed to be a poison bullet.",
+      "link": "/Synergies#Emerald_Weapon"
+    },
+    {
+      "name": "Natural Selection",
+      "effect": "If the player also has Evolver, it evolves after every 3 unique enemy types killed instead of 5.",
+      "link": "/Synergies#Natural_Selection"
+    },
+    {
+      "name": "Pandemic Pistol",
+      "effect": "If the player has Plague Pistol, its bullets bounce and are connected with electricity.",
+      "link": "/Synergies#Pandemic_Pistol"
+    }
+  ],
+  "Hot Lead": [
+    {
+      "name": "Added Effect - Fire",
+      "effect": "If the player also has the Alpha Bullets, the first bullet of a weapon's clip is guaranteed to be a fire bullet.",
+      "link": "/Synergies#Added_Effect_-_Fire"
+    },
+    {
+      "name": "Get Equipped with -H-",
+      "effect": "If the player also has the Megahand, enables Atomic Fire mode on the Megahand.",
+      "link": "/Synergies#Get_Equipped_with_-H-"
+    },
+    {
+      "name": "Hot Ones",
+      "effect": "If the player has Copper Ammolet, the chance to shoot fire bullets is significantly increased.",
+      "link": "/Synergies#Hot_Ones"
+    },
+    {
+      "name": "Phoenix Up",
+      "effect": "If the player also has the Phoenix, a phoenix companion that fires at enemies is summoned.",
+      "link": "/Synergies#Phoenix_Up"
+    },
+    {
+      "name": "Plasma Beam",
+      "effect": "If the player also has the Heroine, enables the Plasma Beam mode on the Heroine.",
+      "link": "/Synergies#Plasma_Beam"
+    },
+    {
+      "name": "Ruby Weapon",
+      "effect": "If the player also has the Omega Bullets, the last bullet of a weapon's clip is guaranteed to be a fire bullet.",
+      "link": "/Synergies#Ruby_Weapon"
+    },
+    {
+      "name": "Special Reserve",
+      "effect": "If the player also has the Molotov Launcher, Molotovs create green pools of fire, which do not harm the player and permanently light enemies on fire.",
+      "link": "/Synergies#Special_Reserve"
+    },
+    {
+      "name": "Hidden Tech Flare",
+      "effect": "If the player also has Table Tech Heat, the radius of effect of heat from flipping tables triples (the area of effect is 9× as large).",
+      "link": "/Synergies#Hidden_Tech_Flare"
+    }
+  ],
+  "Frost Bullets": [
+    {
+      "name": "Added Effect - Ice",
+      "effect": "If the player has Alpha Bullet, the first shot of each magazine is guaranteed to be an ice bullet.",
+      "link": "/Synergies#Added_Effect_-_Ice"
+    },
+    {
+      "name": "Arctic Warfare",
+      "effect": "If the player has A.W.P., it turns orange and white, deals 62.5% more damage, and its shots are guaranteed to freeze enemies.",
+      "link": "/Synergies#Arctic_Warfare"
+    },
+    {
+      "name": "Cold Ones",
+      "effect": "If the player has Frost Ammolet, the chance to fire ice bullets is significantly increased.",
+      "link": "/Synergies#Cold_Ones"
+    },
+    {
+      "name": "Diamond Weapon",
+      "effect": "If the player has Omega Bullets, the last shot of each magazine is guaranteed to be an ice shot.",
+      "link": "/Synergies#Diamond_Weapon"
+    },
+    {
+      "name": "Frosty the Bullet Tyrant",
+      "effect": "If the player has Snowballer, its shots increase in size and damage the further they travel.",
+      "link": "/Synergies#Frosty_the_Bullet_Tyrant"
+    },
+    {
+      "name": "Ice Beam",
+      "effect": "If the player has Heroine, enables Ice Beam mode, which fires a projectile that instantly freezes an enemy when fully charged. Modes can be switched by reloading the Heroine with a full magazine.",
+      "link": "/Synergies#Ice_Beam"
+    },
+    {
+      "name": "Ice To Meet You",
+      "effect": "If the player has Heart of Ice, firing with any gun will periodically fire a Heart of Ice projectile that splits and bounces.",
+      "link": "/Synergies#Ice_To_Meet_You"
+    },
+    {
+      "name": "Willing To Sacrifice",
+      "effect": "If the player has Freeze Ray, it gains piercing and slowly regenerates ammo over time.",
+      "link": "/Synergies#Willing_To_Sacrifice"
+    }
+  ],
+  "Charming Rounds": [
+    {
+      "name": "Unbelievably Charming",
+      "effect": "If the player also has Shotgun Full of Love or Charmed Bow, their shots are guaranteed to charm enemies. In addition, the player is followed by a fairy that blocks bullets and displays the contents of chests.",
+      "link": "/Synergies#Unbelievably_Charming"
+    },
+    {
+      "name": "Ravishing",
+      "effect": "If the player also has Lower Case r, the words HANDSOME, CHARM, and CUTE are spelled out.",
+      "link": "/Synergies#Ravishing"
+    }
+  ],
+  "Magic Bullets": [
+    {
+      "name": "Chicken Arise",
+      "effect": "If the player also has Bundle of Wands, Hexagun, Staff of Firepower, or Witch Pistol, the chance for those guns to transmogrify enemies is increased.",
+      "link": "/Synergies#Chicken_Arise"
+    },
+    {
+      "name": "Runic",
+      "effect": "If the player has Lower case r, the words ABRA and KADABRA are spelled out when using the weapon.",
+      "link": "/Synergies#Runic"
+    }
+  ],
+  "Fat Bullets": [
+    {
+      "name": "Iron Slug",
+      "effect": "If the player also has Big Iron, it fires a single high",
+      "link": "/Synergies#Iron_Slug"
+    },
+    {
+      "name": "Massive Effect",
+      "effect": "If the player also has Mass Shotgun, its shot size is significantly increased.",
+      "link": "/Synergies#Massive_Effect"
+    }
+  ],
+  "Angry Bullets": [
+    {
+      "name": "Needless Acrimony",
+      "effect": "If the player also has Shotgun Full of Hate, rage duration is greatly increased.",
+      "link": "/Synergies#Needless_Acrimony"
+    },
+    {
+      "name": "Rabid",
+      "effect": "If the player has Lower Case r, the words LOSER, DORK, CHUMP, NOODLE, and TAFFER are spelled out.",
+      "link": "/Synergies#Rabid"
+    }
+  ],
+  "Blank Bullets": [
+    {
+      "name": "Elder Blank Bullets",
+      "effect": "If the player also has Elder Blank, the blank effect reflects all projectiles instead of deleting them.\nSwitch The game will crash if the Dragun’s Kunai are reflected.",
+      "link": "/Synergies#Elder_Blank_Bullets"
+    }
+  ],
+  "Orbital Bullets": [
+    {
+      "name": "Battle Mode",
+      "effect": "If the player has Bomb or Ice Bomb, Bombs periodically spawn around the player, that explode after a short time or upon contact with enemies.",
+      "link": "/Synergies#Battle_Mode"
+    },
+    {
+      "name": "Orrery",
+      "effect": "if the player has Mr. Accretion Jr., it causes the planets fired by the gun to have smaller bullets orbiting them like moons; these bullets persist when the missed shots start orbiting the player. Each planet only has 1 \"moon\" bullet, regardless of how many moons the corresponding planet has in real life.",
+      "link": "/Synergies#Orrery"
+    }
+  ],
+  "Homing Bullets": [
+    {
+      "name": "Dumb Smart Bullets",
+      "effect": "If the player has Scattershot, bullets unaffected by Homing Bullets become larger and deal 50% more damage.",
+      "link": "/Synergies#Dumb_Smart_Bullets"
+    },
+    {
+      "name": "Smart Bombs",
+      "effect": "If the player also has Bomb or Ice Bomb, they will home in on targets.",
+      "link": "/Synergies#Smart_Bombs"
+    }
+  ],
+  "Shadow Bullets": [
+    {
+      "name": "Chain Lightning",
+      "effect": "If the player has Shock Rounds, the range that Shock Rounds can connect bullets is increased, and lightning can connect to enemy bullets.",
+      "link": "/Synergies#Chain_Lightning"
+    },
+    {
+      "name": "Gruber's Bane",
+      "effect": "If the player has Backup Gun, Backup Gun has a 100% chance of firing shadow bullets.",
+      "link": "/Synergies#Gruber.27s_Bane"
+    },
+    {
+      "name": "Kage Bunshin",
+      "effect": "If the player has Decoy, using Decoy spawns a shadow clone of the player that mirrors their movements and fires towards the crosshair whenever the player fires.",
+      "link": "/Synergies#Kage_Bunshin"
+    },
+    {
+      "name": "Mr. Shadow",
+      "effect": "If the player has Zorgun, its shadow bullets will become random explosives.",
+      "link": "/Synergies#Mr._Shadow"
+    },
+    {
+      "name": "Noxin Cannon",
+      "effect": "If the player has Luxin Cannon, it turns gray and its lasers deal 25% more damage.",
+      "link": "/Synergies#Noxin_Cannon"
+    }
+  ],
+  "Easy Reload Bullets": [
+    {
+      "name": "Reload Roll",
+      "effect": "If the player has Magnum, M1911, Dungeon Eagle, 38 Special, Colt 1851, Makarov, or SAA, dodge rolling reloads six bullets.",
+      "link": "/Synergies#Reload_Roll"
+    }
+  ],
+  "Stout Bullets": [
+    {
+      "name": "Dwarven Stout",
+      "effect": "If the player also has Double Vision, the item will triple shots fired instead of double.",
+      "link": "/Synergies#Dwarven_Stout"
+    },
+    {
+      "name": "Iron Slug",
+      "effect": "If the player also has Big Iron, the gun fires one very large, slow moving iron bullet that does increased damage.",
+      "link": "/Synergies#Iron_Slug"
+    },
+    {
+      "name": "Massive Effect",
+      "effect": "If the player also has Mass Shotgun, the gun fires a massive bullet that explodes into more projectiles than normal.",
+      "link": "/Synergies#Massive_Effect"
+    }
+  ],
+  "Snowballets": [
+    {
+      "name": "Arctic Warfare",
+      "effect": "If the player has A.W.P., it will turn orange and white, and its shots will freeze enemies.",
+      "link": "/Synergies#Arctic_Warfare"
+    },
+    {
+      "name": "Ice Accumulation",
+      "effect": "If the player has Cold 45 or Ice Breaker, the size of their shots is significantly increased, and the amount of damage they gain as they travel is increased.",
+      "link": "/Synergies#Ice_Accumulation"
+    },
+    {
+      "name": "Snowball Shotgun",
+      "effect": "If the player has Snowballer, it fires multiple snowballs at once in a shotgun spread with lowered rate of fire.",
+      "link": "/Synergies#Snowball_Shotgun"
+    }
+  ],
+  "Zombie Bullets": [
+    {
+      "name": "Dawn of the Gundead",
+      "effect": "If the player also has Gunslinger's Ashes, Shellegun, Skull Spitter, Fossilized Gun or VertebraeK",
+      "link": "/Synergies#Dawn_of_the_Gundead"
+    },
+    {
+      "name": "Electron Backpack",
+      "effect": "If the player also has the Proton Backpack, killing enemies spawns a gunslinger ghost that moves slowly and shoots enemies before disappearing.",
+      "link": "/Synergies#Electron_Backpack"
+    }
+  ],
+  "Flak Bullets": [
+    {
+      "name": "Anti-Aircraft",
+      "effect": "If the player has RPG, it spawns seven homing flak bullets on impact. Different weapons have their bullets split into different numbers of smaller bullets, and the smaller bullets do varying amounts of damage. For example, the Marine Sidearm splits into 4 bullets, the Dungeon Eagle splits into 3, and the Winchester Rifle splits into 7. The damage of each smaller bullet is equal to the damage of the original bullet divided by the number of split bullets.",
+      "link": "/Synergies#Anti-Aircraft"
+    }
+  ],
+  "Silver Bullets": [
+    {
+      "name": "Blessing and a Curse",
+      "effect": "If the player has Cursed Bullets, every jammed enemy killed grants a persistent, additive 0.25% damage buff.",
+      "link": "/Synergies#Blessing_and_a_Curse"
+    },
+    {
+      "name": "Chance On Hit",
+      "effect": "If the player has Gunderfury, it gains a chance to slow enemies.",
+      "link": "/Synergies#Chance_On_Hit"
+    },
+    {
+      "name": "Hell Singing",
+      "effect": "Blunderbuss, Dueling Pistol, and Trick Gun will deal an extra 50% damage to jammed enemies for a total damage multiplier of x4.875.",
+      "link": "/Synergies#Hell_Singing"
+    },
+    {
+      "name": "Radiant",
+      "effect": "If the player has Lower Case r, it spells out SILVER, BLESSED, and WEREWOLF.",
+      "link": "/Synergies#Radiant"
+    }
+  ],
+  "Gilded Bullets": [
+    {
+      "name": "Alternative Rock",
+      "effect": "If the player has Face Melter, instead of firing four streams, Face Melter fires two parallel columns of notes.",
+      "link": "/Synergies#Alternative_Rock"
+    },
+    {
+      "name": "The Ecstasy of Gold",
+      "effect": "If the player also has Gilded Hydra or Old Goldie, their damage is increased by 25%.",
+      "link": "/Synergies#The_Ecstasy_of_Gold"
+    },
+    {
+      "name": "Gilded Tables",
+      "effect": "If the player has Table Tech Money, tables have a 15% chance to be golden. Flipping a golden table will cause all normal enemies in the room to drop 2 to 6 extra  upon death. Golden tables will not automatically flip due to Table Tech Money.",
+      "link": "/Synergies#Gilded_Tables"
+    },
+    {
+      "name": "Great Queen Ant",
+      "effect": "If the player has Gungeon Ant, it becomes a queen ant and fires rocket ants.",
+      "link": "/Synergies#Great_Queen_Ant"
+    },
+    {
+      "name": "King Bomber",
+      "effect": "If the player has Lil' Bomber, its bombs spawn  every time they hit an enemy.",
+      "link": "/Synergies#King_Bomber"
+    },
+    {
+      "name": "Resplendent",
+      "effect": "If the player has Lower Case r, it spells out CASH, COINS, SHELLS, and GOLD.",
+      "link": "/Synergies#Resplendent"
+    }
+  ],
+  "Platinum Bullets": [
+    {
+      "name": "Alternative Rock",
+      "effect": "If the player has Face Melter, instead of firing four streams, Face Melter fires two parallel columns of notes. Reloading fires a guitar pick with a chance to stun.",
+      "link": "/Synergies#Alternative_Rock"
+    }
+  ],
+  "Chaos Bullets": [
+    {
+      "name": "Kaliber's Grip",
+      "effect": "If the player has Abyssal Tentacle, Abyssal Tentacle grabs two enemies at a time.",
+      "link": "/Synergies#Kaliber.27s_Grip"
+    }
+  ],
+  "Cursed Bullets": [
+    {
+      "name": "Blessing and a Curse",
+      "effect": "If the player has Silver Bullets, every jammed enemy killed grants a persistent, additive 0.25% damage buff.",
+      "link": "/Synergies#Blessing_and_a_Curse"
+    },
+    {
+      "name": "Kailber k'pow uboom k'bhang",
+      "effect": "If the player also has High Kaliber, the soul spawned by hitting an enemy with High Kaliber initially moves towards the player instead of away.",
+      "link": "/Synergies#Kailber_k.27pow_uboom_k.27bhang"
+    },
+    {
+      "name": "Noxin Cannon",
+      "effect": "If the player has Luxin Cannon, it turns gray and its lasers deal 25% more damage.",
+      "link": "/Synergies#Noxin_Cannon"
+    }
+  ],
+  "Chance Bullets": [
+    {
+      "name": "Maximize Spell",
+      "effect": "If the player also has Flame Hand, Flame Hand becomes green and creates pools of green fire. Green fire does not damage the player, and enemies that touch green fire are permanently aflame.",
+      "link": "/Synergies#Maximize_Spell"
+    },
+    {
+      "name": "Turret Link",
+      "effect": "If the player also has Portable Turret, Portable Turret will sometimes fire shots from guns in the player's inventory.",
+      "link": "/Synergies#Turret_Link"
+    }
+  ],
+  "Helix Bullets": [
+    {
+      "name": "Double Double Helix",
+      "effect": "If the player also has Helix, Helix will fire 4 projectiles per shot instead of 2, damage is increased by 25%, and shot speed is increased by 50%.",
+      "link": "/Synergies#Double_Double_Helix"
+    },
+    {
+      "name": "Dualing Pistol",
+      "effect": "If the player also has Dueling Pistol, Dueling pistol's appearance will change and gain homing shots.",
+      "link": "/Synergies#Dualing_Pistol"
+    },
+    {
+      "name": "One Fish Two Fish",
+      "effect": "If the player also has Barrel, Barrel will fire a normal blue fish and a red fish that sets enemies on fire.",
+      "link": "/Synergies#One_Fish_Two_Fish"
+    }
+  ],
+  "Bumbullets": [
+    {
+      "name": "BEES",
+      "effect": "If the player has Bee Hive, the size of the Bee Hive's bees is doubled, their damage is increased by 25%, and the Bee Hive's rate of fire is decreased by 34%.",
+      "link": "/Synergies#BEES"
+    },
+    {
+      "name": "Hidden Tech Bees",
+      "effect": "If the player has Table Tech Blanks, a swarm of bees replaces enemy bullets when a table is flipped.",
+      "link": "/Synergies#Hidden_Tech_Bees"
+    }
+  ],
+  "Bloody 9mm": [
+    {
+      "name": "Venom Veins",
+      "effect": "If the player has Mutation, Mutation poisons enemies.",
+      "link": "/Synergies#Venom_Veins"
+    }
+  ],
+  "Bionic Leg": [
+    {
+      "name": "Brave New World",
+      "effect": "If the player also has Siren, while it is equipped, a fish companion follows the player that can block bullets and shows contents of chests without opening them.",
+      "link": "/Synergies#Brave_New_World"
+    },
+    {
+      "name": "Future Gangster",
+      "effect": "If the player has Thompson Sub",
+      "link": "/Synergies#Future_Gangster"
+    },
+    {
+      "name": "Neo Tech, Yo",
+      "effect": "If the player also has Mutation, its beam turns blue and creates electrified water. Grants electricity immunity while Mutation is held.",
+      "link": "/Synergies#Neo_Tech.2C_Yo"
+    },
+    {
+      "name": "Pistol Machine",
+      "effect": "If the player also has the Machine Pistol, its shots pierce enemies and are connected with electricity.",
+      "link": "/Synergies#Pistol_Machine"
+    },
+    {
+      "name": "Square Brace",
+      "effect": "If the player has Polaris, it gains 20% increased damage, higher ammo capacity and magazine size, faster fire rate, and a new appearance.",
+      "link": "/Synergies#Square_Brace"
+    },
+    {
+      "name": "To Serve Android",
+      "effect": "If the player has Badge, the police officer turns into a robot and becomes invincible.",
+      "link": "/Synergies#To_Serve_Android"
+    }
+  ],
+  "Shotgun Coffee": [
+    {
+      "name": "Five O'Clock Somewhere",
+      "effect": "If the player also has Crestfaller, reloading it will fire a glass bottle that has a chance to stun enemies hit. Reloading Crestfaller while standing on a liquid replenishes the ammo missing in the current magazine, similar to Gungine.",
+      "link": "/Synergies#Five_O.27Clock_Somewhere"
+    },
+    {
+      "name": "Shotgun Affinity",
+      "effect": "If the player also has Shotga Cola, all shotgun",
+      "link": "/Synergies#Shotgun_Affinity"
+    }
+  ],
+  "Shotga Cola": [
+    {
+      "name": "Five O'Clock Somewhere",
+      "effect": "If the player also has Crestfaller, reloading will fire a glass bottle that has a chance to stun enemies hit. Reloading Crestfaller while standing on a liquid replenishes the ammo missing in the current magazine, similar to Gungine.",
+      "link": "/Synergies#Five_O.27Clock_Somewhere"
+    },
+    {
+      "name": "Shotgun Affinity",
+      "effect": "If the player also has Shotgun Coffee, all shotgun",
+      "link": "/Synergies#Shotgun_Affinity"
+    }
+  ],
+  "Ballistic Boots": [
+    {
+      "name": "Knight Time",
+      "effect": "If the player has Gunknight Greaves, taking damage briefly stops time.",
+      "link": "/Synergies#Knight_Time"
+    },
+    {
+      "name": "Triple Jump",
+      "effect": "If paired with Springheel Boots, this item grants a third roll to the two already available.",
+      "link": "/Synergies#Triple_Jump"
+    }
+  ],
+  "Magic Sweet": [
+    {
+      "name": "Sweetness and Light",
+      "effect": "If the player also has Magic Lamp, it fires three projectiles at a time. The shots deal 25% of their original damage, but the genie deals full damage.",
+      "link": "/Synergies#Sweetness_and_Light"
+    }
+  ],
+  "Mustache": [
+    {
+      "name": "Block Party",
+      "effect": "If the player has Brick Breaker, the size of its shells is increased by 50%, and their damage is increased by 25%.",
+      "link": "/Synergies#Block_Party"
+    },
+    {
+      "name": "http://merch.devolverdigital.com",
+      "effect": "If the player also has Microtransaction Gun, its damage is doubled.",
+      "link": "/Synergies#http:.2F.2Fmerch.devolverdigital.com"
+    },
+    {
+      "name": "Monsters and Monocles",
+      "effect": "If the player also has Teapot, the AoE effect range of Teapot is increased.",
+      "link": "/Synergies#Monsters_and_Monocles"
+    }
+  ],
+  "Lichy Trigger Finger": [
+    {
+      "name": "Liches Get Stitches",
+      "effect": "If the player has Riddle of Lead, killing an enemy grants a temporary fire rate boost, signified by a green arrow above the player's head like those above enemies buffed by a Gunsinger.",
+      "link": "/Synergies#Liches_Get_Stitches"
+    }
+  ],
+  "Ballot": [
+    {
+      "name": "Paperwork",
+      "effect": "If the player also has Origuni, the first round of each magazine fires three airplanes instead of one.",
+      "link": "/Synergies#Paperwork"
+    },
+    {
+      "name": "Revolution",
+      "effect": "If the player also has Dueling Pistol, the Dueling Pistol's bullets will deal 25% more damage and bounce five times instead of twice.",
+      "link": "/Synergies#Revolution"
+    }
+  ],
+  "Eyepatch": [
+    {
+      "name": "Careful Iteration",
+      "effect": "If the player has Casey, Casey becomes spiked and fires a spread of 6 nails each time it is swung.",
+      "link": "/Synergies#Careful_Iteration"
+    },
+    {
+      "name": "Iroquois",
+      "effect": "If the player also has MAC10, its reload time is decreased by 33%, its magazine size is increased by 50%, and its knockback is increased by 50%.",
+      "link": "/Synergies#Iroquois"
+    }
+  ],
+  "Amulet of the Pit Lord": [
+    {
+      "name": "Bluer Guon Stone",
+      "effect": "If the player also has Blue Guon Stone, the size and rotation speed of the Guon Stone is increased. If the Guon Stone blocks a bullet, it deals 15 damage to all nearby enemies.",
+      "link": "/Synergies#Bluer_Guon_Stone"
+    },
+    {
+      "name": "Clearer Guon Stone",
+      "effect": "If the player also has Clear Guon Stone, it grants immunity to poison, fire, and electricity, and the Guon stone grows in size.",
+      "link": "/Synergies#Clearer_Guon_Stone"
+    },
+    {
+      "name": "Firing With Flair",
+      "effect": "If the player also has Flare Gun, it turns green and sets green fire, which doesn't hurt the player and leaves non",
+      "link": "/Synergies#Firing_With_Flair"
+    },
+    {
+      "name": "Greener Guon Stone",
+      "effect": "If the player also has Green Guon Stone, 20  appears whenever Green Guon Stone heals the player, and the Guon Stone grows in size.",
+      "link": "/Synergies#Greener_Guon_Stone"
+    },
+    {
+      "name": "Oranger Guon Stone",
+      "effect": "If the player also has Orange Guon Stone, it grows in size, fires more frequently, and deals more damage.",
+      "link": "/Synergies#Oranger_Guon_Stone"
+    },
+    {
+      "name": "Pinker Guon Stone",
+      "effect": "If the player also has Pink Guon Stone, enemies that damage the player become temporarily charmed.",
+      "link": "/Synergies#Pinker_Guon_Stone"
+    },
+    {
+      "name": "Redder Guon Stone",
+      "effect": "If the player also has Red Guon Stone, the Guon Stone's size is increased and the player will gain a yellow glow and stat increase similar to that of the Macho Brace for a short time whenever the Guon Stone blocks a bullet.",
+      "link": "/Synergies#Redder_Guon_Stone"
+    },
+    {
+      "name": "Whiter Guon Stone",
+      "effect": "If the player also has White Guon Stone, it grows in size.",
+      "link": "/Synergies#Whiter_Guon_Stone"
+    }
+  ],
+  "Ring of Fire Resistance": [
+    {
+      "name": "Backdraft",
+      "effect": "If the player has Armor of Thorns, touching enemies sets them on fire.",
+      "link": "/Synergies#Backdraft"
+    },
+    {
+      "name": "Great Queen Ant",
+      "effect": "If the player has Gungeon Ant, it fires explosive rocket ants.",
+      "link": "/Synergies#Great_Queen_Ant"
+    },
+    {
+      "name": "Hot Rolls",
+      "effect": "If the player has Cloranthy Ring, rolling creates a trail of fire.",
+      "link": "/Synergies#Hot_Rolls"
+    },
+    {
+      "name": "Redder Guon Stone",
+      "effect": "If the player has Red Guon Stone, the Guon Stone's size is increased and the player will gain a yellow glow and stat increase similar to that of the Macho Brace for a short time whenever the Guon Stone blocks a bullet.",
+      "link": "/Synergies#Redder_Guon_Stone"
+    }
+  ],
+  "Ring of Miserly Protection": [
+    {
+      "name": "Porkulent",
+      "effect": "If the player has Pig, purchases will not destroy the ring.",
+      "link": "/Synergies#Porkulent"
+    }
+  ],
+  "Unity": [
+    {
+      "name": "Captain Plant It",
+      "effect": "If the player has Portable Turret, Portable Turret gains Unity's damage bonus.",
+      "link": "/Synergies#Captain_Plant_It"
+    },
+    {
+      "name": "Garbage Collecting",
+      "effect": "If the player has Trashcannon, hitting a enemy with Trashcannon causes it and its bullets to briefly freeze.",
+      "link": "/Synergies#Garbage_Collecting"
+    },
+    {
+      "name": "what engine do you use",
+      "effect": "If the player has Gungine, it fires a spread of three bullets per shot, but fires at 1/5th of its original rate of fire.",
+      "link": "/Synergies#what_engine_do_you_use"
+    }
+  ],
+  "Ring of Ethereal Form": [
+    {
+      "name": "Ghost With the Most",
+      "effect": "If the player has Gunslinger's Ashes, its ghosts will become larger and freeze enemies, and its reload time is decreased by 20%.",
+      "link": "/Synergies#Ghost_With_the_Most"
+    }
+  ],
+  "Gundromeda Strain": [
+    {
+      "name": "Pandemic Pistol",
+      "effect": "If the player also has Plague Pistol, the pistol turns into the Pandemic Pistol, turning red with an increased ammo capacity, and its bullets become linked like VertebraeK",
+      "link": "/Synergies#Pandemic_Pistol"
+    }
+  ],
+  "Broccoli": [
+    {
+      "name": "Hardwood",
+      "effect": "If the player has Mahoguny, the gun fires four explosive pinecones at a time.",
+      "link": "/Synergies#Hardwood"
+    },
+    {
+      "name": "Cactus Flower / Vegetables",
+      "effect": "If the player has Cactus, it has a chance to fire a prickly pear that bounces off walls and fires needles in all directions. In addition, all needles deal triple damage, are doubled in size, pierce, and bounce.",
+      "link": "/Synergies#Cactus_Flower_.2F_Vegetables"
+    },
+    {
+      "name": "Pea Cannon / Vegetables",
+      "effect": "Broccoli triples Pea Shooter's damage and makes its shots pierce, bounce, and explode.",
+      "link": "/Synergies#Pea_Cannon_.2F_Vegetables"
+    },
+    {
+      "name": "Plant Power",
+      "effect": "If the player also has Triple Gun, the laser beam phase is reached earlier than normal.",
+      "link": "/Synergies#Plant_Power"
+    }
+  ],
+  "Crutch": [
+    {
+      "name": "Smart Bombs",
+      "effect": "If the player also has Bomb or Ice Bomb, bombs home in on enemies.",
+      "link": "/Synergies#Smart_Bombs"
+    }
+  ],
+  "Liquid Valkyrie": [
+    {
+      "name": "Hidden Tech Time",
+      "effect": "If the player also has Table Tech Sight, flipping a table briefly stops time.",
+      "link": "/Synergies#Hidden_Tech_Time"
+    }
+  ],
+  "Bloody Eye": [
+    {
+      "name": "Fear the Old Blood",
+      "effect": "If the player has Trick Gun, its reload time is decreased by 33% and its fire rate is increased by 20%.",
+      "link": "/Synergies#Fear_the_Old_Blood"
+    },
+    {
+      "name": "Hidden Tech Time",
+      "effect": "If the player has Table Tech Sight, flipping a table briefly stops time.",
+      "link": "/Synergies#Hidden_Tech_Time"
+    },
+    {
+      "name": "Tears of Blood",
+      "effect": "If the player has Tear Jerker, its shots become red and inflict slow. This may also be a reference to to The Binding of Isaac, where several items turn the player's tears into blood.",
+      "link": "/Synergies#Tears_of_Blood"
+    },
+    {
+      "name": "Venom Veins",
+      "effect": "If the player has Mutation, it poisons enemies.",
+      "link": "/Synergies#Venom_Veins"
+    }
+  ],
+  "Gunknight Greaves": [
+    {
+      "name": "Cormorant",
+      "effect": "Acquiring all four Gunknight items transforms the player into Cormorant.",
+      "link": "/Synergies#Cormorant"
+    },
+    {
+      "name": "Knight Time",
+      "effect": "If the player has Ballistic Boots, Gunknight Greaves grants 2 armor instead of 1, and taking damage briefly stops time in a manner similar to the Aged Bell.\nThe Treadnaught can move its turrets and fire shots during this time, however bullets fired during this period won't move until after the time stop has ended.\nSome traps, like mine",
+      "link": "/Synergies#Knight_Time"
+    }
+  ],
+  "Gunknight Gauntlet": [
+    {
+      "name": "Clawntlet",
+      "effect": "If the player has Cat Claw, Gunknight Gauntlet will grant 3 armor instead of 1, and taking damage causes bullets from the currently held gun to be sprayed in all directions.",
+      "link": "/Synergies#Clawntlet"
+    },
+    {
+      "name": "Cormorant",
+      "effect": "Acquiring all four Gunknight items transforms the player into Cormorant.",
+      "link": "/Synergies#Cormorant"
+    }
+  ],
+  "Old Knight's Shield": [
+    {
+      "name": "Tutorialized",
+      "effect": "If the player also has Old Knight's Helm, the Old Knight's shield will orbit the player and block bullets.",
+      "link": "/Synergies#Tutorialized"
+    },
+    {
+      "name": "Pea Cannon",
+      "effect": "If the player also has Pea Shooter, its appearance changes, damage is increased and its shots cause small explosions.",
+      "link": "/Synergies#Pea_Cannon"
+    }
+  ],
+  "Old Knight's Helm": [
+    {
+      "name": "Tutorialized",
+      "effect": "If the player also has Old Knight's Shield, the Old Knight's shield will orbit the player and block bullets.",
+      "link": "/Synergies#Tutorialized"
+    },
+    {
+      "name": "Pea Cannon",
+      "effect": "If the player also has Pea Shooter, its appearance changes, damage is increased and its shots cause small explosions.",
+      "link": "/Synergies#Pea_Cannon"
+    }
+  ],
+  "Old Knight's Flask": [
+    {
+      "name": "\\o/",
+      "effect": "If the player also has Sunlight Javelin, when Sunlight Javelin hits an enemy, it will spawn a circular zone that ignites all enemies within it.",
+      "link": "/Synergies#.5Co.2F"
+    },
+    {
+      "name": "Five O'Clock Somewhere",
+      "effect": "If the player has Crestfaller, reloading it will fire a glass bottle that will stun enemies it hits. Reloading Crestfaller while standing on a liquid replenishes the ammo missing in the current magazine, similar to Gungine.",
+      "link": "/Synergies#Five_O.27Clock_Somewhere"
+    },
+    {
+      "name": "Praise the Gun",
+      "effect": "If the player has Gun Soul, a bonfire spawns in every shop and elevator to the next floor. If the player dies, they will respawn at the last bonfire they activated instead of at the start of the floor. Additionally, dodge roll recovery time is reduced.",
+      "link": "/Synergies#Praise_the_Gun"
+    }
+  ],
+  "Armor of Thorns": [
+    {
+      "name": "Backdraft",
+      "effect": "If the player has Ring of Fire Resistance, Ruby Bracelet, or Copper Ammolet, touching enemies sets them on fire.",
+      "link": "/Synergies#Backdraft"
+    },
+    {
+      "name": "Careful Iteration",
+      "effect": "If the player has Casey, Casey becomes spiked and fires a spread of 6 nails each time it is swung.",
+      "link": "/Synergies#Careful_Iteration"
+    },
+    {
+      "name": "Devil's Plaything",
+      "effect": "If the player has Bullet Idol, the idol orbits the player and blocks enemy shots. Any enemy bullet that is blocked by Bullet Idol damages all enemies in the room.",
+      "link": "/Synergies#Devil.27s_Plaything"
+    },
+    {
+      "name": "Thorn Bath, ooh!",
+      "effect": "If the player has Nail Gun, Derringer, or Cactus, while one of the guns is held, nails are periodically fired in all directions.",
+      "link": "/Synergies#Thorn_Bath.2C_ooh.21"
+    }
+  ],
+  "Full Metal Jacket": [
+    {
+      "name": "The Line of Fire",
+      "effect": "If the player has Composite Gun, the bullets leave a trail of fire.",
+      "link": "/Synergies#The_Line_of_Fire"
+    },
+    {
+      "name": "To Serve Android",
+      "effect": "If the player also has the Badge, the police officer turns into a robot and cannot die.",
+      "link": "/Synergies#To_Serve_Android"
+    }
+  ],
+  "Ticket": [
+    {
+      "name": "Secret Twin",
+      "effect": "If the player also has Vulcan Cannon, holding Vulcan Cannon while using Ticket will spawn two friendly Gatling Gulls instead of one.",
+      "link": "/Synergies#Secret_Twin"
+    }
+  ],
+  "Heavy Boots": [
+    {
+      "name": "Hardwood",
+      "effect": "If the player also has Mahoguny, it fires three explosive shots at a time.",
+      "link": "/Synergies#Hardwood"
+    },
+    {
+      "name": "Heavy Metal",
+      "effect": "If the player also has Anvillain, its shot speed is decreased by 25% and its damage is increased by 20%.",
+      "link": "/Synergies#Heavy_Metal"
+    },
+    {
+      "name": "Iron Slug",
+      "effect": "If the player also has Big Iron, it fires a single high",
+      "link": "/Synergies#Iron_Slug"
+    },
+    {
+      "name": "Iron Stance",
+      "effect": "If the player also has Tangler, Pulse Cannon, Blunderbuss, Regular Shotgun, Old Goldie, Huntsman, Void Shotgun, Zilla Shotgun, Elephant Gun, Blooper or Siren, their damage is increased by 20%, their shot speed is increased by 50%, and their reload time is decreased by 20%.",
+      "link": "/Synergies#Iron_Stance"
+    }
+  ],
+  "Bug Boots": [
+    {
+      "name": "Buggin' Out",
+      "effect": "If the player has Gungeon Ant, while it is held, Bug Boots spread oil instead of poison, and the player is immune to fire.",
+      "link": "/Synergies#Buggin.27_Out"
+    }
+  ],
+  "Gunboots": [
+    {
+      "name": "Double Down",
+      "effect": "If the player also has Springheel Boots, the cooldown is removed and every roll will fire bullets.",
+      "link": "/Synergies#Double_Down"
+    },
+    {
+      "name": "Spelunker",
+      "effect": "If the player also has Blast Helmet, dodge rolling will create a small explosion behind the player instead of firing bullets.",
+      "link": "/Synergies#Spelunker"
+    }
+  ],
+  "Springheel Boots": [
+    {
+      "name": "Double Down",
+      "effect": "If the player also has Gunboots, its cooldown is removed and every roll will fire bullets.",
+      "link": "/Synergies#Double_Down"
+    },
+    {
+      "name": "Firing With Flair",
+      "effect": "If the player also has Flare Gun, it will set green fire that leaves enemies permanently burning.",
+      "link": "/Synergies#Firing_With_Flair"
+    },
+    {
+      "name": "Triple Jump",
+      "effect": "If the player also has Ballistic Boots, the player gains an extra dodge and can perform three dodges in succession.",
+      "link": "/Synergies#Triple_Jump"
+    }
+  ],
+  "Rat Boots": [
+    {
+      "name": "Resourceful Indeed",
+      "effect": "If the player also has Partially",
+      "link": "/Synergies#Resourceful_Indeed"
+    }
+  ],
+  "Coin Crown": [
+    {
+      "name": "Great Queen Ant",
+      "effect": "If the player also has Gungeon Ant, it becomes an ant queen and shoots rocket ants.",
+      "link": "/Synergies#Great_Queen_Ant"
+    },
+    {
+      "name": "King Bomber",
+      "effect": "If the player also has Lil' Bomber, its bombs become gold and spawn  every time they hit an enemy.",
+      "link": "/Synergies#King_Bomber"
+    },
+    {
+      "name": "Queen of Hearts",
+      "effect": "If the player also has Heart Purse, when at full health, picking up hearts will turn them to coins.",
+      "link": "/Synergies#Queen_of_Hearts"
+    },
+    {
+      "name": "Two Heavy",
+      "effect": "If the player also has Crown of Guns, the chance for Coin Crown to spawn money is doubled.",
+      "link": "/Synergies#Two_Heavy"
+    }
+  ],
+  "Oiled Cylinder": [
+    {
+      "name": "Hail To The King",
+      "effect": "If the player also has the Yari Launcher, its magazine size is increased by 50% and its damage is increased by 20%.",
+      "link": "/Synergies#Hail_To_The_King"
+    },
+    {
+      "name": "Not Quite As Mini",
+      "effect": "If the player also has Vulcan Cannon, its maximum ammo is increased by 25% and its rate of fire is significantly increased.",
+      "link": "/Synergies#Not_Quite_As_Mini"
+    },
+    {
+      "name": "Wound Up",
+      "effect": "If the player also has the Wind Up Gun, the bottom half of its magazine retains full damage and piercing, and its damage and bullet size is increased by 25%.",
+      "link": "/Synergies#Wound_Up"
+    }
+  ],
+  "Ice Cube": [
+    {
+      "name": "Ice To Meet You",
+      "effect": "If the player also has Heart of Ice, firing with any gun will periodically fire a Heart of Ice projectile that splits and bounces. Like regular Heart of Ice projectiles, these projectiles can freeze water.\nThe probability of firing the ice projectile appears to be inversely proportional to the gun's fire rate.  Curiously, it will always fire if the player swings Blasphemy with full hearts.",
+      "link": "/Synergies#Ice_To_Meet_You"
+    },
+    {
+      "name": "Willing To Sacrifice",
+      "effect": "If the player also has Freeze Ray, it gains piercing and slowly regenerates ammo over time.",
+      "link": "/Synergies#Willing_To_Sacrifice"
+    }
+  ],
+  "Rolling Eye": [
+    {
+      "name": "Fear The Old Blood",
+      "effect": "If the player has Trick Gun, its reload time is decreased by 33% and its fire rate is increased by 20%.",
+      "link": "/Synergies#Fear_The_Old_Blood"
+    },
+    {
+      "name": "Iroquois",
+      "effect": "If the player has MAC10, its reload time is decreased by 33%, its magazine size is increased by 50%, and its knockback is increased by 50%.\nIf one player on co",
+      "link": "/Synergies#Iroquois"
+    },
+    {
+      "name": "Lotus Bloom",
+      "effect": "If the player has Laser Lotus, the Laser Lotus gains the appearance of a flower. Its magazine size increases to 32, its maximum ammo increases to 250, its fire rate greatly increases, and it deals half damage.",
+      "link": "/Synergies#Lotus_Bloom"
+    },
+    {
+      "name": "Mirror Shield",
+      "effect": "If the player has Shield of the Maiden, it reflects enemy bullets while active.",
+      "link": "/Synergies#Mirror_Shield"
+    },
+    {
+      "name": "Full Circle",
+      "effect": "If the player has Tangler, the Tangler takes on a round shape instead of its usual rectangle. Deals increased damage and turns enemies round instead of rectangular, but reloads slower (2.0 seconds) and often causes the game to crash.",
+      "link": "/Synergies#Full_Circle"
+    }
+  ],
+  "Cigarettes": [
+    {
+      "name": "Iroquois",
+      "effect": "If the player has MAC10, the MAC10's reload time is decreased by 33%, magazine size is increased by 50%, and knockback is increased by 50%.",
+      "link": "/Synergies#Iroquois"
+    },
+    {
+      "name": "What A Thrill",
+      "effect": "If the player has Patriot, Patriot has a chance to transmogrify enemies into snakes.",
+      "link": "/Synergies#What_A_Thrill"
+    },
+    {
+      "name": "I need scissors! 61!",
+      "effect": "If the player also has Trank Gun. Trank Gun changes appearance, its rate of fire is decreased, damage and reload time are increased, and its bullets will inflict slow and stun.",
+      "link": "/Synergies#I_need_scissors.21_61.21"
+    }
+  ],
+  "Magazine Rack": [
+    {
+      "name": "Just Shoot Me",
+      "effect": "If the player has Camera, this shoots at nearby enemies while active.",
+      "link": "/Synergies#Just_Shoot_Me"
+    },
+    {
+      "name": "Junk Mail",
+      "effect": "If the player has Mailbox, activating the Magazine Rack causes Mailbox to only shoot out packages.",
+      "link": "/Synergies#Junk_Mail"
+    },
+    {
+      "name": "Magazine Clip",
+      "effect": "If the player has Drum Clip, Magazine Rack's radius doubles.",
+      "link": "/Synergies#Magazine_Clip"
+    }
+  ],
+  "Charm Horn": [
+    {
+      "name": "Hornucopia",
+      "effect": "If the player has Banana, the exploding banana will send out five bouncing explosive bananas instead of three, one of which explodes into 4 additional exploding bananas. Additionally, using Charm Horn fires a banana at each enemy it charms.",
+      "link": "/Synergies#Hornucopia"
+    }
+  ],
+  "Cog of Battle": [
+    {
+      "name": "Chest High is the Best High",
+      "effect": "If the player also has Mourning Star, Its damage is increased by 25% and the Macho Brace effect is activated after flipping a table.",
+      "link": "/Synergies#Chest_High_is_the_Best_High"
+    },
+    {
+      "name": "Ruby Carbine",
+      "effect": "If the player also has Hegemony Carbine, its projectiles will burn enemies and bounce off walls.",
+      "link": "/Synergies#Ruby_Carbine"
+    }
+  ],
+  "Metronome": [
+    {
+      "name": "Keeping The Beat",
+      "effect": "If the player has Drum Clip, the damage increase is changed to +4% damage per kill instead of +2%, and maxes out at +250% damage instead of +150%. The note at max level becomes silver.",
+      "link": "/Synergies#Keeping_The_Beat"
+    },
+    {
+      "name": "Shredder",
+      "effect": "Decreases the accuracy of the Face Melter and Gunzheng.",
+      "link": "/Synergies#Shredder"
+    },
+    {
+      "name": "Three Part Harmony",
+      "effect": "If the player also has Really Special Lute, the gun's spread is drastically decreased.",
+      "link": "/Synergies#Three_Part_Harmony"
+    }
+  ],
+  "Honeycomb": [
+    {
+      "name": "Bee Plus",
+      "effect": "If the player has Jar of Bees, taking damage causes Honeycomb to spawn hornets, which travel faster and deal more damage than regular bees.",
+      "link": "/Synergies#Bee_Plus"
+    },
+    {
+      "name": "BEES",
+      "effect": "If the player has Bee Hive, the size of the Bee Hive's bees is doubled, their damage is increased by 25%, and the Bee Hive's rate of fire is decreased by 34%.",
+      "link": "/Synergies#BEES"
+    }
+  ],
+  "Map": [
+    {
+      "name": "Parchmental",
+      "effect": "If the player has Origuni, it fires two planes per shot. This lasts for the rest of the run even though the Map only lasts for one floor.",
+      "link": "/Synergies#Parchmental"
+    }
+  ],
+  "Sense of Direction": [
+    {
+      "name": "Swift Sloop",
+      "effect": "If the player also has Corsair, increases its shot speed by 50%, decreases its charge time by 33%, and decreases its reload time by 20%.",
+      "link": "/Synergies#Swift_Sloop"
+    }
+  ],
+  "Gungeon Pepper": [
+    {
+      "name": "Maximize Spell",
+      "effect": "If the player has Flame Hand, it turns green, and green flames will leave pools of green fire upon hitting enemy. This green fire does not damage or burn the player.",
+      "link": "/Synergies#Maximize_Spell"
+    },
+    {
+      "name": "Sausage and Pepper",
+      "effect": "  If the player has Meatbun, Gungeon Pepper's range will be doubled. The synergy is lost when Meatbun is consumed.",
+      "link": "/Synergies#Sausage_and_Pepper"
+    },
+    {
+      "name": "Phoenix Up",
+      "effect": "If the player has Phoenix, changes the look of the gun and summons a Phoenix companion that fires at enemies.",
+      "link": "/Synergies#Phoenix_Up"
+    }
+  ],
+  "Antibody": [
+    {
+      "name": "Antichamber",
+      "effect": "If the player has Dark Marker, it alternates between firing red and blue shots that become very slow and large after traveling a short distance. If any red and blue shots touch, the blank effect is activated.",
+      "link": "/Synergies#Antichamber"
+    },
+    {
+      "name": "The Powerhouse of the Cell",
+      "effect": "If the player has Evolver, it evolves to its next stage.\nDue to the ammo refill from evolving, dropping Antibody and picking it up again will give the player an unlimited supply of ammo for the Evolver.",
+      "link": "/Synergies#The_Powerhouse_of_the_Cell"
+    }
+  ],
+  "Resourceful Sack": [
+    {
+      "name": "Resourceful Indeed",
+      "effect": "If the player also has Partially",
+      "link": "/Synergies#Resourceful_Indeed"
+    }
+  ],
+  "Pink Guon Stone": [
+    {
+      "name": "Pinker Guon Stone",
+      "effect": "If the player has +1 Bullets, Amulet of the Pit Lord, or Charmed Bow, Pink Guon Stone becomes larger, and enemies that damage the player become temporarily charmed.",
+      "link": "/Synergies#Pinker_Guon_Stone"
+    },
+    {
+      "name": "Tile Match",
+      "effect": "If the player also has Tetrominator, whenever the player shoots, Pink Guon Stone will occasionally shoot a T Tetromino.",
+      "link": "/Synergies#Tile_Match"
+    },
+    {
+      "name": "Unbelievably Charming",
+      "effect": "If the player has Charmed Bow or Shotgun Full of Love, the player is followed by a fairy that blocks bullets and displays the contents of chests.",
+      "link": "/Synergies#Unbelievably_Charming"
+    }
+  ],
+  "White Guon Stone": [
+    {
+      "name": "Tile Match",
+      "effect": "If the player also has Tetrominator, whenever the player shoots, White Guon Stone will occasionally shoot a yellow cube Tetromino itself.",
+      "link": "/Synergies#Tile_Match"
+    },
+    {
+      "name": "Whiter Guon Stone",
+      "effect": "If the player also has +1 Bullets, Amulet of the Pit Lord, or Flash Ray, the size of the Guon Stone is increased and the cooldown of Daruma is halved. However, the item does not synergize with Daruma.",
+      "link": "/Synergies#Whiter_Guon_Stone"
+    }
+  ],
+  "Orange Guon Stone": [
+    {
+      "name": "Enter the Fruitgeon",
+      "effect": "If the player has Orange, Orange Guon Stone deals 7 damage per shot and fires oranges.",
+      "link": "/Synergies#Enter_the_Fruitgeon"
+    },
+    {
+      "name": "Oranger Guon Stone",
+      "effect": "If the player has +1 Bullets, Orange, or Amulet of the Pit Lord, Orange Guon Stone fires more frequently and deals more damage.",
+      "link": "/Synergies#Oranger_Guon_Stone"
+    },
+    {
+      "name": "Tile Match",
+      "effect": "If the player also has Tetrominator, whenever the player shoots, Orange Guon Stone will occasionally shoot an L Tetromino.",
+      "link": "/Synergies#Tile_Match"
+    }
+  ],
+  "Clear Guon Stone": [
+    {
+      "name": "Clearer Guon Stone",
+      "effect": "If the player has +1 Bullets, Bottle, or Amulet of the Pit Lord, the Clear Guon Stone becomes bigger and grants immunity to poison, fire, and electricity.",
+      "link": "/Synergies#Clearer_Guon_Stone"
+    },
+    {
+      "name": "Gungeonite",
+      "effect": "If the player has Gamma Ray, the beam will leave a trail of poison.",
+      "link": "/Synergies#Gungeonite"
+    },
+    {
+      "name": "Tile Match",
+      "effect": "If the player also has Tetrominator, whenever the player shoots, Clear Guon Stone will occasionally shoot a line Tetromino.",
+      "link": "/Synergies#Tile_Match"
+    }
+  ],
+  "Green Guon Stone": [
+    {
+      "name": "Greener Guon Stone",
+      "effect": "If the player has +1 Bullets, Pea Shooter, or Amulet of the Pit Lord, 20  appears whenever Green Guon Stone heals the player.",
+      "link": "/Synergies#Greener_Guon_Stone"
+    },
+    {
+      "name": "Tile Match",
+      "effect": "If the player also has Tetrominator, whenever the player shoots, Green Guon Stone will occasionally shoot an S Tetromino.",
+      "link": "/Synergies#Tile_Match"
+    }
+  ],
+  "Red Guon Stone": [
+    {
+      "name": "Redder Guon Stone",
+      "effect": "If the player also has +1 Bullets, Ring of Fire Resistance, or Amulet of the Pit Lord, the Guon Stone's size is increased and the player will gain a yellow glow and stat increase similar to that of the Macho Brace for a short time whenever the Guon Stone blocks a bullet.",
+      "link": "/Synergies#Redder_Guon_Stone"
+    },
+    {
+      "name": "Tile Match",
+      "effect": "If the player also has Tetrominator, whenever the player shoots, Red Guon Stone will occasionally shoot a Z Tetromino.",
+      "link": "/Synergies#Tile_Match"
+    }
+  ],
+  "Blue Guon Stone": [
+    {
+      "name": "Bluer Guon Stone",
+      "effect": "If the player has +1 Bullets, Amulet of the Pit Lord, or Bullet Time, the size of the Guon Stone is increased and it rotates faster. If the Guon Stone blocks a bullet, it deals 15 damage to all nearby enemies.",
+      "link": "/Synergies#Bluer_Guon_Stone"
+    },
+    {
+      "name": "Tile Match",
+      "effect": "If the player also has Tetrominator, whenever the player shoots, Blue Guon Stone will occasionally shoot a J Tetromino.",
+      "link": "/Synergies#Tile_Match"
+    }
+  ],
+  "Glass Guon Stone": [
+    {
+      "name": "Max Pane",
+      "effect": "If the player also has Glass Cannon, its damage is increased.",
+      "link": "/Synergies#Max_Pane"
+    }
+  ],
+  "Drum Clip": [
+    {
+      "name": "Alternative Rock",
+      "effect": "If the player has Face Melter, instead of firing four streams, Face Melter fires two parallel columns of notes. Upon reloading, Face Melter also shoots out a green pick, which can stun enemies.",
+      "link": "/Synergies#Alternative_Rock"
+    },
+    {
+      "name": "Dr Worm",
+      "effect": "If the player has Heck Blaster, its ammo automatically replenishes slowly.",
+      "link": "/Synergies#Dr_Worm"
+    },
+    {
+      "name": "Hegemony Special Forces",
+      "effect": "If the player has Hegemony Rifle, it fires piercing lasers.",
+      "link": "/Synergies#Hegemony_Special_Forces"
+    },
+    {
+      "name": "Keeping The Beat",
+      "effect": "If the player has Metronome, it grants +4% damage per kill instead of +2%, and maxes out at +250% damage instead of +150%.",
+      "link": "/Synergies#Keeping_The_Beat"
+    },
+    {
+      "name": "M1 Multi-Tool",
+      "effect": "If the player has M1, decreases M1's reload time by 20% and increases its magazine size, and maximum ammo. Increases movement speed while M1 is held.",
+      "link": "/Synergies#M1_Multi-Tool"
+    },
+    {
+      "name": "Not Quite As Mini",
+      "effect": "If the player has Vulcan Cannon, its maximum ammo is increased by 25% and its fire rate greatly increases.",
+      "link": "/Synergies#Not_Quite_As_Mini"
+    },
+    {
+      "name": "Magazine Clips",
+      "effect": "If the player has Magazine Rack, Magazine Rack's radius roughly doubles.",
+      "link": "/Synergies#Magazine_Clips"
+    }
+  ],
+  "Holey Grail": [
+    {
+      "name": "Empty Vessels",
+      "effect": "If the player has Bottle and takes damage while it is empty, it fills with a purple flame that deals 100 damage to all enemies in the room upon use.",
+      "link": "/Synergies#Empty_Vessels"
+    },
+    {
+      "name": "Hellhole",
+      "effect": "If the player has Singularity, it spawns a hell portal that sucks enemies in and deals high damage.",
+      "link": "/Synergies#Hellhole"
+    },
+    {
+      "name": "Just Like The Real Thing",
+      "effect": "If the player has Shotgrub, it fires a wide spread of five bullets, which bounce back and split into waving bullets after hitting a wall, similar to the Shotgrub enemy's attack.",
+      "link": "/Synergies#Just_Like_The_Real_Thing"
+    },
+    {
+      "name": "Kailber k'pow uboom k'bhang",
+      "effect": "If the player also has High Kaliber, the soul spawned by hitting an enemy with High Kaliber initially moves towards the player instead of away.",
+      "link": "/Synergies#Kailber_k.27pow_uboom_k.27bhang"
+    },
+    {
+      "name": "Kaliber's Grip",
+      "effect": "If the player has Abyssal Tentacle, it grabs two enemies at a time.",
+      "link": "/Synergies#Kaliber.27s_Grip"
+    },
+    {
+      "name": "Kalibreath",
+      "effect": "If the player has Dragunfire, it turns grey, gains an increased rate of fire, and gains notable knockback on enemies, but loses piercing projectiles.",
+      "link": "/Synergies#Kalibreath"
+    },
+    {
+      "name": "Pitch Perfect",
+      "effect": "If the player has Pitchfork, it fires green fireballs that set enemies permanently aflame.",
+      "link": "/Synergies#Pitch_Perfect"
+    }
+  ],
+  "Blood Brooch": [
+    {
+      "name": "blade",
+      "effect": "If the player also has Kruller Glaive, its damage is increased by 20%, and enemies hit will visually bleed.",
+      "link": "/Synergies#blade"
+    },
+    {
+      "name": "Fear the Old Blood",
+      "effect": "If the player also has Trick Gun, its reload time is decreased by 33%.",
+      "link": "/Synergies#Fear_the_Old_Blood"
+    },
+    {
+      "name": "Venom Veins",
+      "effect": "If the player also has Mutation, it will poison hit enemies.",
+      "link": "/Synergies#Venom_Veins"
+    }
+  ],
+  "Backup Gun": [
+    {
+      "name": "Gruber's Bane",
+      "effect": "If player also has Shadow Bullets all backward shots have an additional projectile.",
+      "link": "/Synergies#Gruber.27s_Bane"
+    },
+    {
+      "name": "Like Shooting Fish",
+      "effect": "If the player has Barrel, a fish pops out of the Barrel and fires bullets. The last shot of each magazine fires fish who flop around on the ground and fire at enemies.",
+      "link": "/Synergies#Like_Shooting_Fish"
+    }
+  ],
+  "Sunglasses": [
+    {
+      "name": "Kung Fu Hippie, Rappin' Surfer",
+      "effect": "If the player also has Rad Gun, its magazine size is increased to 20 and its reload time is increased, giving more time to hit the mark. Grants 1.33 coolness.",
+      "link": "/Synergies#Kung_Fu_Hippie.2C_Rappin.27_Surfer"
+    },
+    {
+      "name": "Nailed It",
+      "effect": "If the player also has the Nail Gun, it fires larger nails that do about 6 damage each and cause bleeding.",
+      "link": "/Synergies#Nailed_It"
+    },
+    {
+      "name": "Spicy D-Boys",
+      "effect": "If the player has Strafe Gun, coolness is increased by 2 and nearby enemies are lit on fire whenever reloading Strafe Gun.",
+      "link": "/Synergies#Spicy_D-Boys"
+    },
+    {
+      "name": "The Line of Fire",
+      "effect": "If the player has Composite Gun, its shots leave a trail of fire.",
+      "link": "/Synergies#The_Line_of_Fire"
+    },
+    {
+      "name": "Thermal Imaging",
+      "effect": "If the player also has The Predator, it fires two lasers instead of one.",
+      "link": "/Synergies#Thermal_Imaging"
+    }
+  ],
+  "Mimic Tooth Necklace": [
+    {
+      "name": "Ruby Carbine",
+      "effect": "If the player also has Hegemony Carbine, its shots bounce and light enemies on fire.",
+      "link": "/Synergies#Ruby_Carbine"
+    }
+  ],
+  "Escape Rope": [
+    {
+      "name": "All Out Of Law",
+      "effect": "If the player has Colt 1851, it fires three tight spreads of three bullets upon reloading. These projectiles can ignore tables when fired from behind them, and they can reveal secret rooms without angering the shopkeeper Bello.",
+      "link": "/Synergies#All_Out_Of_Law"
+    },
+    {
+      "name": "Hydro Pump",
+      "effect": "If the player has Mega Douser, increases the Mega Douser's damage by 50%, triples its shot speed and knockback, and increases the stream's size.",
+      "link": "/Synergies#Hydro_Pump"
+    }
+  ],
+  "Jetpack": [
+    {
+      "name": "Barrage Shot",
+      "effect": "If the player also has Charge Shot, charge time is reduced by 25%, reload time is reduced by 33%, and shot size is increased.",
+      "link": "/Synergies#Barrage_Shot"
+    },
+    {
+      "name": "MM6 Mini Rocket",
+      "effect": "If the player has Backpack, activating the Jetpack fires a rocket in the direction of the crosshair. This has a cooldown of about 5 seconds.",
+      "link": "/Synergies#MM6_Mini_Rocket"
+    }
+  ],
+  "Wax Wings": [
+    {
+      "name": "Peripheral Vision",
+      "effect": "If the player has Light Gun, the Light Gun will turn from red to white and a dog resembling the Duck Hunt dog will appear and slap an enemy when they are shot.",
+      "link": "/Synergies#Peripheral_Vision"
+    },
+    {
+      "name": "Vulcan Raving",
+      "effect": "If the player also has Vulcan Cannon, its knockback is increased by 50%.",
+      "link": "/Synergies#Vulcan_Raving"
+    }
+  ],
+  "Cat Bullet King Throne": [
+    {
+      "name": "Mad Cats",
+      "effect": "If the player is holding 3rd Party Controller the bullets shot from Cat Bullet King Throne home in on the enemy.",
+      "link": "/Synergies#Mad_Cats"
+    },
+    {
+      "name": "Usurper",
+      "effect": "If the player has Crown of Guns, the Crown appears to fire more rapidly and also makes the Crown automatically charm Bullet Kin and Veteran Bullet Kin when held.",
+      "link": "/Synergies#Usurper"
+    }
+  ],
+  "Blast Helmet": [
+    {
+      "name": "Blast Crown",
+      "effect": "If the player has Crown of Guns, it gains a chance to fire explosives.",
+      "link": "/Synergies#Blast_Crown"
+    },
+    {
+      "name": "Fightsabre Training",
+      "effect": "While Fightsabre is held, an orbital appears that blocks enemy shots.",
+      "link": "/Synergies#Fightsabre_Training"
+    },
+    {
+      "name": "Nailed It",
+      "effect": "If the player also has the Nail Gun, it fires larger nails that deal triple damage.",
+      "link": "/Synergies#Nailed_It"
+    },
+    {
+      "name": "Spelunker",
+      "effect": "If the player also has Gunboots, dodge rolling will produce an explosion behind the player instead of the normal spread of bullets.",
+      "link": "/Synergies#Spelunker"
+    }
+  ],
+  "Lament Configurum": [
+    {
+      "name": "Heart-Shaped Box",
+      "effect": "If the player has Heart Lunchbox, Lament Configurum will heal the player instead of dealing damage.",
+      "link": "/Synergies#Heart-Shaped_Box"
+    }
+  ],
+  "Monster Blood": [
+    {
+      "name": "Deadly Distraction",
+      "effect": "If the player also has Decoy, the Decoy creates a large poison pool when attacked.",
+      "link": "/Synergies#Deadly_Distraction"
+    },
+    {
+      "name": "Deadlier Distraction",
+      "effect": "If the player also has Explosive Decoy, the Explosive Decoy explodes and creates a large poison pool when attacked.",
+      "link": "/Synergies#Deadlier_Distraction"
+    },
+    {
+      "name": "Monster Grub",
+      "effect": "If the player also has Shotgrub, Shotgrub's bullets will home in on enemies.",
+      "link": "/Synergies#Monster_Grub"
+    },
+    {
+      "name": "Natural Selection",
+      "effect": "If the player also has Evolver, it evolves after every 3 unique enemy types killed instead of 5.",
+      "link": "/Synergies#Natural_Selection"
+    },
+    {
+      "name": "Pandemic Pistol",
+      "effect": "If the player also has Plague Pistol, the pistol turns into the Pandemic Pistol, turning red with an increased ammo capacity, and its bullets become linked like VertebraeK",
+      "link": "/Synergies#Pandemic_Pistol"
+    },
+    {
+      "name": "Venom Veins",
+      "effect": "If the player also has Mutation, Mutation will poison enemies damaged by it.",
+      "link": "/Synergies#Venom_Veins"
+    }
+  ],
+  "Nanomachines": [
+    {
+      "name": "Future Gangster",
+      "effect": "If the player also has Thompson Sub",
+      "link": "/Synergies#Future_Gangster"
+    },
+    {
+      "name": "Pistol Machine",
+      "effect": "If the player also has Machine Pistol, its bullets will be connected by electricity.",
+      "link": "/Synergies#Pistol_Machine"
+    },
+    {
+      "name": "Pretty Good",
+      "effect": "If the player also has SAA, the player's coolness will be increased by 2.",
+      "link": "/Synergies#Pretty_Good"
+    },
+    {
+      "name": "Production Model",
+      "effect": "If the player also has Prototype Railgun, its projectiles bounce up to 5 times.",
+      "link": "/Synergies#Production_Model"
+    },
+    {
+      "name": "Steel Skin",
+      "effect": "If the player also has AC",
+      "link": "/Synergies#Steel_Skin"
+    }
+  ],
+  "Seven-Leaf Clover": [
+    {
+      "name": "Breakfast Club",
+      "effect": "If the player also has Wind Up Gun, its reload time is halved, fire rate increased by 60%, damage increased by 50%, magazine size increased to 27, and all but the last 10 shots of each magazine will be stronger piercing lasers.",
+      "link": "/Synergies#Breakfast_Club"
+    }
+  ],
+  "Copper Ammolet": [
+    {
+      "name": "Backdraft",
+      "effect": "If the player has Armor of Thorns, touching enemies sets them on fire.",
+      "link": "/Synergies#Backdraft"
+    },
+    {
+      "name": "Don't Worry About The Vase",
+      "effect": "If the player has The Kiln, destroying small breakable objects (vases, barrels, etc.) has a small chance to activate a blank effect.",
+      "link": "/Synergies#Don.27t_Worry_About_The_Vase"
+    },
+    {
+      "name": "Firing With Flair",
+      "effect": "If the player has Flare Gun, the Flare Gun turns green and sets green fire, which leaves enemies permanently burning.",
+      "link": "/Synergies#Firing_With_Flair"
+    },
+    {
+      "name": "Hot Ones",
+      "effect": "If the player has Hot Lead, the chance to shoot fire bullets is significantly increased.",
+      "link": "/Synergies#Hot_Ones"
+    },
+    {
+      "name": "Phoenix Up",
+      "effect": "If the player has Phoenix, summons a phoenix companion that fires at enemies.",
+      "link": "/Synergies#Phoenix_Up"
+    }
+  ],
+  "Frost Ammolet": [
+    {
+      "name": "Arctic Warfare",
+      "effect": "If the player has A.W.P., it will turn orange and white, and its shots will freeze enemies.",
+      "link": "/Synergies#Arctic_Warfare"
+    },
+    {
+      "name": "Cold Ones",
+      "effect": "If the player has Frost Bullets, the chance to fire ice bullets is significantly increased.",
+      "link": "/Synergies#Cold_Ones"
+    },
+    {
+      "name": "Relodestar",
+      "effect": "If the player has Relodestone, after Relodestone's effect ends, the bullets that were absorbed are shot out of the player dealing damage to enemies.",
+      "link": "/Synergies#Relodestar"
+    }
+  ],
+  "Table Tech Sight": [
+    {
+      "name": "All Out Of Law",
+      "effect": "If the player has Colt 1851, it fires three tight spreads of three bullets upon reloading. These projectiles can ignore tables when fired from behind them, and they can reveal secret rooms without angering the shopkeeper Bello.",
+      "link": "/Synergies#All_Out_Of_Law"
+    },
+    {
+      "name": "Hidden Tech Time",
+      "effect": "If the player has Liquid Valkyrie or Bloody Eye, flipping a table briefly stops time.",
+      "link": "/Synergies#Hidden_Tech_Time"
+    },
+    {
+      "name": "Paperwork",
+      "effect": "If the player has Origuni, the first shot of every Origuni magazine fires three planes.",
+      "link": "/Synergies#Paperwork"
+    }
+  ],
+  "Table Tech Money": [
+    {
+      "name": "Gilded Tables",
+      "effect": "If the player has Gilded Bullets, tables have a 15% chance to be golden. Flipping a golden table will cause all normal enemies in the room to drop 2 to 6 extra  upon death. Enemies killed shortly after flipping a golden table will drop more money, and golden tables will not automatically flip due to Table Tech Money.",
+      "link": "/Synergies#Gilded_Tables"
+    },
+    {
+      "name": "Paperwork",
+      "effect": "If the player has Origuni, the first shot of each magazine will fire three planes.",
+      "link": "/Synergies#Paperwork"
+    }
+  ],
+  "Table Tech Rocket": [
+    {
+      "name": "Hunter-Seeker Tables",
+      "effect": "If the player has Com4nd0, table rockets home in on enemies.",
+      "link": "/Synergies#Hunter-Seeker_Tables"
+    }
+  ],
+  "Table Tech Shotgun": [
+    {
+      "name": "Hidden Tech Big Shotgun",
+      "effect": "If the player has Big Shotgun, Table Tech Shotgun shoots Big Shotgun bullets when Big Shotgun is held.",
+      "link": "/Synergies#Hidden_Tech_Big_Shotgun"
+    }
+  ],
+  "Table Tech Heat": [
+    {
+      "name": "Hidden Tech Flare",
+      "effect": "If the player also has Hot Lead, the area of effect of Table Tech Heat triples and ignites enemies with green fire.",
+      "link": "/Synergies#Hidden_Tech_Flare"
+    }
+  ],
+  "Table Tech Rage": [
+    {
+      "name": "Needless Acrimony",
+      "effect": "If the player also has Shotgun Full of Hate, rage duration is significantly increased if a table is flipped with Shotgun Full of Hate held.",
+      "link": "/Synergies#Needless_Acrimony"
+    },
+    {
+      "name": "Paperwork",
+      "effect": "If the player has Origuni, the first shot of every Origuni magazine fires three planes.",
+      "link": "/Synergies#Paperwork"
+    }
+  ],
+  "Table Tech Blanks": [
+    {
+      "name": "Hidden Tech Bees",
+      "effect": "If the player has Bee Hive, Bumbullets, or Jar of Bees, a swarm of bees replaces enemy bullets when a table is flipped.",
+      "link": "/Synergies#Hidden_Tech_Bees"
+    },
+    {
+      "name": "Paperwork",
+      "effect": "If the player has Origuni, the first shot of each magazine will fire three planes.",
+      "link": "/Synergies#Paperwork"
+    }
+  ],
+  "Heart Holster": [
+    {
+      "name": "All Out Of Law",
+      "effect": "If the player has Colt 1851, it fires three tight spreads of three bullets upon reloading. These projectiles can ignore tables when fired from behind them, and they can reveal secret rooms without angering the shopkeeper Bello.",
+      "link": "/Synergies#All_Out_Of_Law"
+    },
+    {
+      "name": "Finger on the Pulse",
+      "effect": "If the player has Pulse Cannon, upon taking damage, three miniature Pulse cannons briefly spawn around the player and fire at enemies.",
+      "link": "/Synergies#Finger_on_the_Pulse"
+    },
+    {
+      "name": "Quick and the Gundead",
+      "effect": "If the player has Hip Holster, shots fired by Hip Holster home in on enemies.",
+      "link": "/Synergies#Quick_and_the_Gundead"
+    }
+  ],
+  "Heart Lunchbox": [
+    {
+      "name": "Heart-Shaped Box",
+      "effect": "If the player has Lament Configurum and Heart Lunchbox, Lament Configurum will heal the player instead of dealing damage.",
+      "link": "/Synergies#Heart-Shaped_Box"
+    }
+  ],
+  "Heart Locket": [
+    {
+      "name": "Finger on the Pulse",
+      "effect": "If the player also has Pulse Cannon and takes damage, three miniature Pulse Cannons spawn around the player and fire at enemies, before disappearing.",
+      "link": "/Synergies#Finger_on_the_Pulse"
+    }
+  ],
+  "Heart Bottle": [
+    {
+      "name": "Finger on the Pulse",
+      "effect": "With Pulse Cannon, upon taking damage, three miniature Pulse Cannons briefly appear around the player and fire at enemies.",
+      "link": "/Synergies#Finger_on_the_Pulse"
+    }
+  ],
+  "Heart Purse": [
+    {
+      "name": "Finger on the Pulse",
+      "effect": "With Pulse Cannon, upon taking damage, three miniature Pulse Cannons briefly appear around the player and fire at enemies.",
+      "link": "/Synergies#Finger_on_the_Pulse"
+    },
+    {
+      "name": "Queen of Hearts",
+      "effect": "If the player also has the Coin Crown, when at full health, picking up hearts will turn them to coins.",
+      "link": "/Synergies#Queen_of_Hearts"
+    }
+  ],
+  "Sixth Chamber": [
+    {
+      "name": "Hellhole",
+      "effect": "If the player has Singularity, Singularity spawns a hell portal that sucks enemies in and deals high damage.",
+      "link": "/Synergies#Hellhole"
+    },
+    {
+      "name": "Just Like The Real Thing",
+      "effect": "If the player also has Shotgrub, Shotgrub's bullets will behave like those of the Shotgrub enemy, splitting into wavy bullets upon hitting a wall or enemy.",
+      "link": "/Synergies#Just_Like_The_Real_Thing"
+    },
+    {
+      "name": "Pitch Perfect",
+      "effect": "If the player has Pitchfork, the Pitchfork fires green fireballs that set enemies permanently aflame.",
+      "link": "/Synergies#Pitch_Perfect"
+    }
+  ],
+  "Heart of Ice": [
+    {
+      "name": "Arctic Warfare",
+      "effect": "If the player also has A.W.P., it will turn orange and white, and its shots will freeze enemies.",
+      "link": "/Synergies#Arctic_Warfare"
+    },
+    {
+      "name": "Dragunice",
+      "effect": "If the player also has Dragunfire, it will both freeze and ignite enemies.",
+      "link": "/Synergies#Dragunice"
+    },
+    {
+      "name": "Frosty Distraction",
+      "effect": "If the player also has Decoy, the decoy will freeze enemies that attack it.",
+      "link": "/Synergies#Frosty_Distraction"
+    },
+    {
+      "name": "Frostier Distraction",
+      "effect": "If the player also has Explosive Decoy, the decoy freezes enemies that attack it and explodes after taking enough damage.",
+      "link": "/Synergies#Frostier_Distraction"
+    },
+    {
+      "name": "Ice To Meet You",
+      "effect": "If the player also has Ice Cube or Frost Bullets, firing with any gun will periodically fire a Heart of Ice projectile that splits and bounces.",
+      "link": "/Synergies#Ice_To_Meet_You"
+    },
+    {
+      "name": "Jotun Time",
+      "effect": "If the player also has Frost Giant, thrown guns deal 180% more damage and Frost Giant rapidly chills and freezes nearby enemies while reloading.",
+      "link": "/Synergies#Jotun_Time"
+    },
+    {
+      "name": "Willing To Sacrifice",
+      "effect": "If the player also has Freeze Ray, it gains piercing and slowly regenerates ammo over time.",
+      "link": "/Synergies#Willing_To_Sacrifice"
+    }
+  ],
+  "Ancient Hero's Bandana": [
+    {
+      "name": "I need scissors! 61!",
+      "effect": "If the player also has Trank Gun, Trank Gun changes appearance, its rate of fire is decreased, damage and reload time are increased, and its bullets will inflict slow and stun.",
+      "link": "/Synergies#I_need_scissors.21_61.21"
+    },
+    {
+      "name": "What A Thrill",
+      "effect": "If the player also has Patriot, it has a chance to transmogrify enemies into snakes.",
+      "link": "/Synergies#What_A_Thrill"
+    }
+  ],
+  "Bloodied Scarf": [
+    {
+      "name": "Raizo's Stuff",
+      "effect": "If the player also has Grappling Hook, bullets shot while being pulled with the grappling hook gain homing.",
+      "link": "/Synergies#Raizo.27s_Stuff"
+    },
+    {
+      "name": "Venom Veins",
+      "effect": "If the player also has Mutation, Mutation poisons enemies.",
+      "link": "/Synergies#Venom_Veins"
+    }
+  ],
+  "Muscle Relaxant": [
+    {
+      "name": "Diazepam",
+      "effect": "Muscle Relaxant gives a 50% damage bonus to A.W.P., Bow, Hegemony Rifle, Hexagun, Laser Rifle, M1, Sniper Rifle, and Winchester Rifle.",
+      "link": "/Synergies#Diazepam"
+    }
+  ],
+  "Hip Holster": [
+    {
+      "name": "All Out Of Law",
+      "effect": "If the player has Colt 1851, it fires three tight spreads of three bullets upon reloading. These projectiles can ignore tables when fired from behind them, and they can reveal secret rooms without angering the shopkeeper Bello.",
+      "link": "/Synergies#All_Out_Of_Law"
+    },
+    {
+      "name": "Pretty Good",
+      "effect": "If the player has SAA, coolness is increased by 2.",
+      "link": "/Synergies#Pretty_Good"
+    },
+    {
+      "name": "Quick and The Gundead",
+      "effect": "If the player has Heart Holster, shots fired by Hip Holster home in on enemies.",
+      "link": "/Synergies#Quick_and_The_Gundead"
+    },
+    {
+      "name": "Saved the Best for Last",
+      "effect": "If the player has Ruby Bracelet, shots fired by Hip Holster explode.",
+      "link": "/Synergies#Saved_the_Best_for_Last"
+    }
+  ],
+  "Sponge": [
+    {
+      "name": "Soft Air",
+      "effect": "If the player also has JK",
+      "link": "/Synergies#Soft_Air"
+    },
+    {
+      "name": "Spengbab",
+      "effect": "If the player also has Tangler, its knockback and range are increased by 50%.",
+      "link": "/Synergies#Spengbab"
+    }
+  ],
+  "Gas Mask": [
+    {
+      "name": "Super Serum",
+      "effect": "If the player also has Plague Pistol or the Plunger, the guns' ammo capacity is increased by 50%, their projectiles can bounce, and the size of the projectiles increase.",
+      "link": "/Synergies#Super_Serum"
+    }
+  ],
+  "Hazmat Suit": [
+    {
+      "name": "Super Serum",
+      "effect": "If the player also has Plague Pistol or the Plunger, the guns' ammo capacity is increased by 50%, their projectiles can bounce, and the size of the projectiles increase.",
+      "link": "/Synergies#Super_Serum"
+    }
+  ],
+  "Book of Chest Anatomy": [
+    {
+      "name": "Research",
+      "effect": "If the player also has Lower Case r, it spells out the words CHEST and MIMIC, and the gun can unlock chests.",
+      "link": "/Synergies#Research"
+    }
+  ],
+  "Gun Soul": [
+    {
+      "name": "Crestfallen Soul",
+      "effect": "If the player also has Crestfaller, dodge roll speed is increased by 20% and Crestfaller deals 50% more damage if the player dies and has not yet retrieved their soul.",
+      "link": "/Synergies#Crestfallen_Soul"
+    },
+    {
+      "name": "Praise the Gun",
+      "effect": "If the player has Old Knight's Flask, a bonfire spawns in every shop and elevator to the next floor. If the player dies, they will respawn at the last bonfire they activated instead of at the start of the floor. Additionally, dodge roll recovery time is reduced.",
+      "link": "/Synergies#Praise_the_Gun"
+    },
+    {
+      "name": "\\o/",
+      "effect": "If the player also has Sunlight Javelin, when Sunlight Javelin hits an enemy, it will spawn a circular zone that ignites all enemies within it.",
+      "link": "/Synergies#.5Co.2F"
+    }
+  ],
+  "Shelleton Key": [
+    {
+      "name": "Akey Breaky",
+      "effect": "If the player has the AKEY",
+      "link": "/Synergies#Akey_Breaky"
+    },
+    {
+      "name": "Key Witness",
+      "effect": "If the player has Master of Unlocking, guns will periodically fire an AKEY",
+      "link": "/Synergies#Key_Witness"
+    },
+    {
+      "name": "Shell-A-Ton",
+      "effect": "If the player has Baby Good Shelleton, Baby Good Shelleton moves and shoots much faster.",
+      "link": "/Synergies#Shell-A-Ton"
+    }
+  ],
+  "Brick of Cash": [
+    {
+      "name": "Cash Rules Everygun Around Me",
+      "effect": "If the player has Briefcase of Cash, firing any gun occasionally fires money which charms enemies.",
+      "link": "/Synergies#Cash_Rules_Everygun_Around_Me"
+    }
+  ],
+  "Wingman": [
+    {
+      "name": "Pilot Wingsman",
+      "effect": "If the player also has Alien Engine, Wingman's sprite will become blue and will fire 4 missiles at a time.",
+      "link": "/Synergies#Pilot_Wingsman"
+    }
+  ],
+  "Wolf": [
+    {
+      "name": "I need scissors! 61!",
+      "effect": "If the player also has Trank Gun, the gun changes appearance and its bullets will inflict slow.",
+      "link": "/Synergies#I_need_scissors.21_61.21"
+    },
+    {
+      "name": "The Red Hood",
+      "effect": "If the player has Huntsman, while Huntsman is held, the Wolf's attacks will significantly weaken enemies.",
+      "link": "/Synergies#The_Red_Hood"
+    },
+    {
+      "name": "Sniper Woof",
+      "effect": "If the player also has Sniper Rifle, A.W.P., Hexagun, M1 or Bow, reduces reload times of the gun by 30% and standing still for long enough (1 second) causes the player to glow yellow, which boosts the damage of the gun by 50%. Sniper Shells also become allies when active.",
+      "link": "/Synergies#Sniper_Woof"
+    },
+    {
+      "name": "Tea For Two",
+      "effect": "If the player also has Teapot, while reloading the Teapot, a small red aura will appear around the Wolf. Every enemy in this aura will be ignited.",
+      "link": "/Synergies#Tea_For_Two"
+    }
+  ],
+  "Owl": [
+    {
+      "name": "Don't Hoot the Messenger",
+      "effect": "If the player also has Dungeon Eagle, halves time required to fire a charged shot with the Dungeon Eagle.",
+      "link": "/Synergies#Don.27t_Hoot_the_Messenger"
+    },
+    {
+      "name": "Special Delivery",
+      "effect": "If the player has Bundle of Wands, Witch Pistol, Hexagun, or Staff of Firepower, the gun's and Owl's shots bounce, and Owl turns skeletal and fires letters at enemies.\nWith this synergy, quickly switching between a synergy gun and a non",
+      "link": "/Synergies#Special_Delivery"
+    },
+    {
+      "name": "The Elephant in the Room",
+      "effect": "If the player has Elephant Gun, it becomes an elephant head and shoots elephants instead of bullets.",
+      "link": "/Synergies#The_Elephant_in_the_Room"
+    }
+  ],
+  "Super Space Turtle": [
+    {
+      "name": "The Elephant in the Room",
+      "effect": "If the player has Elephant Gun, it becomes an elephant head and shoots elephants instead of bullets.",
+      "link": "/Synergies#The_Elephant_in_the_Room"
+    },
+    {
+      "name": "Super Space Turtle DX",
+      "effect": "If the player also has Yellow Chamber, Super Space Turtle becomes jammed, firing piercing shots with higher damage.",
+      "link": "/Synergies#Super_Space_Turtle_DX"
+    },
+    {
+      "name": "Tea For Two",
+      "effect": "If the player has Teapot, when reloading the Teapot, small, red aura will appear around the Super Space Turtle. Every enemy in this aura will be ignited.",
+      "link": "/Synergies#Tea_For_Two"
+    },
+    {
+      "name": "Turtle Solutions",
+      "effect": "If the player has Turtle Problem, on room clear the player gets another Super Space Turtle, up to a maximum of 4.",
+      "link": "/Synergies#Turtle_Solutions"
+    }
+  ],
+  "Junk": [
+    {
+      "name": "Grouch",
+      "effect": "Junk increases the damage of the Trashcannon by 25%. This effect does not stack with multiple Junk.",
+      "link": "/Synergies#Grouch"
+    }
+  ],
+  "Lies": [
+    {
+      "name": "Betrayer's Lies",
+      "effect": "If the player has Betrayer's Shield, it gains infinite ammo, a much larger magazine size, increased accuracy, and extremely high fire rate.",
+      "link": "/Synergies#Betrayer.27s_Lies"
+    },
+    {
+      "name": "Wicked Sister",
+      "effect": "If the player also has Magnum, Magnum gets 200 max ammo and a knife on the front of the gun that will block bullets when reloading.",
+      "link": "/Synergies#Wicked_Sister"
+    }
+  ],
+  "Ser Junkan": [
+    {
+      "name": "Tea For Two",
+      "effect": "If the player also has Teapot, while reloading the Teapot, a small red aura will appear around Junkan. Every enemy in this aura will be ignited.",
+      "link": "/Synergies#Tea_For_Two"
+    }
+  ],
+  "R2G2": [
+    {
+      "name": "Battery Powered",
+      "effect": "If the player has Shock Rifle, it automatically regenerates ammo over time.",
+      "link": "/Synergies#Battery_Powered"
+    },
+    {
+      "name": "Tea For Two",
+      "effect": "If the player has the Teapot, a small red aura will appear around the R2G2, when the player reloads the Teapot. Every enemy in this aura will be ignited.",
+      "link": "/Synergies#Tea_For_Two"
+    }
+  ],
+  "Baby Good Shelleton": [
+    {
+      "name": "Birthright",
+      "effect": "If the player also has Shellegun, when the gun is held, the companion will alternate between its laser and a wide",
+      "link": "/Synergies#Birthright"
+    },
+    {
+      "name": "Shell-A-Ton",
+      "effect": "If the player has Shelleton Key, Baby Good Shelleton moves and shoots much faster.",
+      "link": "/Synergies#Shell-A-Ton"
+    },
+    {
+      "name": "Tea For Two",
+      "effect": "If the player also has Teapot, the companion will have Teapot's AoE effect while reloading.",
+      "link": "/Synergies#Tea_For_Two"
+    }
+  ],
+  "Badge": [
+    {
+      "name": "Detective Mode",
+      "effect": "If the player has 38 Special, its maximum ammo is increased, its reload time is halved, and its damage is increased by 20%. The police officer will also show the contents of nearby chests while 38 Special is held.",
+      "link": "/Synergies#Detective_Mode"
+    },
+    {
+      "name": "Tea For Two",
+      "effect": "If the player also has Teapot, while reloading the Teapot, a small red aura will appear around the officer. Every enemy in this aura will be ignited.",
+      "link": "/Synergies#Tea_For_Two"
+    },
+    {
+      "name": "To Serve Android",
+      "effect": "If the player has Full Metal Jacket, Mass Shotgun, The Judge, Bionic Leg, Deck4rd, or Grasschopper, the police officer turns into a robot and becomes invincible.",
+      "link": "/Synergies#To_Serve_Android"
+    }
+  ],
+  "Chicken Flute": [
+    {
+      "name": "Bullet or the Egg",
+      "effect": "If the player has The Scrambler, its shots become larger and split into 10 seekers instead of 5.",
+      "link": "/Synergies#Bullet_or_the_Egg"
+    },
+    {
+      "name": "The Elephant in the Room",
+      "effect": "If the player has Elephant Gun, it becomes an elephant head and shoots elephants instead of bullets.",
+      "link": "/Synergies#The_Elephant_in_the_Room"
+    },
+    {
+      "name": "Tea For Two",
+      "effect": "If the player also has Teapot, while reloading the Teapot, a small red aura will appear around the chicken. Every enemy in this aura will be ignited.",
+      "link": "/Synergies#Tea_For_Two"
+    }
+  ],
+  "Space Friend": [
+    {
+      "name": "RAIDEN",
+      "effect": "If the player also has Raiden Coil, its maximum ammo is increased by 25%, it will fire pairs of bullets alongside its laser, and its ammo consumption is significantly reduced.",
+      "link": "/Synergies#RAIDEN"
+    },
+    {
+      "name": "Space Best Friend",
+      "effect": "If the player also has Alien Engine, Space Friend will turn blue and fire its lasers at a much faster rate.",
+      "link": "/Synergies#Space_Best_Friend"
+    }
+  ],
+  "Pig": [
+    {
+      "name": "Bacon and Eggs",
+      "effect": "If the player also has The Scrambler, its shot speed is increased by 50%.",
+      "link": "/Synergies#Bacon_and_Eggs"
+    },
+    {
+      "name": "The Elephant in the Room",
+      "effect": "If the player has Elephant Gun, it becomes an elephant head and shoots elephants instead of bullets.",
+      "link": "/Synergies#The_Elephant_in_the_Room"
+    },
+    {
+      "name": "Hyper Beam",
+      "effect": "If the player has Heroine, when Pig dies, Heroine's ammo is fully refilled and it temporarily switches to Hyper Beam mode, where uncharged shots deal 80 damage and charged shots deal 160 damage. Heroine will automatically revert to its original form after 30 seconds.",
+      "link": "/Synergies#Hyper_Beam"
+    },
+    {
+      "name": "The Line Of Fire",
+      "effect": "If the player has Composite Gun, its shots leave a trail of fire.",
+      "link": "/Synergies#The_Line_Of_Fire"
+    },
+    {
+      "name": "Porkulent",
+      "effect": "If the player has Ring of Miserly Protection, purchases will not destroy the ring.",
+      "link": "/Synergies#Porkulent"
+    },
+    {
+      "name": "The Return",
+      "effect": "If the player has T",
+      "link": "/Synergies#The_Return"
+    },
+    {
+      "name": "Tea For Two",
+      "effect": "If the player also has Teapot, when reloading the teapot, a small red aura will appear around the pig. Every enemy in this aura will be ignited.",
+      "link": "/Synergies#Tea_For_Two"
+    }
+  ],
+  "Turkey": [
+    {
+      "name": "The Elephant in the Room",
+      "effect": "If the player has Elephant Gun, it becomes an elephant head and shoots elephants instead of bullets.",
+      "link": "/Synergies#The_Elephant_in_the_Room"
+    },
+    {
+      "name": "Tea For Two",
+      "effect": "If the player also has Teapot, while reloading the Teapot, a small red aura will appear around the turkey. Every enemy in this aura will be ignited.",
+      "link": "/Synergies#Tea_For_Two"
+    }
+  ],
+  "Turtle Problem": [
+    {
+      "name": "Turtle Solutions",
+      "effect": "If the player has Super Space Turtle, each room clear will add another Super Space Turtle to a maximum of 4. These Super Space Turtles will no longer block bullets or collide with enemies. Dropping either item removes all active turtles.\nIf the player also has Yellow Chamber the spawned turtles will be jammed",
+      "link": "/Synergies#Turtle_Solutions"
+    }
+  ],
+  "Baby Good Mimic": [
+    {
+      "name": "Tea For Two",
+      "effect": "If the player also has Teapot, while reloading the Teapot, a small red aura will appear around Baby Good Mimic. Every enemy in this aura will be ignited.",
+      "link": "/Synergies#Tea_For_Two"
+    }
+  ],
+  "Blank Companion's Ring": [
+    {
+      "name": "Blank Generation",
+      "effect": "If the player has Elder Blank, the companion becomes a smaller version of Old Red, and will automatically fire a second blank after Elder Blank's effect ends.",
+      "link": "/Synergies#Blank_Generation"
+    },
+    {
+      "name": "Keep The Change",
+      "effect": "If the player has M16, the companion will occasionally trigger a blank upon shooting the last bullet in a magazine of the M16.",
+      "link": "/Synergies#Keep_The_Change"
+    }
+  ],
+  "Briefcase of Cash": [
+    {
+      "name": "Cash Rules Everygun Around Me",
+      "effect": "If the player has Brick of Cash, firing any gun occasionally fires money which charms enemies.",
+      "link": "/Synergies#Cash_Rules_Everygun_Around_Me"
+    }
+  ],
+  "Galactic Medal of Valor": [
+    {
+      "name": "Decorated",
+      "effect": "If the player also has Hegemony Carbine, the gun shoots three bullets for every shot fired.",
+      "link": "/Synergies#Decorated"
+    },
+    {
+      "name": "Hegemony Special Forces",
+      "effect": "If the player also has Hegemony Rifle, the gun's bullets are replaced with piercing lasers.",
+      "link": "/Synergies#Hegemony_Special_Forces"
+    }
+  ],
+  "Bullet Idol": [
+    {
+      "name": "Critcaliber",
+      "effect": "If the player also has Vorpal Gun, after taking damage with the gun held, the next Vorpal Gun shot is guaranteed to be a critical shot.",
+      "link": "/Synergies#Critcaliber"
+    },
+    {
+      "name": "Devil's Plaything",
+      "effect": "If the player also has Armor of Thorns, Bullet Idol orbits the player, blocking enemy shots. Any enemy shots blocked by Bullet Idol cause damage to every enemy in the room.",
+      "link": "/Synergies#Devil.27s_Plaything"
+    },
+    {
+      "name": "Just Like The Real Thing",
+      "effect": "If the player also has Shotgrub, Shotgrub's bullets will behave like those of the Shotgrub enemy, splitting into wavy bullets upon hitting a wall or enemy.",
+      "link": "/Synergies#Just_Like_The_Real_Thing"
+    }
+  ],
+  "Riddle of Lead": [
+    {
+      "name": "Liches Get Stitches",
+      "effect": "If the player has Lichy Trigger Finger, killing an enemy grants a temporary fire rate boost, signified by a green arrow above the player's head like those above enemies buffed by a Gunsinger.",
+      "link": "/Synergies#Liches_Get_Stitches"
+    }
+  ],
+  "Bracket Key": [
+    {
+      "name": "Hacker",
+      "effect": "If the player also has Lower Case r, its damage is increased by 25%.",
+      "link": "/Synergies#Hacker"
+    },
+    {
+      "name": "Square Brace",
+      "effect": "If the player also has Polaris, it gains 20% increased damage, higher ammo capacity and magazine size, faster fire rate, and a new appearance.",
+      "link": "/Synergies#Square_Brace"
+    }
+  ],
+  "Elder Blank": [
+    {
+      "name": "Blank Generation",
+      "effect": "If the player has Blank Companion's Ring, the companion becomes a smaller version of Old Red and will automatically fire a second blank after Elder Blank's effect ends.",
+      "link": "/Synergies#Blank_Generation"
+    },
+    {
+      "name": "Bullet Kiln",
+      "effect": "If the player also has The Kiln or Luxin Cannon, Elder Blank creates a Glass Guon Stone, up to a maximum of four.",
+      "link": "/Synergies#Bullet_Kiln"
+    },
+    {
+      "name": "Elder Blank Bullets",
+      "effect": "If the player also has Blank Bullets the blank effect reflects all projectiles instead of deleting them.",
+      "link": "/Synergies#Elder_Blank_Bullets"
+    }
+  ],
+  "Teleporter Prototype": [
+    {
+      "name": "Production Model",
+      "effect": "If the player also has Prototype Railgun, its shots can ricochet up to five times.",
+      "link": "/Synergies#Production_Model"
+    },
+    {
+      "name": "Second Accident",
+      "effect": "If the player also has Shotbow, its firing pattern is changed to a line of nine arrows perpendicular to the direction the player is facing.",
+      "link": "/Synergies#Second_Accident"
+    },
+    {
+      "name": "Telefrag",
+      "effect": "If the player also has Chest Teleporter, if the Teleporter Prototype teleports the player into a room with enemies, all enemies in the room will be killed instantly. If it teleports the player to a special room, Teleporter Prototype's cooldown is decreased.",
+      "link": "/Synergies#Telefrag"
+    }
+  ],
+  "Yellow Chamber": [
+    {
+      "name": "Hellhole",
+      "effect": "If the player has Singularity, it spawns a hell portal that sucks enemies in and deals high damage.",
+      "link": "/Synergies#Hellhole"
+    },
+    {
+      "name": "Just Like The Real Thing",
+      "effect": "If the player has Shotgrub, it fires a wide spread of five bullets, which bounce back and split into waving bullets after hitting a wall, similar to the Shotgrub enemy's attack.",
+      "link": "/Synergies#Just_Like_The_Real_Thing"
+    },
+    {
+      "name": "Kaliber's Grip",
+      "effect": "If the player has Abyssal Tentacle, the Abyssal Tentacle will become gray and yellow, dealing more damage, as well as being able to latch onto two enemies.",
+      "link": "/Synergies#Kaliber.27s_Grip"
+    },
+    {
+      "name": "Kailber k'pow uboom k'bhang",
+      "effect": "If the player also has High Kaliber, the soul spawned by hitting an enemy with High Kaliber initially moves towards the player instead of away.",
+      "link": "/Synergies#Kailber_k.27pow_uboom_k.27bhang"
+    },
+    {
+      "name": "Kalibreath",
+      "effect": "If the player has Dragunfire, it and it's projectiles turn grey, it gains an increased rate of fire, and it gains notable knockback on enemies, but loses the piercing attribute.",
+      "link": "/Synergies#Kalibreath"
+    },
+    {
+      "name": "Pitch Perfect",
+      "effect": "If the player has Pitchfork, it fires green fireballs, setting enemies permanently aflame.",
+      "link": "/Synergies#Pitch_Perfect"
+    },
+    {
+      "name": "Super Space Turtle DX",
+      "effect": "If the player has Super Space Turtle, Super Space Turtle becomes jammed, firing piercing shots with higher damage.",
+      "link": "/Synergies#Super_Space_Turtle_DX"
+    }
+  ]
+}
