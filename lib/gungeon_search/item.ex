@@ -28,9 +28,7 @@ defmodule GungeonSearch.Item do
 
     query =
       from item in GungeonSearch.Item,
-        where:
-          ilike(item.name, ^query_string) or
-          ilike(item.quote, ^query_string)
+        where: ilike(item.name, ^query_string) or ilike(item.quote, ^query_string)
 
     GungeonSearch.Repo.all(query)
   end

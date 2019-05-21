@@ -2,14 +2,14 @@
   "Casey": [
     {
       "name": "Careful Iteration",
-      "effect": "If the player has Armor of Thorns, Shotgun Full of Hate, Nail Gun, or Eyepatch, Casey becomes spiked and fires a spread of 6 nails each time it is swung. When an enemy is hit with Casey they will become dark red and take damage over time.\nThese nails are affected by Shock Rounds.\nThis also changes the sound effect of \"readying\" Casey. This change also seems to be affected by Scattershot causing the new sound effect to multiply.",
+      "effect": "If the player has Armor of Thorns, Shotgun Full of Hate, Nail Gun, or Eyepatch, Casey becomes spiked and fires a spread of 6 nails each time it is swung. When an enemy is hit with Casey they will become dark red and take damage over time. These nails are affected by Shock Rounds. This also changes the sound effect of \"readying\" Casey. This change also seems to be affected by Scattershot causing the new sound effect to multiply.",
       "link": "/Synergies#Careful_Iteration"
     }
   ],
   "Pea Shooter": [
     {
       "name": "Greener Guon Stone",
-      "effect": "If the player also has Green Guon Stone, 20  appears whenever Green Guon Stone heals the player.",
+      "effect": "If the player also has Green Guon Stone, 20 shells appears whenever Green Guon Stone heals the player.",
       "link": "/Synergies#Greener_Guon_Stone"
     },
     {
@@ -202,7 +202,7 @@
     },
     {
       "name": "Square Brace",
-      "effect": "If the player also has Bracket Key or Bionic Leg, Polaris gains 20% increased damage, increased ammo capacity of 700, increased magazine size of 30, increased fire rate when leveled up, and a new appearance.\nThe distance between the two bullets that fire at level 2 is wider with this synergy.",
+      "effect": "If the player also has Bracket Key or Bionic Leg, Polaris gains 20% increased damage, increased ammo capacity of 700, increased magazine size of 30, increased fire rate when leveled up, and a new appearance. The distance between the two bullets that fire at level 2 is wider with this synergy.",
       "link": "/Synergies#Square_Brace"
     }
   ],
@@ -355,12 +355,12 @@
     },
     {
       "name": "Two Kinds of People",
-      "effect": "If the player also has Colt 1851, the Knight's Gun will always dig up something. The loot table is also modified, resulting in much better quality drops. See the talk page for drop rates.\nMost notably, the digging will always result in a drop, Bomb and Ice Bomb no longer drop. Armor and Glass Guon Stones drop at an increased rate.",
+      "effect": "If the player also has Colt 1851, the Knight's Gun will always dig up something. The loot table is also modified, resulting in much better quality drops. See the talk page for drop rates. Most notably, the digging will always result in a drop, Bomb and Ice Bomb no longer drop. Armor and Glass Guon Stones drop at an increased rate.",
       "link": "/Synergies#Two_Kinds_of_People"
     },
     {
       "name": "Shield Night",
-      "effect": "If the player also has Shield of the Maiden, reloading the gun will leave a shield on the floor, just like the Betrayer's Shield.\nIf the Knight's Gun is out of ammo, they can place a shield down about every second, and multiple shields can exist at the same time (they still decay, however).",
+      "effect": "If the player also has Shield of the Maiden, reloading the gun will leave a shield on the floor, just like the Betrayer's Shield. If the Knight's Gun is out of ammo, they can place a shield down about every second, and multiple shields can exist at the same time (they still decay, however).",
       "link": "/Synergies#Shield_Night"
     }
   ],
@@ -490,7 +490,7 @@
     },
     {
       "name": "The Void Corps",
-      "effect": "If the player has Void Core Cannon or Void Core Assault Rifle, whenever one of the guns is held, the others orbit the player. Reloading causes the orbiting gun(s) to fire towards the crosshair. This consumes no ammo from the orbiting weapons.\nIf the player uses Duct tape to attach a gun to one of the gun(s) that orbit, the orbiting gun will fire shots from both the original gun and the one taped to it.",
+      "effect": "If the player has Void Core Cannon or Void Core Assault Rifle, whenever one of the guns is held, the others orbit the player. Reloading causes the orbiting gun(s) to fire towards the crosshair. This consumes no ammo from the orbiting weapons. If the player uses Duct tape to attach a gun to one of the gun(s) that orbit, the orbiting gun will fire shots from both the original gun and the one taped to it.",
       "link": "/Synergies#The_Void_Corps"
     }
   ],
@@ -536,7 +536,7 @@
     },
     {
       "name": "Unbelievably Charming",
-      "effect": "If the player has Charming Rounds or Pink Guon Stone, the player is followed by a fairy that blocks bullets and displays the contents of chests when the gun is held.\nIf the player has Charming Rounds, all Shotgun Full of Love shots are guaranteed to charm enemies.",
+      "effect": "If the player has Charming Rounds or Pink Guon Stone, the player is followed by a fairy that blocks bullets and displays the contents of chests when the gun is held. If the player has Charming Rounds, all Shotgun Full of Love shots are guaranteed to charm enemies.",
       "link": "/Synergies#Unbelievably_Charming"
     }
   ],
@@ -732,7 +732,7 @@
   "Charmed Bow": [
     {
       "name": "Unbelievably Charming",
-      "effect": "If the player also has Charming Rounds or Pink Guon Stone, while Charmed Bow is held, the player is followed by a fairy that blocks bullets and displays the contents of chests.\nIf the player has Charming Rounds, all Charmed Bow shots (including uncharged shots) are guaranteed to charm enemies.",
+      "effect": "If the player also has Charming Rounds or Pink Guon Stone, while Charmed Bow is held, the player is followed by a fairy that blocks bullets and displays the contents of chests. If the player has Charming Rounds, all Charmed Bow shots (including uncharged shots) are guaranteed to charm enemies.",
       "link": "/Synergies#Unbelievably_Charming"
     }
   ],
@@ -1120,7 +1120,7 @@
   "Sniper Rifle": [
     {
       "name": "360 Yes Scope",
-      "effect": "If the player also has Scope, spinning 360 degrees before firing provides a 3 second buff that makes the next shot deal 50% more damage.\nThis can be activated multiple times, providing a stacking 1.5x damage multiplier for each spin.",
+      "effect": "If the player also has Scope, spinning 360 degrees before firing provides a 3 second buff that makes the next shot deal 50% more damage. This can be activated multiple times, providing a stacking 1.5x damage multiplier for each spin.",
       "link": "/Synergies#360_Yes_Scope"
     },
     {
@@ -1137,7 +1137,7 @@
   "A.W.P.": [
     {
       "name": "360 Yes Scope",
-      "effect": "If the player also has Scope, spinning 360 degrees before firing grants a 3 second buff that makes the next shot deal 50% more damage.\nThis can be activated multiple times, providing a stacking 1.5x damage multiplier for each spin.\nOrange Guon Stone shots will break the buff without boosting the shot from the Guon Stone.",
+      "effect": "If the player also has Scope, spinning 360 degrees before firing grants a 3 second buff that makes the next shot deal 50% more damage. This can be activated multiple times, providing a stacking 1.5x damage multiplier for each spin. Orange Guon Stone shots will break the buff without boosting the shot from the Guon Stone.",
       "link": "/Synergies#360_Yes_Scope"
     },
     {
@@ -1186,7 +1186,7 @@
   "Winchester Rifle": [
     {
       "name": "Diazepam",
-      "effect": "Muscle Relaxant increases this gun's damage by 50%.\nPrior to the Supply Drop Update, Muscle Relaxant tripled this gun's damage.",
+      "effect": "Muscle Relaxant increases this gun's damage by 50%. Prior to the Supply Drop Update, Muscle Relaxant tripled this gun's damage.",
       "link": "/Synergies#Diazepam"
     },
     {
@@ -1270,7 +1270,7 @@
     },
     {
       "name": "Spartan Loadout",
-      "effect": "If the player has Cat Claw, Alien Sidearm can be charged twice to fire a more powerful shot. Cat Claw pierces enemies, attaching its explosive to every enemy hit.\nIf player has both  Spartan Loadout and  Chief Master,  Chief Master takes precedence.",
+      "effect": "If the player has Cat Claw, Alien Sidearm can be charged twice to fire a more powerful shot. Cat Claw pierces enemies, attaching its explosive to every enemy hit. If player has both  Spartan Loadout and  Chief Master,  Chief Master takes precedence.",
       "link": "/Synergies#Spartan_Loadout"
     }
   ],
@@ -1332,7 +1332,7 @@
     },
     {
       "name": "The Void Corps",
-      "effect": "If the player has Void Core Cannon or Void Shotgun, whenever one of the guns is held, the others orbit the player. Reloading causes the orbiting gun(s) to fire towards the crosshair. This does not consume the ammo of the orbiting weapons.\nIf the player uses Duct tape to attach a gun to one of the gun(s) that orbit, the orbiting gun will fire shots from both the original gun and the one taped to it.",
+      "effect": "If the player has Void Core Cannon or Void Shotgun, whenever one of the guns is held, the others orbit the player. Reloading causes the orbiting gun(s) to fire towards the crosshair. This does not consume the ammo of the orbiting weapons. If the player uses Duct tape to attach a gun to one of the gun(s) that orbit, the orbiting gun will fire shots from both the original gun and the one taped to it.",
       "link": "/Synergies#The_Void_Corps"
     }
   ],
@@ -1520,7 +1520,7 @@
   "RPG": [
     {
       "name": "Anti-Aircraft",
-      "effect": "If the player has Flak Bullets, rockets spawn seven homing flak bullets on impact.\nIf the player also has Roll Bomb, it will split into seven homing roll bombs when the RPG is equipped; however, they cannot actually hit enemies.",
+      "effect": "If the player has Flak Bullets, rockets spawn seven homing flak bullets on impact. If the player also has Roll Bomb, it will split into seven homing roll bombs when the RPG is equipped; however, they cannot actually hit enemies.",
       "link": "/Synergies#Anti-Aircraft"
     },
     {
@@ -1535,7 +1535,7 @@
     },
     {
       "name": "that &^#$# 'pizza'",
-      "effect": "If the player also has Machine Fist, RPG's rockets are replaced with a rocket fist that can be guided, and Machine Fist's bullets can bounce twice.\nIf the player has both the Laser Sight and Machine Fist, the guiding is prioritized.",
+      "effect": "If the player also has Machine Fist, RPG's rockets are replaced with a rocket fist that can be guided, and Machine Fist's bullets can bounce twice. If the player has both the Laser Sight and Machine Fist, the guiding is prioritized.",
       "link": "/Synergies#that_.26.5E.23.24.23_.27pizza.27"
     }
   ],
@@ -1602,7 +1602,7 @@
     },
     {
       "name": "Super Bomberpal",
-      "effect": "If the player has Ice Bomb, Lil' Bomber fires two bombs instead of one, charges twice as fast, and has 20% lower reload time.\nIf a Lil' Bomber with the  Super Bomberpal synergy is the base gun used to duct tape two guns together, all projectiles fired from the result of the duct taped guns will be from the Lil' Bomber.",
+      "effect": "If the player has Ice Bomb, Lil' Bomber fires two bombs instead of one, charges twice as fast, and has 20% lower reload time. If a Lil' Bomber with the  Super Bomberpal synergy is the base gun used to duct tape two guns together, all projectiles fired from the result of the duct taped guns will be from the Lil' Bomber.",
       "link": "/Synergies#Super_Bomberpal"
     }
   ],
@@ -1616,7 +1616,7 @@
   "Void Core Cannon": [
     {
       "name": "The Void Corps",
-      "effect": "If the player has Void Core Assault Rifle or Void Shotgun, whenever one of the guns is held, the others orbit the player. Reloading causes the orbiting gun(s) to fire towards the crosshair. If the player has all three guns, the guns that aren't being used will orbit the player. This does not consume ammo from the orbiting guns.\nIf the player uses Duct tape to attach a gun to one of the gun(s) that orbit, the orbiting gun will fire shots from both the original gun and the one taped to it.",
+      "effect": "If the player has Void Core Assault Rifle or Void Shotgun, whenever one of the guns is held, the others orbit the player. Reloading causes the orbiting gun(s) to fire towards the crosshair. If the player has all three guns, the guns that aren't being used will orbit the player. This does not consume ammo from the orbiting guns. If the player uses Duct tape to attach a gun to one of the gun(s) that orbit, the orbiting gun will fire shots from both the original gun and the one taped to it.",
       "link": "/Synergies#The_Void_Corps"
     }
   ],
@@ -1645,7 +1645,7 @@
     },
     {
       "name": "Special Delivery",
-      "effect": "If the player has Owl, the gun's and Owl's shots bounce, and Owl turns skeletal and fires letters at enemies.\nWith this synergy, quickly switching between a synergy gun and a non",
+      "effect": "If the player has Owl, the gun's and Owl's shots bounce, and Owl turns skeletal and fires letters at enemies. With this synergy, quickly switching between a synergy gun and a non",
       "link": "/Synergies#Special_Delivery"
     }
   ],
@@ -1720,7 +1720,7 @@
     },
     {
       "name": "Tea for Two",
-      "effect": "If the player has any familiar (including Ser Junkan, Wolf, Turkey, Clown Mask, Chicken Flute, Baby Good Mimic, Baby Good Shelleton, Pig, R2G2, Super Space Turtle, Blank Companion's Ring, or Badge), the familiar will have the AoE effect while reloading.\nWhile the Dog will not activate this synergy, it will gain the AoE effect if another familiar activates it.",
+      "effect": "If the player has any familiar (including Ser Junkan, Wolf, Turkey, Clown Mask, Chicken Flute, Baby Good Mimic, Baby Good Shelleton, Pig, R2G2, Super Space Turtle, Blank Companion's Ring, or Badge), the familiar will have the AoE effect while reloading. While the Dog will not activate this synergy, it will gain the AoE effect if another familiar activates it.",
       "link": "/Synergies#Tea_for_Two"
     }
   ],
@@ -1739,7 +1739,7 @@
   "Luxin Cannon": [
     {
       "name": "Bullet Kiln",
-      "effect": "If the player has Elder Blank, using it while Luxin Cannon is held gives one Glass Guon Stone, up to a maximum of four.\nUses of Elder Blank triggered by Full Metal Jacket do not grant a Glass Guon Stone.",
+      "effect": "If the player has Elder Blank, using it while Luxin Cannon is held gives one Glass Guon Stone, up to a maximum of four. Uses of Elder Blank triggered by Full Metal Jacket do not grant a Glass Guon Stone.",
       "link": "/Synergies#Bullet_Kiln"
     },
     {
@@ -2039,7 +2039,7 @@
   "Disintegrator": [
     {
       "name": "Weird Science",
-      "effect": "If the player also has Science Cannon, three Science Cannon beams branch off perpendicular to the Disintegrator's main beam.\nIf the player also has Singularity, shooting an upgraded Disintegrator beam at or near the black hole will cause a massive number of beams to split off in every direction.",
+      "effect": "If the player also has Science Cannon, three Science Cannon beams branch off perpendicular to the Disintegrator's main beam. If the player also has Singularity, shooting an upgraded Disintegrator beam at or near the black hole will cause a massive number of beams to split off in every direction.",
       "link": "/Synergies#Weird_Science"
     }
   ],
@@ -2179,7 +2179,7 @@
   "Light Gun": [
     {
       "name": "EGG MURDERER",
-      "effect": "If the player has The Scrambler, the duck will periodically shoot two Scrambler shots perpendicular to itself as it travels.\nFlak Bullets stops this synergy from working.",
+      "effect": "If the player has The Scrambler, the duck will periodically shoot two Scrambler shots perpendicular to itself as it travels. Flak Bullets stops this synergy from working.",
       "link": "/Synergies#EGG_MURDERER"
     },
     {
@@ -2313,14 +2313,14 @@
     },
     {
       "name": "Parchmental",
-      "effect": "If the player has picked up a Map at any point during the run, two planes are fired per shot. This lasts for the rest of the run even though the Map only lasts for one floor.\nSaving and quitting will remove this synergy unless another Map is picked up.",
+      "effect": "If the player has picked up a Map at any point during the run, two planes are fired per shot. This lasts for the rest of the run even though the Map only lasts for one floor. Saving and quitting will remove this synergy unless another Map is picked up.",
       "link": "/Synergies#Parchmental"
     }
   ],
   "The Kiln": [
     {
       "name": "Bullet Kiln",
-      "effect": "If the player has Elder Blank, using it while The Kiln is held gives one Glass Guon Stone, up to a maximum of four.\nThis does not work if Elder Blank is used by Full Metal Jacket.",
+      "effect": "If the player has Elder Blank, using it while The Kiln is held gives one Glass Guon Stone, up to a maximum of four. This does not work if Elder Blank is used by Full Metal Jacket.",
       "link": "/Synergies#Bullet_Kiln"
     },
     {
@@ -2452,7 +2452,7 @@
   "Betrayer's Shield": [
     {
       "name": "Betrayer's Lies",
-      "effect": "If the player has Lies, Betrayer's Shield gains infinite ammo, a much larger magazine size, increased accuracy, and extremely high fire rate. Like other guns with infinite ammo, it cannot reveal secret rooms.\n Betrayer's Lies can be combined with other guns using Duct Tape by dropping Lies, using Duct Tape, and picking up Lies again.\nHowever, using Duct Tape with a beam weapon such as Disintegrator will cause it to eventually run out of ammo. It can be refilled by simply dropping it and picking it up again.",
+      "effect": "If the player has Lies, Betrayer's Shield gains infinite ammo, a much larger magazine size, increased accuracy, and extremely high fire rate. Like other guns with infinite ammo, it cannot reveal secret rooms.  Betrayer's Lies can be combined with other guns using Duct Tape by dropping Lies, using Duct Tape, and picking up Lies again. However, using Duct Tape with a beam weapon such as Disintegrator will cause it to eventually run out of ammo. It can be refilled by simply dropping it and picking it up again.",
       "link": "/Synergies#Betrayer.27s_Lies"
     }
   ],
@@ -2664,7 +2664,7 @@
     },
     {
       "name": "The Powerhouse of the Cell",
-      "effect": "If the player also has Antibody, the Evolver evolves one stage.\nDeactivating the synergy by dropping Antibody will devolve Evolver one stage.\nDue to the ammo refill from evolving, dropping Antibody and picking it up again will give the player an unlimited supply of ammo for the Evolver.",
+      "effect": "If the player also has Antibody, the Evolver evolves one stage. Deactivating the synergy by dropping Antibody will devolve Evolver one stage. Due to the ammo refill from evolving, dropping Antibody and picking it up again will give the player an unlimited supply of ammo for the Evolver.",
       "link": "/Synergies#The_Powerhouse_of_the_Cell"
     }
   ],

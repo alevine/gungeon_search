@@ -1,2 +1,53 @@
 /* This file is for your main application css. */
 
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.results {
+  max-height: 73vh;
+  overflow: auto;
+  border: 0.1rem solid #d1d1d1;
+  padding-top: 1rem;
+  border-radius: 0.2rem;
+}
+
+.title {
+  text-align: center;
+  min-height: 90vh;
+  flex: 1;
+  margin-top: 1em;
+}
+
+.content-button {
+  width: inherit;
+}
+
+.content-preview {
+  image-rendering: pixelated;
+}
+
+footer {
+  text-align: center;
+  height: 2em;
+  line-height: 2em;
+}
+
+ul {
+  text-align: initial;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  max-height: inherit;
+  flex-direction: column;
+}
+
+li {
+  width: 75%;
+  text-align: center;
+}
+
+/*li:nth-child(even) {
+  background-color: lightgray;
+}*/

@@ -286,7 +286,7 @@
     },
     {
       "name": "MM6 Mini Rocket",
-      "effect": "If the player also has Jetpack, activating the Jetpack fires a rocket in the direction of the crosshair. This has a cooldown of about 5 seconds.\nThe rocket can be used to find secret rooms in shops as it does not anger Bello.",
+      "effect": "If the player also has Jetpack, activating the Jetpack fires a rocket in the direction of the crosshair. This has a cooldown of about 5 seconds. The rocket can be used to find secret rooms in shops as it does not anger Bello.",
       "link": "/Synergies#MM6_Mini_Rocket"
     },
     {
@@ -305,7 +305,7 @@
   "Scope": [
     {
       "name": "360 Yes Scope",
-      "effect": "While holding A.W.P. or Sniper Rifle, spinning 360 degrees before firing makes the shot deal 50% more damage.\nThe buff can activate any number of times, and each instance of the buff will last for 3 seconds, providing a stacking 1.5x damage multiplier for each instance.\nDue to a programming error, it will only activate for clockwise rotations and not counterclockwise rotations.",
+      "effect": "While holding A.W.P. or Sniper Rifle, spinning 360 degrees before firing makes the shot deal 50% more damage. The buff can activate any number of times, and each instance of the buff will last for 3 seconds, providing a stacking 1.5x damage multiplier for each instance. Due to a programming error, it will only activate for clockwise rotations and not counterclockwise rotations.",
       "link": "/Synergies#360_Yes_Scope"
     },
     {
@@ -604,7 +604,7 @@
     },
     {
       "name": "Friend to Gun and Bullet",
-      "effect": "If the player has +1 Bullets, while Potion of Gun Friendship is active, a copy of the player's current gun appears and automatically fires at nearby enemies.\nThe copy of the held gun fires faster than normal but with reduced damage, especially if it is a rifle",
+      "effect": "If the player has +1 Bullets, while Potion of Gun Friendship is active, a copy of the player's current gun appears and automatically fires at nearby enemies. The copy of the held gun fires faster than normal but with reduced damage, especially if it is a rifle",
       "link": "/Synergies#Friend_to_Gun_and_Bullet"
     }
   ],
@@ -717,7 +717,7 @@
     },
     {
       "name": "Friend to Gun and Bullet",
-      "effect": "If the player has Potion of Gun Friendship, while it is active, a copy of the player's current gun appears and automatically fires at nearby enemies.\nThe copy of the held gun fires faster than normal but with reduced damage, especially if it is a rifle",
+      "effect": "If the player has Potion of Gun Friendship, while it is active, a copy of the player's current gun appears and automatically fires at nearby enemies. The copy of the held gun fires faster than normal but with reduced damage, especially if it is a rifle",
       "link": "/Synergies#Friend_to_Gun_and_Bullet"
     },
     {
@@ -1128,7 +1128,7 @@
   "Blank Bullets": [
     {
       "name": "Elder Blank Bullets",
-      "effect": "If the player also has Elder Blank, the blank effect reflects all projectiles instead of deleting them.\nSwitch The game will crash if the Dragun’s Kunai are reflected.",
+      "effect": "If the player also has Elder Blank, the blank effect reflects all projectiles instead of deleting them. Switch The game will crash if the Dragun’s Kunai are reflected.",
       "link": "/Synergies#Elder_Blank_Bullets"
     }
   ],
@@ -1667,7 +1667,7 @@
     },
     {
       "name": "Knight Time",
-      "effect": "If the player has Ballistic Boots, Gunknight Greaves grants 2 armor instead of 1, and taking damage briefly stops time in a manner similar to the Aged Bell.\nThe Treadnaught can move its turrets and fire shots during this time, however bullets fired during this period won't move until after the time stop has ended.\nSome traps, like mine",
+      "effect": "If the player has Ballistic Boots, Gunknight Greaves grants 2 armor instead of 1, and taking damage briefly stops time in a manner similar to the Aged Bell. The Treadnaught can move its turrets and fire shots during this time, however bullets fired during this period won't move until after the time stop has ended. Some traps, like mine",
       "link": "/Synergies#Knight_Time"
     }
   ],
@@ -1872,7 +1872,7 @@
   "Ice Cube": [
     {
       "name": "Ice To Meet You",
-      "effect": "If the player also has Heart of Ice, firing with any gun will periodically fire a Heart of Ice projectile that splits and bounces. Like regular Heart of Ice projectiles, these projectiles can freeze water.\nThe probability of firing the ice projectile appears to be inversely proportional to the gun's fire rate.  Curiously, it will always fire if the player swings Blasphemy with full hearts.",
+      "effect": "If the player also has Heart of Ice, firing with any gun will periodically fire a Heart of Ice projectile that splits and bounces. Like regular Heart of Ice projectiles, these projectiles can freeze water. The probability of firing the ice projectile appears to be inversely proportional to the gun's fire rate.  Curiously, it will always fire if the player swings Blasphemy with full hearts.",
       "link": "/Synergies#Ice_To_Meet_You"
     },
     {
@@ -1889,7 +1889,7 @@
     },
     {
       "name": "Iroquois",
-      "effect": "If the player has MAC10, its reload time is decreased by 33%, its magazine size is increased by 50%, and its knockback is increased by 50%.\nIf one player on co",
+      "effect": "If the player has MAC10, its reload time is decreased by 33%, its magazine size is increased by 50%, and its knockback is increased by 50%. If one player on co",
       "link": "/Synergies#Iroquois"
     },
     {
@@ -2029,7 +2029,7 @@
     },
     {
       "name": "The Powerhouse of the Cell",
-      "effect": "If the player has Evolver, it evolves to its next stage.\nDue to the ammo refill from evolving, dropping Antibody and picking it up again will give the player an unlimited supply of ammo for the Evolver.",
+      "effect": "If the player has Evolver, it evolves to its next stage. Due to the ammo refill from evolving, dropping Antibody and picking it up again will give the player an unlimited supply of ammo for the Evolver.",
       "link": "/Synergies#The_Powerhouse_of_the_Cell"
     }
   ],
@@ -2812,7 +2812,7 @@
     },
     {
       "name": "Special Delivery",
-      "effect": "If the player has Bundle of Wands, Witch Pistol, Hexagun, or Staff of Firepower, the gun's and Owl's shots bounce, and Owl turns skeletal and fires letters at enemies.\nWith this synergy, quickly switching between a synergy gun and a non",
+      "effect": "If the player has Bundle of Wands, Witch Pistol, Hexagun, or Staff of Firepower, the gun's and Owl's shots bounce, and Owl turns skeletal and fires letters at enemies. With this synergy, quickly switching between a synergy gun and a non",
       "link": "/Synergies#Special_Delivery"
     },
     {
@@ -2996,7 +2996,7 @@
   "Turtle Problem": [
     {
       "name": "Turtle Solutions",
-      "effect": "If the player has Super Space Turtle, each room clear will add another Super Space Turtle to a maximum of 4. These Super Space Turtles will no longer block bullets or collide with enemies. Dropping either item removes all active turtles.\nIf the player also has Yellow Chamber the spawned turtles will be jammed",
+      "effect": "If the player has Super Space Turtle, each room clear will add another Super Space Turtle to a maximum of 4. These Super Space Turtles will no longer block bullets or collide with enemies. Dropping either item removes all active turtles. If the player also has Yellow Chamber the spawned turtles will be jammed",
       "link": "/Synergies#Turtle_Solutions"
     }
   ],

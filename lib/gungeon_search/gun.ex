@@ -20,6 +20,7 @@ defmodule GungeonSearch.Gun do
     field :shot_speed, :string
     field :spread, :string
     field :type, :string
+    field :synergies, {:array, {:map, :string}}
 
     timestamps()
   end
@@ -35,9 +36,7 @@ defmodule GungeonSearch.Gun do
 
     query =
       from gun in GungeonSearch.Gun,
-        where:
-          ilike(gun.name, ^query_string) or
-          ilike(gun.quote, ^query_string)
+        where: ilike(gun.name, ^query_string) or ilike(gun.quote, ^query_string)
 
     GungeonSearch.Repo.all(query)
   end
