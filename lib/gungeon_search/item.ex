@@ -13,6 +13,7 @@ defmodule GungeonSearch.Item do
     field :quality, {:array, :string}
     field :quote, :string
     field :type, :string
+    field :synergies, {:array, {:map, :string}}
 
     timestamps()
   end
@@ -36,7 +37,6 @@ defmodule GungeonSearch.Item do
   @doc false
   def changeset(item, attrs) do
     item
-    |> cast(attrs, [:name, :image, :type, :quote, :quality, :effect, :link])
-    |> validate_required([:name, :image, :type, :quote, :quality, :effect, :link])
+    |> cast(attrs, [:name, :image, :type, :quote, :quality, :effect, :link, :synergies])
   end
 end

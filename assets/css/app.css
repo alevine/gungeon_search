@@ -44,10 +44,6 @@ ul {
 }
 
 li {
-  width: 75%;
+  width: 50vw;
   text-align: center;
 }
-
-/*li:nth-child(even) {
-  background-color: lightgray;
-}*/

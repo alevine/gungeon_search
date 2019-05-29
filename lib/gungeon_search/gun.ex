@@ -58,8 +58,8 @@ defmodule GungeonSearch.Gun do
       :reload_time,
       :shot_speed,
       :spread,
-      :notes
+      :notes,
+      :synergies
     ])
-    |> validate_required([:name, :image, :type, :quote, :quality, :link, :notes])
   end
 end
