@@ -10,32 +10,11 @@ import css from '../css/app.css'
 // Import dependencies
 //
 import 'phoenix_html'
-import React from 'react'
-import { render } from 'react-dom'
-import axios from 'axios'
-import Search from './components/search'
+import 'react-phoenix'
+import GungeonSearch from "./components/gungeonSearch"
+import Gun from "./components/gun"
 
-class GungeonSearch extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-
-  render() {
-    return (
-      <div className="container">
-        <div className="title">
-          <label className="label">Search the Gungeon</label>
-          <Search />
-        </div>
-        <footer>
-          Aaron Levine
-        </footer>
-      </div>
-    );
-  }
+window.Components = {
+  GungeonSearch,
+  Gun
 }
-
-render(
-  <GungeonSearch />,
-  document.getElementById("app")
-)

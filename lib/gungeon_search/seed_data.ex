@@ -9,12 +9,19 @@ defmodule GungeonSearch.DatabaseSeeder do
   @item_synergy_path "/Users/alevine/Documents/gungeon_search/items-synergy-data.json"
   @guns_synergy_path "/Users/alevine/Documents/gungeon_search/guns-synergy-data.json"
 
+  @doc """
+    Reads content from a given JSON file path and decodes it with Poison.
+  """
   def get_content(path) do
     {:ok, content} = File.read(path)
 
     content |> Poison.decode!()
   end
 
+  @doc """
+    Inserts items/guns into the database. Currently paths to JSON files are
+    hardcoded, need to figure out relative paths in Elixir...
+  """
   def insert_items do
     Enum.map(get_content(@item_path), fn item ->
       %Item{} |> Item.changeset(item) |> Repo.insert!()
@@ -25,6 +32,12 @@ defmodule GungeonSearch.DatabaseSeeder do
     end)
   end
 
+  @doc """
+    Inserts synergies into the database. Should be ran after insert_items.
+    Searches for all items and guns based on the name from the synergy JSON
+    file, creates a changeset with their respective synergies, and updates
+    the entry.
+  """
   def insert_synergies do
     Enum.map(get_content(@item_synergy_path), fn synergy ->
       item_name = elem(synergy, 0)

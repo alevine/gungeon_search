@@ -43,7 +43,8 @@ defmodule GungeonSearch.MixProject do
       {:gettext, "~> 0.11"},
       {:jason, "~> 1.0"},
       {:plug_cowboy, "~> 2.0"},
-      {:poison, "~> 3.1"}
+      {:poison, "~> 3.1"},
+      {:react_phoenix, "~> 1.0.0"}
     ]
   end
 

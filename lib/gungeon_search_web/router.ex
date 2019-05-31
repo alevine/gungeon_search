@@ -17,6 +17,8 @@ defmodule GungeonSearchWeb.Router do
     pipe_through :browser
 
     get "/", HomeController, :index
+    get "/gun/:id", GunController, :show
+    get "/item/:id", ItemController, :show
   end
 
   scope "/api", GungeonSearchWeb do
