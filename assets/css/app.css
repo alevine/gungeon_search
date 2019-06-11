@@ -7,6 +7,8 @@
 
 .results {
   max-height: 73vh;
+  max-width: 70vw;
+  margin: auto;
   overflow: auto;
   border: 0.1rem solid #d1d1d1;
   padding-top: 1rem;
@@ -21,12 +23,35 @@
 }
 
 .content-button {
-  width: inherit;
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  font-size: 2vw;
+  font-weight: 100;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  color: darkslategrey;
+  border: 0.1rem solid darkslategrey;
 }
 
 .content-preview {
   image-rendering: pixelated;
+  height: 3vh;
 }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-areas: "Image Image info info" "Image Image info info" "Image Image synergies synergies";
+}
+
+.Image { grid-area: Image; }
+
+.info { grid-area: info; }
+
+.synergies { grid-area: synergies; }
 
 footer {
   text-align: center;
@@ -44,6 +69,6 @@ ul {
 }
 
 li {
-  width: 50vw;
+  width: 60vw;
   text-align: center;
 }
