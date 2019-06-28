@@ -11,29 +11,18 @@ class Gun extends Component {
     return (
       <div className="container">
         <label className="label">{this.gun.name}</label>
-        <div className="grid-container">
-          <div className="Image">
-            <img src={this.gun.image} />
-          </div>
-          <div className="info">
-            <ul>
-              <li key="damage">Damage: {this.gun.damage}</li>
-              <li key="ammo">Ammo Capacity: {this.gun.ammo_capacity}</li>
-              <li key="fire-rate">Fire Rate: {this.gun.fire_rate}</li>
-              <li key="quote">Quote: {this.gun.quote}</li>
-              <li key="type">Type: {this.gun.type}</li>
-            </ul>
-            <p>
-              Notes:
-              {this.gun.notes}
-            </p>
-          </div>
-          <div className="synergies">
-            <ul>
-              {this.gun.synergies.map((synergy) => <li key={`${synergy.name}`}>{synergy.name}</li>)}
-            </ul>
-          </div>
-        </div>
+        <a href="/">←</a>
+        <img className="detail-image" src={this.gun.image} />
+        <ul>
+          <li key="damage">Damage: {this.gun.damage}</li>
+          <li key="ammo">Ammo Capacity: {this.gun.ammo_capacity}</li>
+          <li key="fire-rate">Fire Rate: {this.gun.fire_rate}</li>
+          <li key="quote">Quote: {this.gun.quote}</li>
+          <li key="type">Type: {this.gun.type}</li>
+        </ul>
+        <ul>
+          {this.gun.synergies.map((synergy) => <li key={`${synergy.name}`}>{synergy.name}</li>)}
+        </ul>
       </div>
     );
   }

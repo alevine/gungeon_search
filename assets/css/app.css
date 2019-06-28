@@ -40,18 +40,10 @@
   height: 3vh;
 }
 
-.grid-container {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
-  grid-template-areas: "Image Image info info" "Image Image info info" "Image Image synergies synergies";
+.detail-image {
+  image-rendering: pixelated;
+  height: 20vh;
 }
-
-.Image { grid-area: Image; }
-
-.info { grid-area: info; }
-
-.synergies { grid-area: synergies; }
 
 footer {
   text-align: center;
