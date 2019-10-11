@@ -20,8 +20,6 @@ defmodule GungeonSearch.Item do
 
   @doc """
   Searches for an item based on the given `query_string`
-
-  Returns `[results]`
   """
   def search(query_string) do
     query_string = query_string |> String.downcase()

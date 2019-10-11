@@ -27,8 +27,6 @@ defmodule GungeonSearch.Gun do
 
   @doc """
   Searches for a gun based on the given `query_string`
-
-  Returns `[results]`
   """
   def search(query_string) do
     query_string = query_string |> String.downcase()

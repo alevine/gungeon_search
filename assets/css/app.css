@@ -41,8 +41,8 @@
 }
 
 .detail-image {
-  image-rendering: pixelated;
-  height: 20vh;
+  image-rendering: crisp-edges;
+  width: 20vh;
 }
 
 footer {

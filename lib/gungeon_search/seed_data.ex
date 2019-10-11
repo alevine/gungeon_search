@@ -6,8 +6,8 @@ defmodule GungeonSearch.DatabaseSeeder do
 
   @item_path "/Users/alevine/Documents/gungeon_search/items-data.json"
   @gun_path "/Users/alevine/Documents/gungeon_search/guns-data.json"
-  @item_synergy_path "/Users/alevine/Documents/gungeon_search/items-synergy-data.json"
-  @guns_synergy_path "/Users/alevine/Documents/gungeon_search/guns-synergy-data.json"
+  @item_synergy_path Path.expand("items-synergy-data.json") |> Path.absname
+  @guns_synergy_path Path.expand("guns-synergy-data.json") |> Path.absname
 
   @doc """
     Reads content from a given JSON file path and decodes it with Poison.

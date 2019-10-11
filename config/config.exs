@@ -12,6 +12,7 @@ config :gungeon_search,
 
 # Configures the endpoint
 config :gungeon_search, GungeonSearchWeb.Endpoint,
+  http: [:inet6, port: 4000],
   url: [host: "localhost"],
   secret_key_base: "nRMsEt+d4/ynzmui7aItkuVVilccM2djTlKtg5hBbO/LFEnlXSY74jrrdrTLRHQ9",
   render_errors: [view: GungeonSearchWeb.ErrorView, accepts: ~w(html json)],

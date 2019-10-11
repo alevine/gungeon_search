@@ -4,6 +4,8 @@ Import as:
   import { function_name } from 'utils'
 */
 
+export const SYNERGY_LINK = 'https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/d/de/Synergy.png?version=1f711a64cba5050db214669860d9d410'
+
 const QUALITY_OBJ = {
   "S": 'https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/8/8b/1S_Quality_Item.png?version=40a22e5d15d51edf8172d87fc8288f9f',
   "A": 'https://gamepedia.cursecdn.com/enterthegungeon_gamepedia/9/9c/A_Quality_Item.png?version=24c0812d903d9ffb91704eb9ec8c4e5b',
