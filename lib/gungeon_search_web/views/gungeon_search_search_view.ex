@@ -6,6 +6,6 @@ defmodule GungeonSearchWeb.SearchView do
   end
 
   def render("result.json", %{result: result}) do
-    Poison.encode!(result)
+    Jason.encode!(result)
   end
 end

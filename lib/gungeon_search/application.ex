@@ -10,6 +10,8 @@ defmodule GungeonSearch.Application do
     children = [
       # Start the Ecto repository
       GungeonSearch.Repo,
+      # Start the PubSub system
+      {Phoenix.PubSub, name: GungeonSearch.PubSub},
       # Start the endpoint when the application starts
       GungeonSearchWeb.Endpoint
       # Starts a worker by calling: GungeonSearch.Worker.start_link(arg)

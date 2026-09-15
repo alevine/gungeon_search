@@ -1,0 +1,34 @@
+[tools]
+erlang = "28.5"
+elixir = "1.20.4-otp-28"
+ruby = "4.0.6"
+
+[tasks.setup]
+description = "Install deps and set up the dev database"
+run = """
+mix local.hex --force
+mix local.rebar --force
+mix deps.get
+mix ecto.setup
+bundle install
+"""
+
+[tasks.server]
+description = "Run the Phoenix dev server"
+run = "mix phx.server"
+
+[tasks.test]
+description = "Run the Elixir test suite"
+run = "mix test"
+
+[tasks.seed]
+description = "Load scraped JSON data into the dev database"
+run = "mix gungeon.seed"
+
+[tasks.scrape]
+description = "Run the wiki scraper (guns, items, synergies)"
+run = "bundle exec bin/scraper all"
+
+[env]
+# Postgres itself is not mise-managed (no first-class server binary in the
+# core plugin set) - use your OS package or `docker compose up db`.

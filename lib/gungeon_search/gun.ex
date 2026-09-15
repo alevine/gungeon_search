@@ -3,7 +3,7 @@ defmodule GungeonSearch.Gun do
   import Ecto.Changeset
   import Ecto.Query
 
-  @derive [Poison.Encoder]
+  @derive Jason.Encoder
 
   schema "guns" do
     field :ammo_capacity, :string

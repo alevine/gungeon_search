@@ -3,7 +3,7 @@ defmodule GungeonSearch.Item do
   import Ecto.Changeset
   import Ecto.Query
 
-  @derive [Poison.Encoder]
+  @derive Jason.Encoder
 
   schema "items" do
     field :effect, :string

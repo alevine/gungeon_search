@@ -10,12 +10,12 @@ defmodule GungeonSearch.DatabaseSeeder do
   @guns_synergy_path "/Users/alevine/Documents/gungeon_search/guns-synergy-data.json"
 
   @doc """
-    Reads content from a given JSON file path and decodes it with Poison.
+    Reads content from a given JSON file path and decodes it with Jason.
   """
   def get_content(path) do
     {:ok, content} = File.read(path)
 
-    content |> Poison.decode!()
+    content |> Jason.decode!()
   end
 
   @doc """
@@ -43,6 +43,7 @@ defmodule GungeonSearch.DatabaseSeeder do
       item_name = elem(synergy, 0)
 
       query = from item in Item, where: like(item.name, ^item_name)
+
       GungeonSearch.Repo.all(query)
       |> Enum.map(fn item ->
         Ecto.Changeset.change(item, synergies: elem(synergy, 1)) |> Repo.update!()
@@ -53,6 +54,7 @@ defmodule GungeonSearch.DatabaseSeeder do
       gun_name = elem(synergy, 0)
 
       query = from gun in Gun, where: like(gun.name, ^gun_name)
+
       GungeonSearch.Repo.all(query)
       |> Enum.map(fn gun ->
         Ecto.Changeset.change(gun, synergies: elem(synergy, 1)) |> Repo.update!()

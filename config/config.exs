@@ -5,17 +5,19 @@
 # is restricted to this project.
 
 # General application configuration
-use Mix.Config
+import Config
 
 config :gungeon_search,
   ecto_repos: [GungeonSearch.Repo]
 
 # Configures the endpoint
 config :gungeon_search, GungeonSearchWeb.Endpoint,
+  adapter: Bandit.PhoenixAdapter,
   url: [host: "localhost"],
   secret_key_base: "nRMsEt+d4/ynzmui7aItkuVVilccM2djTlKtg5hBbO/LFEnlXSY74jrrdrTLRHQ9",
-  render_errors: [view: GungeonSearchWeb.ErrorView, accepts: ~w(html json)],
-  pubsub: [name: GungeonSearch.PubSub, adapter: Phoenix.PubSub.PG2]
+  render_errors: [view: GungeonSearchWeb.ErrorView, accepts: ~w(html json), layout: false],
+  pubsub_server: GungeonSearch.PubSub,
+  live_view: [signing_salt: "gs_live_view_salt"]
 
 # Configures Elixir's Logger
 config :logger, :console,
