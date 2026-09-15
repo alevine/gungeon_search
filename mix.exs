@@ -36,22 +36,17 @@ defmodule GungeonSearch.MixProject do
       {:phoenix, "~> 1.8"},
       {:phoenix_live_view, "~> 1.2"},
       {:phoenix_ecto, "~> 4.7"},
-      # TODO(liveview-migration): drop once controllers/Phoenix.View templates
-      # are replaced by LiveViews (plan step 4).
-      {:phoenix_view, "~> 2.0"},
       {:ecto_sql, "~> 3.14"},
       {:postgrex, "~> 0.22"},
       {:phoenix_html, "~> 4.3"},
-      # TODO(liveview-migration): drop with error_helpers.ex once forms move
-      # to LiveView/HEEx (plan step 4).
-      {:phoenix_html_helpers, "~> 1.0"},
       {:phoenix_live_reload, "~> 1.6", only: :dev},
       {:gettext, "~> 1.0"},
       {:jason, "~> 1.4"},
       {:bandit, "~> 1.12"},
       {:esbuild, "~> 0.10", runtime: Mix.env() == :dev},
       {:tailwind, "~> 0.5", runtime: Mix.env() == :dev},
-      {:credo, "~> 1.7", only: [:dev, :test], runtime: false}
+      {:credo, "~> 1.7", only: [:dev, :test], runtime: false},
+      {:lazy_html, ">= 0.1.0", only: :test}
     ]
   end
 
@@ -65,7 +60,14 @@ defmodule GungeonSearch.MixProject do
     [
       "ecto.setup": ["ecto.create", "ecto.migrate", "gungeon.seed"],
       "ecto.reset": ["ecto.drop", "ecto.setup"],
-      test: ["ecto.create --quiet", "ecto.migrate", "test"]
+      test: ["ecto.create --quiet", "ecto.migrate", "test"],
+      "assets.setup": ["esbuild.install --if-missing", "tailwind.install --if-missing"],
+      "assets.build": ["tailwind gungeon_search", "esbuild gungeon_search"],
+      "assets.deploy": [
+        "tailwind gungeon_search --minify",
+        "esbuild gungeon_search --minify",
+        "phx.digest"
+      ]
     ]
   end
 end

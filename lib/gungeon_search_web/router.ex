@@ -4,7 +4,8 @@ defmodule GungeonSearchWeb.Router do
   pipeline :browser do
     plug :accepts, ["html"]
     plug :fetch_session
-    plug :fetch_flash
+    plug :fetch_live_flash
+    plug :put_root_layout, html: {GungeonSearchWeb.Layouts, :root}
     plug :protect_from_forgery
     plug :put_secure_browser_headers
   end
@@ -16,9 +17,11 @@ defmodule GungeonSearchWeb.Router do
   scope "/", GungeonSearchWeb do
     pipe_through :browser
 
-    get "/", HomeController, :index
-    get "/gun/:id", GunController, :show
-    get "/item/:id", ItemController, :show
+    live_session :default do
+      live "/", HomeLive
+      live "/gun/:id", GunLive.Show
+      live "/item/:id", ItemLive.Show
+    end
   end
 
   scope "/api", GungeonSearchWeb do

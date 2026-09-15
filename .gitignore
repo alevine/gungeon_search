@@ -22,16 +22,11 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 gungeon_search-*.tar
 
-# If NPM crashes, it generates a log, let's ignore it too.
-npm-debug.log
-
-# The directory NPM downloads your dependencies sources to.
-/assets/node_modules/
-
-# Since we are building assets from assets/,
-# we ignore priv/static. You may want to comment
-# this depending on your deployment strategy.
-/priv/static/
+# esbuild/tailwind write bundled assets and the phx.digest cache manifest
+# here. Static files that aren't built (favicon, robots.txt, images/) live
+# directly under priv/static/ and are committed.
+/priv/static/assets/
+/priv/static/cache_manifest.json
 
 # Files matching config/*.secret.exs pattern contain sensitive
 # data and you should not commit them into version control.

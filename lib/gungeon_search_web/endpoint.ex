@@ -1,6 +1,18 @@
 defmodule GungeonSearchWeb.Endpoint do
   use Phoenix.Endpoint, otp_app: :gungeon_search
 
+  # The session will be stored in the cookie and signed,
+  # this means its contents can be read but not tampered with.
+  # Set :encryption_salt if you would also like to encrypt it.
+  @session_options [
+    store: :cookie,
+    key: "_gungeon_search_key",
+    signing_salt: "hg/CaclP",
+    same_site: "Lax"
+  ]
+
+  socket "/live", Phoenix.LiveView.Socket, websocket: [connect_info: [session: @session_options]]
+
   # Serve at "/" the static files from "priv/static" directory.
   #
   # You should set gzip to true if you are running phx.digest
@@ -9,7 +21,7 @@ defmodule GungeonSearchWeb.Endpoint do
     at: "/",
     from: :gungeon_search,
     gzip: false,
-    only: ~w(css fonts images js favicon robots.txt)
+    only: GungeonSearchWeb.static_paths()
 
   # Code reloading can be explicitly enabled under the
   # :code_reloader configuration of your endpoint.
@@ -30,13 +42,7 @@ defmodule GungeonSearchWeb.Endpoint do
   plug Plug.MethodOverride
   plug Plug.Head
 
-  # The session will be stored in the cookie and signed,
-  # this means its contents can be read but not tampered with.
-  # Set :encryption_salt if you would also like to encrypt it.
-  plug Plug.Session,
-    store: :cookie,
-    key: "_gungeon_search_key",
-    signing_salt: "hg/CaclP"
+  plug Plug.Session, @session_options
 
   plug GungeonSearchWeb.Router
 end

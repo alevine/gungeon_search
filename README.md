@@ -1,33 +1,50 @@
 # GungeonSearch
 
-A simple and quick search tool for Enter the Gungeon guns and items. Info on items & guns scraped from [the wikia page](http://enterthegungeon.gamepedia.com) for Enter the Gungeon using Nokogiri. Phoenix server with React frontend.
+A simple and quick fuzzy search tool for Enter the Gungeon guns, items, and
+their synergies. Data is scraped from the
+[Enter the Gungeon wiki](https://enterthegungeon.fandom.com/) with a Ruby
+scraper. Phoenix + LiveView server-rendered frontend, no separate JS
+frontend build.
 
 ## Current Progress
-- [x] Phoenix server
-- [x] Guns & Items inserted into DB
-- [x] Fuzzy search implemented
-- [x] Front end for search homepage
-- [ ] Front end for guns/items pages
 
-![GIF of progress](https://i.imgur.com/wUO5W0v.gif)
+- [x] Phoenix server
+- [x] Guns, items, and synergies normalized into the DB
+- [x] Fuzzy (trigram-ranked) search
+- [x] LiveView search homepage
+- [x] LiveView gun/item detail pages
 
 ## Running the App
 
-To start your Phoenix server:
+Tool versions (Elixir/Erlang/Ruby) are pinned via [mise](https://mise.jdx.dev/).
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Install Node.js dependencies with `cd assets && npm install`
-  * Start Phoenix endpoint with `mix phx.server`
-  
-TODO: Add information on how to use seed file with items/guns JSON files.
+  * Install pinned tools: `mise install`
+  * Install deps: `mix deps.get`
+  * Install/build JS+CSS assets: `mix assets.setup && mix assets.build`
+  * Create, migrate, and seed the database: `mix ecto.setup`
+  * Start the Phoenix endpoint: `mix phx.server`
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+Now visit [`localhost:4000`](http://localhost:4000).
+
+Postgres itself isn't mise-managed - use your OS package (with a `postgres`/`postgres`
+dev role, matching `config/dev.exs`) or run one via Docker.
+
+### Loading fresh data from the wiki
+
+The seed data under `priv/repo/data/*.json` was produced by the Ruby
+scraper (`bin/scraper`, see its own docs). To re-scrape and reload:
+
+```
+bundle install
+bundle exec bin/scraper all
+mix gungeon.seed
+```
+
+`mix gungeon.seed` is safe to re-run - guns/items/synergies are upserted,
+not blindly inserted.
 
 ## Learn more
 
-  * Official website: http://www.phoenixframework.org/
+  * Official website: https://www.phoenixframework.org/
   * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Mailing list: http://groups.google.com/group/phoenix-talk
-  * Source: https://github.com/phoenixframework/phoenix
+  * LiveView docs: https://hexdocs.pm/phoenix_live_view

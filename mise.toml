@@ -9,6 +9,7 @@ run = """
 mix local.hex --force
 mix local.rebar --force
 mix deps.get
+mix assets.setup
 mix ecto.setup
 bundle install
 """

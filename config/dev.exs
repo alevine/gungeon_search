@@ -2,15 +2,15 @@ import Config
 
 # For development, we disable any cache and enable
 # debugging and code reloading.
-#
-# TODO(liveview-migration): re-add esbuild/tailwind watchers here once the
-# webpack/React asset pipeline is replaced.
 config :gungeon_search, GungeonSearchWeb.Endpoint,
   http: [port: 4000],
   debug_errors: true,
   code_reloader: true,
   check_origin: false,
-  watchers: []
+  watchers: [
+    esbuild: {Esbuild, :install_and_run, [:gungeon_search, ~w(--sourcemap=inline --watch)]},
+    tailwind: {Tailwind, :install_and_run, [:gungeon_search, ~w(--watch)]}
+  ]
 
 # ## SSL Support
 #
@@ -42,8 +42,7 @@ config :gungeon_search, GungeonSearchWeb.Endpoint,
     patterns: [
       ~r"priv/static/.*(js|css|png|jpeg|jpg|gif|svg)$",
       ~r"priv/gettext/.*(po)$",
-      ~r"lib/gungeon_search_web/{live,views}/.*(ex)$",
-      ~r"lib/gungeon_search_web/templates/.*(eex)$"
+      ~r"lib/gungeon_search_web/(controllers|live|components)/.*(ex|heex)$"
     ]
   ]
 

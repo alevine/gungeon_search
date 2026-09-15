@@ -17,9 +17,11 @@ defmodule GungeonSearchWeb.ConnCase do
 
   using do
     quote do
-      # Import conveniences for testing with connections
-      use Phoenix.ConnTest
-      alias GungeonSearchWeb.Router.Helpers, as: Routes
+      # Import conveniences for testing with connections and LiveViews
+      import Plug.Conn
+      import Phoenix.ConnTest
+      import Phoenix.LiveViewTest
+      unquote(GungeonSearchWeb.verified_routes())
 
       # The default endpoint for testing
       @endpoint GungeonSearchWeb.Endpoint

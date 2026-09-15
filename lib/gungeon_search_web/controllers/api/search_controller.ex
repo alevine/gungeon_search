@@ -4,7 +4,6 @@ defmodule GungeonSearchWeb.SearchController do
   alias GungeonSearch.Catalog
 
   def show(conn, params) do
-    results = Catalog.search(params["query"])
-    render(conn, "show.json", results: results)
+    json(conn, Catalog.search(params["query"]))
   end
 end

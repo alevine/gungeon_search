@@ -1,20 +1,22 @@
-// We need to import the CSS so that webpack will load it.
-// The MiniCssExtractPlugin is used to separate it out into
-// its own CSS file.
-import css from '../css/app.css'
+// Include phoenix_html to handle method=PUT/DELETE and disable form submits on click
+import "phoenix_html"
+// Establish Phoenix Socket and LiveView configuration.
+import {Socket} from "phoenix"
+import {LiveSocket} from "phoenix_live_view"
+import topbar from "../vendor/topbar"
 
-// webpack automatically bundles all modules in your
-// entry points. Those entry points can be configured
-// in "webpack.config.js".
-//
-// Import dependencies
-//
-import 'phoenix_html'
-import 'react-phoenix'
-import GungeonSearch from "./components/gungeonSearch"
-import Gun from "./components/gun"
+let csrfToken = document.querySelector("meta[name='csrf-token']").getAttribute("content")
+let liveSocket = new LiveSocket("/live", Socket, {
+  longPollFallbackMs: 2500,
+  params: {_csrf_token: csrfToken}
+})
 
-window.Components = {
-  GungeonSearch,
-  Gun
-}
+// Show progress bar on live navigation and form submits
+topbar.config({barColors: {0: "#fbbf24"}, shadowColor: "rgba(0, 0, 0, .3)"})
+window.addEventListener("phx:page-loading-start", _info => topbar.show(300))
+window.addEventListener("phx:page-loading-stop", _info => topbar.hide())
+
+liveSocket.connect()
+
+// expose liveSocket on window for web console debug logs and latency simulation
+window.liveSocket = liveSocket
