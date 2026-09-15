@@ -1,10 +1,10 @@
 defmodule GungeonSearchWeb.SearchController do
   use GungeonSearchWeb, :controller
 
-  alias GungeonSearch.{Item, Gun}
+  alias GungeonSearch.Catalog
 
   def show(conn, params) do
-    results = Gun.search(params["query"]) ++ Item.search(params["query"])
+    results = Catalog.search(params["query"])
     render(conn, "show.json", results: results)
   end
 end

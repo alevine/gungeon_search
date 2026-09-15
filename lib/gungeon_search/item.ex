@@ -1,7 +1,6 @@
 defmodule GungeonSearch.Item do
   use Ecto.Schema
   import Ecto.Changeset
-  import Ecto.Query
 
   @derive Jason.Encoder
 
@@ -13,30 +12,16 @@ defmodule GungeonSearch.Item do
     field :quality, {:array, :string}
     field :quote, :string
     field :type, :string
-    field :synergies, {:array, {:map, :string}}
+
+    has_many :item_synergies, GungeonSearch.ItemSynergy
+    has_many :synergies, through: [:item_synergies, :synergy]
 
     timestamps()
-  end
-
-  @doc """
-  Searches for an item based on the given `query_string`
-
-  Returns `[results]`
-  """
-  def search(query_string) do
-    query_string = query_string |> String.downcase()
-    query_string = "%" <> query_string <> "%"
-
-    query =
-      from item in GungeonSearch.Item,
-        where: ilike(item.name, ^query_string) or ilike(item.quote, ^query_string)
-
-    GungeonSearch.Repo.all(query)
   end
 
   @doc false
   def changeset(item, attrs) do
     item
-    |> cast(attrs, [:name, :image, :type, :quote, :quality, :effect, :link, :synergies])
+    |> cast(attrs, [:name, :image, :type, :quote, :quality, :effect, :link])
   end
 end

@@ -1,7 +1,6 @@
 defmodule GungeonSearch.Gun do
   use Ecto.Schema
   import Ecto.Changeset
-  import Ecto.Query
 
   @derive Jason.Encoder
 
@@ -20,25 +19,11 @@ defmodule GungeonSearch.Gun do
     field :shot_speed, :string
     field :spread, :string
     field :type, :string
-    field :synergies, {:array, {:map, :string}}
+
+    has_many :gun_synergies, GungeonSearch.GunSynergy
+    has_many :synergies, through: [:gun_synergies, :synergy]
 
     timestamps()
-  end
-
-  @doc """
-  Searches for a gun based on the given `query_string`
-
-  Returns `[results]`
-  """
-  def search(query_string) do
-    query_string = query_string |> String.downcase()
-    query_string = "%" <> query_string <> "%"
-
-    query =
-      from gun in GungeonSearch.Gun,
-        where: ilike(gun.name, ^query_string) or ilike(gun.quote, ^query_string)
-
-    GungeonSearch.Repo.all(query)
   end
 
   @doc false
@@ -58,8 +43,7 @@ defmodule GungeonSearch.Gun do
       :reload_time,
       :shot_speed,
       :spread,
-      :notes,
-      :synergies
+      :notes
     ])
   end
 end

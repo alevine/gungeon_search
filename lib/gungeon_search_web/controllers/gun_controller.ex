@@ -1,11 +1,10 @@
 defmodule GungeonSearchWeb.GunController do
   use GungeonSearchWeb, :controller
 
-  alias GungeonSearch.Gun
-  alias GungeonSearch.Repo
+  alias GungeonSearch.Catalog
 
   def show(conn, params) do
-    gun = Repo.get_by(Gun, id: params["id"])
-    render(conn, "show.html", gun: gun)
+    gun = Catalog.get_gun!(params["id"])
+    render(conn, "show.html", gun: gun, synergies: Catalog.synergies_for(gun))
   end
 end
